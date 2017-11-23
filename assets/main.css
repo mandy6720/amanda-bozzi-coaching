@@ -1,0 +1,39 @@
+/* 
+POSSIBLE BRAND COLORS:
+
+eton blue #95c6b3
+light carmine pink #ef6f6c
+white #fff
+yankees blue #1c3144
+black shadows (light grey) #bab7ae
+
+*/
+
+@font-face {
+  font-family: Debby;
+  src: url(fonts/Debby.otf);
+}
+
+@font-face {
+  font-family: GrandHotel;
+  src: url(fonts/GrandHotel-Regular.otf);
+}
+
+@font-face {
+  font-family: KingBasil;
+  src: url(fonts/King-Basil-Lite.otf);
+}
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+  font-family: 'Source Sans Pro', sans-serif;  
+}
+
+.navbar {
+
+}
+
+.navbar-brand {
+  font-family: KingBasil;
+}
