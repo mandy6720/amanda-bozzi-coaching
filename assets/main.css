@@ -36,4 +36,9 @@ body {
 
 .navbar-brand {
   font-family: KingBasil;
+  margin-top: 5px;
+}
+
+.nav-item {
+  margin-right: 1.5em;
 }
