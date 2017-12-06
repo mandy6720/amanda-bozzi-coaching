@@ -6,14 +6,15 @@ import config from "../../data/SiteConfig";
 
 class Index extends React.Component {
   render() {
-    const postEdges = this.props.data.allMarkdownRemark.edges;
-    return (
-      <div className="index-container">
-        <Helmet title={config.siteTitle} />
-        <SEO postEdges={postEdges} />
-        <PostListing postEdges={postEdges} />
-      </div>
-    );
+    // const postEdges = this.props.data.allMarkdownRemark.edges;
+    // return (
+    //   <div className="index-container">
+    //     <Helmet title={config.siteTitle} />
+    //     <SEO postEdges={postEdges} />
+    //     <PostListing postEdges={postEdges} />
+    //   </div>
+    // );
+    return <div className="under-contruction">Under Construction - Please Come Back Soon!</div>
   }
 }
 
