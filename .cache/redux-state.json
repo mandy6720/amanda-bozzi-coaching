@@ -1,21 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js",
       "path": "/dev-404-page/",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2087e54fe0f898f5f0986e9a81aecf35",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1436,43 +1428,41 @@
           "copyright": "Copyright © 2017. Amanda Bozzi"
         }
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
-      "buildTime": "2017-12-06T14:13:17.935Z",
+      "buildTime": "2017-12-06T14:22:08.032Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ca34ce19f4e86417d9eb26f19ec645b6",
+        "contentDigest": "84a4727f3ae30b95a2d0061a948fbb92",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file",
       "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark"
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "34f41c459089216fbde4daed3c69cc06",
+        "contentDigest": "59e51d8533401820e912c63242f77902",
         "mediaType": "text/x-markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md",
-      "relativePath": "01-07-2017-Big_Sample_Post/index.md",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md",
+      "relativePath": "01-02-2017/index.md",
       "extension": "md",
-      "size": 10781,
-      "prettySize": "10.8 kB",
+      "size": 3108,
+      "prettySize": "3.11 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:13:20.816Z",
+      "accessTime": "2017-12-06T14:22:10.406Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1483,13 +1473,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706715,
-      "blocks": 24,
-      "atimeMs": 1512569600816.1462,
-      "mtimeMs": 1512389471433.9607,
-      "ctimeMs": 1512389471433.9607,
-      "birthtimeMs": 1512389471433.8787,
-      "atime": "2017-12-06T14:13:20.816Z",
+      "ino": 8591706711,
+      "blocks": 8,
+      "atimeMs": 1512570130405.6267,
+      "mtimeMs": 1512389471433.6018,
+      "ctimeMs": 1512389471433.6018,
+      "birthtimeMs": 1512389471433.5403,
+      "atime": "2017-12-06T14:22:10.406Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1513,7 +1503,7 @@
       "size": 2805,
       "prettySize": "2.81 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:13:20.816Z",
+      "accessTime": "2017-12-06T14:22:10.406Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -1530,39 +1520,39 @@
       "blksize": 4194304,
       "ino": 8591706713,
       "blocks": 8,
-      "atimeMs": 1512569600816.2244,
+      "atimeMs": 1512570130405.7632,
       "mtimeMs": 1512389471433.766,
       "ctimeMs": 1512389471433.766,
       "birthtimeMs": 1512389471433.709,
-      "atime": "2017-12-06T14:13:20.816Z",
+      "atime": "2017-12-06T14:22:10.406Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
       "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark"
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "59e51d8533401820e912c63242f77902",
+        "contentDigest": "34f41c459089216fbde4daed3c69cc06",
         "mediaType": "text/x-markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md",
-      "relativePath": "01-02-2017/index.md",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md",
+      "relativePath": "01-07-2017-Big_Sample_Post/index.md",
       "extension": "md",
-      "size": 3108,
-      "prettySize": "3.11 kB",
+      "size": 10781,
+      "prettySize": "10.8 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:13:20.816Z",
+      "accessTime": "2017-12-06T14:22:10.406Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1573,13 +1563,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706711,
-      "blocks": 8,
-      "atimeMs": 1512569600816.3252,
-      "mtimeMs": 1512389471433.6018,
-      "ctimeMs": 1512389471433.6018,
-      "birthtimeMs": 1512389471433.5403,
-      "atime": "2017-12-06T14:13:20.816Z",
+      "ino": 8591706715,
+      "blocks": 24,
+      "atimeMs": 1512570130405.8796,
+      "mtimeMs": 1512389471433.9607,
+      "ctimeMs": 1512389471433.9607,
+      "birthtimeMs": 1512389471433.8787,
+      "atime": "2017-12-06T14:22:10.406Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1603,7 +1593,7 @@
       "size": 2635,
       "prettySize": "2.63 kB",
       "modifiedTime": "2017-12-04T12:11:11.433Z",
-      "accessTime": "2017-12-06T14:13:20.816Z",
+      "accessTime": "2017-12-06T14:22:10.406Z",
       "changeTime": "2017-12-04T12:11:11.433Z",
       "birthTime": "2017-12-04T12:11:11.431Z",
       "root": "/",
@@ -1620,39 +1610,39 @@
       "blksize": 4194304,
       "ino": 8591706709,
       "blocks": 8,
-      "atimeMs": 1512569600816.36,
+      "atimeMs": 1512570130405.9558,
       "mtimeMs": 1512389471433.2817,
       "ctimeMs": 1512389471433.2817,
       "birthtimeMs": 1512389471431.078,
-      "atime": "2017-12-06T14:13:20.816Z",
+      "atime": "2017-12-06T14:22:10.406Z",
       "mtime": "2017-12-04T12:11:11.433Z",
       "ctime": "2017-12-04T12:11:11.433Z",
       "birthtime": "2017-12-04T12:11:11.431Z"
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
       "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark"
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "22c707ee319f407cb24f0efe8c7904ca",
+        "contentDigest": "d5416579a634122e7d3faa7341376959",
         "mediaType": "text/x-markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md",
-      "relativePath": "02-03-2017/index.md",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
+      "relativePath": "02-04-2017/index.md",
       "extension": "md",
-      "size": 2421,
-      "prettySize": "2.42 kB",
+      "size": 2312,
+      "prettySize": "2.31 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:13:20.816Z",
+      "accessTime": "2017-12-06T14:22:10.406Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1663,13 +1653,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706717,
+      "ino": 8591706719,
       "blocks": 8,
-      "atimeMs": 1512569600816.4285,
-      "mtimeMs": 1512389471434.1284,
-      "ctimeMs": 1512389471434.1284,
-      "birthtimeMs": 1512389471434.07,
-      "atime": "2017-12-06T14:13:20.816Z",
+      "atimeMs": 1512570130406.0046,
+      "mtimeMs": 1512389471434.291,
+      "ctimeMs": 1512389471434.291,
+      "birthtimeMs": 1512389471434.239,
+      "atime": "2017-12-06T14:22:10.406Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1693,7 +1683,7 @@
       "size": 2360,
       "prettySize": "2.36 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:13:20.817Z",
+      "accessTime": "2017-12-06T14:22:10.407Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -1710,39 +1700,39 @@
       "blksize": 4194304,
       "ino": 8591706721,
       "blocks": 8,
-      "atimeMs": 1512569600817.347,
+      "atimeMs": 1512570130407.1401,
       "mtimeMs": 1512389471434.4565,
       "ctimeMs": 1512389471434.4565,
       "birthtimeMs": 1512389471434.3904,
-      "atime": "2017-12-06T14:13:20.817Z",
+      "atime": "2017-12-06T14:22:10.407Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
       "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark"
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d5416579a634122e7d3faa7341376959",
+        "contentDigest": "22c707ee319f407cb24f0efe8c7904ca",
         "mediaType": "text/x-markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
-      "relativePath": "02-04-2017/index.md",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md",
+      "relativePath": "02-03-2017/index.md",
       "extension": "md",
-      "size": 2312,
-      "prettySize": "2.31 kB",
+      "size": 2421,
+      "prettySize": "2.42 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:13:20.818Z",
+      "accessTime": "2017-12-06T14:22:10.407Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1753,13 +1743,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706719,
+      "ino": 8591706717,
       "blocks": 8,
-      "atimeMs": 1512569600817.8726,
-      "mtimeMs": 1512389471434.291,
-      "ctimeMs": 1512389471434.291,
-      "birthtimeMs": 1512389471434.239,
-      "atime": "2017-12-06T14:13:20.818Z",
+      "atimeMs": 1512570130407.1995,
+      "mtimeMs": 1512389471434.1284,
+      "ctimeMs": 1512389471434.1284,
+      "birthtimeMs": 1512389471434.07,
+      "atime": "2017-12-06T14:22:10.407Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1783,7 +1773,7 @@
       "size": 2380,
       "prettySize": "2.38 kB",
       "modifiedTime": "2017-12-04T12:11:11.435Z",
-      "accessTime": "2017-12-06T14:13:20.818Z",
+      "accessTime": "2017-12-06T14:22:10.410Z",
       "changeTime": "2017-12-04T12:11:11.435Z",
       "birthTime": "2017-12-04T12:11:11.435Z",
       "root": "/",
@@ -1800,73 +1790,14 @@
       "blksize": 4194304,
       "ino": 8591706723,
       "blocks": 8,
-      "atimeMs": 1512569600817.9312,
+      "atimeMs": 1512570130410.373,
       "mtimeMs": 1512389471434.618,
       "ctimeMs": 1512389471434.618,
       "birthtimeMs": 1512389471434.5642,
-      "atime": "2017-12-06T14:13:20.818Z",
+      "atime": "2017-12-06T14:22:10.410Z",
       "mtime": "2017-12-04T12:11:11.435Z",
       "ctime": "2017-12-04T12:11:11.435Z",
       "birthtime": "2017-12-04T12:11:11.435Z"
-    },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Big Test\"\ncover: \"https://unsplash.it/400/300/?random?BigTest\"\ncategory: \"moar\"\ndate: \"01/03/2018\"\nslug: \"Big-Sample_Test\"\ntags:\n    - test\n    - huge\n---\n\n# NOTE: This \"post\" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.\n\n\nThis is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).\n\nThis cheatsheet is specifically *Markdown Here's* version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a *Markdown Here* email, but it should be pretty close.\n\nYou can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).\n\n(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)\n\n##### Table of Contents\n\n[Headers](#headers)\n[Emphasis](#emphasis)\n[Lists](#lists)\n[Links](#links)\n[Images](#images)\n[Code and Syntax Highlighting](#code)\n[Tables](#tables)\n[Blockquotes](#blockquotes)\n[Inline HTML](#html)\n[Horizontal Rule](#hr)\n[Line Breaks](#lines)\n[YouTube Videos](#videos)\n\n<a name=\"headers\"/>\n\n## Headers\n\n```no-highlight\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n```\n\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n\n<a name=\"emphasis\"/>\n\n## Emphasis\n\n```no-highlight\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n```\n\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n\n<a name=\"lists\"/>\n\n## Lists\n\n```no-highlight\n1. First ordered list item\n2. Another item\n  * Unordered sub-list.\n1. Actual numbers don't matter, just that it's a number\n  1. Ordered sub-list\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n```\n\n1. First ordered list item\n2. Another item\n\n   * Unordered sub-list.\n\n1. Actual numbers don't matter, just that it's a number\n\n   1. Ordered sub-list\n\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n\n<a name=\"links\"/>\n\n## Links\n\nThere are two ways to create links.\n\n```no-highlight\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n```\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\n<a name=\"images\"/>\n\n## Images\n\n```no-highlight\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n```\n\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n\n<a name=\"code\"/>\n\n## Code and Syntax Highlighting\n\nCode blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n```no-highlight\nInline `code` has `back-ticks around` it.\n```\n\nInline `code` has `back-ticks around` it.\n\nBlocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.\n\n<pre lang=\"no-highlight\"><code>```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting.\nBut let's throw in a &lt;b&gt;tag&lt;/b&gt;.\n```\n</code></pre>\n\n\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting in Markdown Here (varies on Github).\nBut let's throw in a <b>tag</b>.\n```\n\nAgain, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n<a name=\"tables\"/>\n\n## Tables\n\nTables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.\n\n```no-highlight\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n```\n\nColons can be used to align columns.\n\n| Tables        | Are           | Cool |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n\n<a name=\"blockquotes\"/>\n\n## Blockquotes\n\n```no-highlight\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n```\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n\n<a name=\"html\"/>\n\n## Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n```no-highlight\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n```\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n<a name=\"hr\"/>\n\n## Horizontal Rule\n\n```\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n```\n\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n\n<a name=\"lines\"/>\n\n## Line Breaks\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\n```\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n```\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also begins a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n\n(Technical note: *Markdown Here* uses GFM line breaks, so there's no need to use MD's two-space line breaks.)\n\n<a name=\"videos\"/>\n\n## YouTube Videos\n\nThey can't be added directly but you can add an image with a link to the video like this:\n\n```no-highlight\n<a href=\"http://www.youtube.com/watch?feature=player_embedded&v=8AkLfYOgIrE\n\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg\"\nalt=\"IMAGE ALT TEXT HERE\" width=\"240\" height=\"180\" border=\"10\" /></a>\n```\n\nOr, in pure Markdown, but losing the image sizing and border:\n\n```no-highlight\n[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)\n```\n",
-        "contentDigest": "f26bfc5912c480a7f8fe2e9be644f957",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Big Test",
-        "cover": "https://unsplash.it/400/300/?random?BigTest",
-        "category": "moar",
-        "date": "01/03/2018",
-        "slug": "Big-Sample_Test",
-        "tags": [
-          "test",
-          "huge"
-        ],
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md",
-      "fields": {
-        "slug": "/big-test"
-      }
-    },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Angels of Mist\"\ncover: \"https://unsplash.it/400/300/?random?AngelsofMist\"\ncategory: \"test3\"\ndate: \"01/03/2017\"\ntags:\n    - cheese\n    - other\n---\n# Ab dicemur cura\n\n## Mane oscula anxia\n\nLorem markdownum alius, **non voluntas supremaque**: canes ager cingere quis;\nrerum? Nunc nec ferunt verbis vultumque candentia sequi visa Phrygii *zonarumque\ncerno*. Creatos plangente voluptas est nomen opes: nequeo ullus; accipiunt\nmollibus carmen. [Contigerant](http://esse-sertis.net/) haec Antium latebris\nmanus quamquam Erigdupum virgultis debes. Leones sanguine frondes cepit animi\nexcipit sed ponderis carpitur arbor pomi infamia.\n\n```js\n    subdirectory.video_backlink_jquery = plug_d.upSku.nuiMini(spyware);\n    property = hard + tracerouteNetCrop(multi, xp_byte, software_wheel_readme);\n    if (username.prebinding(kbps)) {\n        fifo_expansion_ppga += io_memory_fi(analyst_copyright(protocolZifPpc,\n                -3));\n        website += webRibbon;\n    }\n    if (httpsArtificialColumn < 769656) {\n        scroll_big.perlMysql += linkedinHardeningRup;\n        archie += 3;\n        risc.ripcording = 3;\n    }\n    var so = sampling_motion_unicode(webCursorImpact) + hub;\n```\n\n## Vehi arcus quondam australem agitabitur excessitque coniuge\n\nCelebrant est hausto *reperire et* unam **caerulaque**, lumen que *Aeaciden*\nmare primo insignis. Et Persidaque [tenet](http://suas.com/meignem), si centum\nque Iovis, inexspectatus mortalis si vindicet maior! Dryades canaeque, quae\ntrabes *effundite lacrimas ferax*, suo neve. Hoc postquam misceri melius ille\nvertice frena *fratremque quibus*.\n\n## Tulit lapis decore altis vidi solida\n\nTempli egreditur genitore parte. Captavit est *vicisse filia abesse* quem tibi\ndubie, fit ille mirantia, nymphae mox dumque intentare monstri. Exempla\nuberibus, non *res* saevique sic commenta aquis fugit sacris aliquidque totis,\ntamen.\n\n## Hic simul et tibi adversam quaeris senes\n\nQuae nescio fauces contigit in visus, abstitimus colorem enim ieiuna candescere\naerane mihi stipite nolle sunt. Non tabuit miratur caelesti simulacra fere\nParnasia principio genetricis atria potentia Hippotaden et terrae iuvere subdita\nquid.\n\n## Moderatus fluctibus mitibus\n\nIlle non revelli o dignare, scelus, loqui Solis quid flebam! Terras in Ixione\ntemeraria Orphea pectora. Suis aere da ante praeponere dignus magna tenuit\nNereides agrestem stare obstipuit threicius cadit haud.\n\n- Iam legebantur inter tum sensit enim similis\n- Vite ferus purpureum videt quo inferius dextra\n- Adsiluit iuvenes eduxit uno velle bene mora\n- Dilectaque aetatis interitura feritate\n\nSit aequore Haec Troum falleret Ismenides *cortice animam* est quoque Aeacus.\nInmittite hostem, succinctis insuper lentisciferumque Cerealis\n[Alemoniden](http://et.net/) matre decusque vade memor laberis, potentem?",
-        "contentDigest": "3036fee7a89ac93aeac001162475a134",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Angels of Mist",
-        "cover": "https://unsplash.it/400/300/?random?AngelsofMist",
-        "category": "test3",
-        "date": "01/03/2017",
-        "tags": [
-          "cheese",
-          "other"
-        ],
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md",
-      "fields": {
-        "slug": "/angels-of-mist"
-      }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark",
@@ -1896,6 +1827,35 @@
       "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md",
       "fields": {
         "slug": "/the-fallen-time"
+      }
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Angels of Mist\"\ncover: \"https://unsplash.it/400/300/?random?AngelsofMist\"\ncategory: \"test3\"\ndate: \"01/03/2017\"\ntags:\n    - cheese\n    - other\n---\n# Ab dicemur cura\n\n## Mane oscula anxia\n\nLorem markdownum alius, **non voluntas supremaque**: canes ager cingere quis;\nrerum? Nunc nec ferunt verbis vultumque candentia sequi visa Phrygii *zonarumque\ncerno*. Creatos plangente voluptas est nomen opes: nequeo ullus; accipiunt\nmollibus carmen. [Contigerant](http://esse-sertis.net/) haec Antium latebris\nmanus quamquam Erigdupum virgultis debes. Leones sanguine frondes cepit animi\nexcipit sed ponderis carpitur arbor pomi infamia.\n\n```js\n    subdirectory.video_backlink_jquery = plug_d.upSku.nuiMini(spyware);\n    property = hard + tracerouteNetCrop(multi, xp_byte, software_wheel_readme);\n    if (username.prebinding(kbps)) {\n        fifo_expansion_ppga += io_memory_fi(analyst_copyright(protocolZifPpc,\n                -3));\n        website += webRibbon;\n    }\n    if (httpsArtificialColumn < 769656) {\n        scroll_big.perlMysql += linkedinHardeningRup;\n        archie += 3;\n        risc.ripcording = 3;\n    }\n    var so = sampling_motion_unicode(webCursorImpact) + hub;\n```\n\n## Vehi arcus quondam australem agitabitur excessitque coniuge\n\nCelebrant est hausto *reperire et* unam **caerulaque**, lumen que *Aeaciden*\nmare primo insignis. Et Persidaque [tenet](http://suas.com/meignem), si centum\nque Iovis, inexspectatus mortalis si vindicet maior! Dryades canaeque, quae\ntrabes *effundite lacrimas ferax*, suo neve. Hoc postquam misceri melius ille\nvertice frena *fratremque quibus*.\n\n## Tulit lapis decore altis vidi solida\n\nTempli egreditur genitore parte. Captavit est *vicisse filia abesse* quem tibi\ndubie, fit ille mirantia, nymphae mox dumque intentare monstri. Exempla\nuberibus, non *res* saevique sic commenta aquis fugit sacris aliquidque totis,\ntamen.\n\n## Hic simul et tibi adversam quaeris senes\n\nQuae nescio fauces contigit in visus, abstitimus colorem enim ieiuna candescere\naerane mihi stipite nolle sunt. Non tabuit miratur caelesti simulacra fere\nParnasia principio genetricis atria potentia Hippotaden et terrae iuvere subdita\nquid.\n\n## Moderatus fluctibus mitibus\n\nIlle non revelli o dignare, scelus, loqui Solis quid flebam! Terras in Ixione\ntemeraria Orphea pectora. Suis aere da ante praeponere dignus magna tenuit\nNereides agrestem stare obstipuit threicius cadit haud.\n\n- Iam legebantur inter tum sensit enim similis\n- Vite ferus purpureum videt quo inferius dextra\n- Adsiluit iuvenes eduxit uno velle bene mora\n- Dilectaque aetatis interitura feritate\n\nSit aequore Haec Troum falleret Ismenides *cortice animam* est quoque Aeacus.\nInmittite hostem, succinctis insuper lentisciferumque Cerealis\n[Alemoniden](http://et.net/) matre decusque vade memor laberis, potentem?",
+        "contentDigest": "3036fee7a89ac93aeac001162475a134",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Angels of Mist",
+        "cover": "https://unsplash.it/400/300/?random?AngelsofMist",
+        "category": "test3",
+        "date": "01/03/2017",
+        "tags": [
+          "cheese",
+          "other"
+        ],
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md",
+      "fields": {
+        "slug": "/angels-of-mist"
       }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark": {
@@ -1928,13 +1888,13 @@
         "slug": "/bold-mage"
       }
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle: \"Random project 4 With Super Long Title Phase One\"\ncover: \"https://unsplash.it/1152/300/?random?SuperLong\"\ncategory: \"random\"\ndate: \"02/03/2017\"\ntags:\n    - say hi\n---\n# Artificem honorati ore temperat Lycus quam antiquum\n\n## Mendaci pinu ipsi nunc\n\nLorem markdownum supplex. Care ferre nos praemia detestatur oderit vitatumque,\ntardius pello ostentare; dixit. [Agit](http://accessit.net/) super, cum, qua\nquae pinxit certamine occulte causa: est est non. Dubita fictumque imagine.\n\nIlli quid patitur limitibus sumptam in vincemur ducit tumulatus et odisse\nvolucris et cupit inrorant vivax, Proetus ait. Nec induit mortalia olim ortus\nfoedera [praecipitem](http://www.pontumferae.io/protinuset.html) amans et iter\n[est](http://casuquefuit.io/murmurevestrum.aspx) huc virginitate spernimus\nOenopiis longi ore paretur? Sede ore quaedam dumque. Et alti: Tagus vino omnes\nait dictis **videt vos**, meus licet bipennem, Acheronte! Fulvae vulneris et\nmunus succurritis coma simulacraque amborum semper, insequar quae **simul\ntela**.\n\n## Facta huic laboras matris tandem scelus\n\nPer praesuta occupat stratum, manuque te femina magni Nelidae. [Cauda\nlacrimisque](http://www.in.io/) sua nec quoque *prodiga*: more te aera est fas\nut utrumque omnes, fugae sua Telamone. Scilicet indulgere *dat terunt quam*\ncorpora, ad non Canentem gressu feliciter lapillis caede frequentes tibi nostro?\nAgmine in Phlegon illo oblita, ait quis negare orbem, prosunt tamen, praesentit\niussae Babylonius finita!\n\nInvictumque marmoreis simulatas solverat saevique nondum depositoque **ramisque\ninclusa**, dissiluit hoc malis, *simulacra*? Cum cupido alis. Ulmi redit\nadpellatque tellus, soror robore sequerere cuspidis quae putares! Mihi solidas\nsed tyranni tecta pennas virgine, unus aufer, *Oete* neve femina, vos quid.\nOscula dignior.\n\n## Corpore motae iam\n\nEst humum data tardus et movet attrahit ferro\n[imperio](http://soleta.org/lectos). Iam undis veniente et crines faciat\nMelaneus sedebat et vobis. Protinus obstantes Iunoni uni date lumen Appenninus\npanda electae Daedalion.\n\n> Adest clipeo perdere plena bellatricemque neque ut ponat vestigatque tinxi\n> gregibus petit labore super fidem barbare. Grates modo, ite lanugine procubuit\n> artes velatos, sensit fida mihi: negabo.\n> [Tum](http://www.mea-pars.net/temptanti) desubito radere tendens **fuit**.\n\nQuibus **se intus montibus**. Auro terrae: mare e adulterium, per dolet et.",
-        "contentDigest": "00441b55a72ac697417496566fa8190e",
+        "content": "---\ntitle: \"Big Test\"\ncover: \"https://unsplash.it/400/300/?random?BigTest\"\ncategory: \"moar\"\ndate: \"01/03/2018\"\nslug: \"Big-Sample_Test\"\ntags:\n    - test\n    - huge\n---\n\n# NOTE: This \"post\" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.\n\n\nThis is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).\n\nThis cheatsheet is specifically *Markdown Here's* version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a *Markdown Here* email, but it should be pretty close.\n\nYou can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).\n\n(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)\n\n##### Table of Contents\n\n[Headers](#headers)\n[Emphasis](#emphasis)\n[Lists](#lists)\n[Links](#links)\n[Images](#images)\n[Code and Syntax Highlighting](#code)\n[Tables](#tables)\n[Blockquotes](#blockquotes)\n[Inline HTML](#html)\n[Horizontal Rule](#hr)\n[Line Breaks](#lines)\n[YouTube Videos](#videos)\n\n<a name=\"headers\"/>\n\n## Headers\n\n```no-highlight\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n```\n\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n\n<a name=\"emphasis\"/>\n\n## Emphasis\n\n```no-highlight\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n```\n\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n\n<a name=\"lists\"/>\n\n## Lists\n\n```no-highlight\n1. First ordered list item\n2. Another item\n  * Unordered sub-list.\n1. Actual numbers don't matter, just that it's a number\n  1. Ordered sub-list\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n```\n\n1. First ordered list item\n2. Another item\n\n   * Unordered sub-list.\n\n1. Actual numbers don't matter, just that it's a number\n\n   1. Ordered sub-list\n\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n\n<a name=\"links\"/>\n\n## Links\n\nThere are two ways to create links.\n\n```no-highlight\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n```\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\n<a name=\"images\"/>\n\n## Images\n\n```no-highlight\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n```\n\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n\n<a name=\"code\"/>\n\n## Code and Syntax Highlighting\n\nCode blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n```no-highlight\nInline `code` has `back-ticks around` it.\n```\n\nInline `code` has `back-ticks around` it.\n\nBlocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.\n\n<pre lang=\"no-highlight\"><code>```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting.\nBut let's throw in a &lt;b&gt;tag&lt;/b&gt;.\n```\n</code></pre>\n\n\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting in Markdown Here (varies on Github).\nBut let's throw in a <b>tag</b>.\n```\n\nAgain, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n<a name=\"tables\"/>\n\n## Tables\n\nTables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.\n\n```no-highlight\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n```\n\nColons can be used to align columns.\n\n| Tables        | Are           | Cool |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n\n<a name=\"blockquotes\"/>\n\n## Blockquotes\n\n```no-highlight\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n```\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n\n<a name=\"html\"/>\n\n## Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n```no-highlight\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n```\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n<a name=\"hr\"/>\n\n## Horizontal Rule\n\n```\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n```\n\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n\n<a name=\"lines\"/>\n\n## Line Breaks\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\n```\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n```\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also begins a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n\n(Technical note: *Markdown Here* uses GFM line breaks, so there's no need to use MD's two-space line breaks.)\n\n<a name=\"videos\"/>\n\n## YouTube Videos\n\nThey can't be added directly but you can add an image with a link to the video like this:\n\n```no-highlight\n<a href=\"http://www.youtube.com/watch?feature=player_embedded&v=8AkLfYOgIrE\n\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg\"\nalt=\"IMAGE ALT TEXT HERE\" width=\"240\" height=\"180\" border=\"10\" /></a>\n```\n\nOr, in pure Markdown, but losing the image sizing and border:\n\n```no-highlight\n[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)\n```\n",
+        "contentDigest": "f26bfc5912c480a7f8fe2e9be644f957",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1942,18 +1902,45 @@
         }
       },
       "frontmatter": {
-        "title": "Random project 4 With Super Long Title Phase One",
-        "cover": "https://unsplash.it/1152/300/?random?SuperLong",
-        "category": "random",
-        "date": "02/03/2017",
+        "title": "Big Test",
+        "cover": "https://unsplash.it/400/300/?random?BigTest",
+        "category": "moar",
+        "date": "01/03/2018",
+        "slug": "Big-Sample_Test",
         "tags": [
-          "say hi"
+          "test",
+          "huge"
         ],
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file"
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file"
       },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md",
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md",
       "fields": {
-        "slug": "/random-project-4-with-super-long-title-phase-one"
+        "slug": "/big-test"
+      }
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"The Fairy's Witches\"\ncover: \"https://unsplash.it/1152/300/?random?FaityWitch\"\ncategory: \"something\"\ndate: \"02/04/2017\"\n---\n# Eram mora tuas in inter ferens caterva\n\n## Ait oculos\n\nLorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab\ntestes moderantum. Somno curas obscurum, et *regna spectare* quaeque tot arte\nMinyeia. Labens Actaeis potentior et **in visa Arcadiae** adfusaque et voto. In\nsilendo pares sed noceat sceptri Phoenix, qui verso [ille\nerigitur](http://de-fuit.io/populorum.php): iacet confessus ibi lacusque.\n\n> Laesa plangere, adiuvet nec: prima sinus tendit quantum, Inachis simulat nuda,\n> suffuderat sustinet serpentum. Medios parilique missisque manus; saxo idque\n> fiducia, duo his Eurydicen pectus accinctus? Silvani et duxere vultum: nec te\n> maestis duasque, sati nomen, nympha in facit! Vultibus flavaque. Pirithoi\n> infantia [hamadryadas erat dei](http://priamoque.com/exhibuit.html) parente\n> iuvenali, suum caput haud foedera nocti transferre.\n\nQuae nova: campis peragebant omnemque direptos ipsi ore erat volucris neque;\nformae. Trepidare figuram minanti longa, nec seris, ibat plus madent, nec compos\natque iuvenis dimotis; ferunt. An urbes ab deae Pentheus erit: non capere cui\nausim fallit omnia et estque caede. Meas haec una ab est iter exstantibus illo\n*summae flecti*.\n\n## Tyrios inquit\n\nOs inquit pensa sidereus: membra nomen superi magicaeque nympha ire [aevum tuus\net](http://vulnere-riget.com/) quid gladios, tuta. Pectore femina candida\naptumque auras dum!\n\n> Fuit Lucifer quorum, pone saepius videt: magnum suam? Videbit sit cepimus,\n> igne timidi nec appellat sine in. Alebat concussaque videri, subit et et ama\n> rigidoque tibi, radice, moenia Tyrios, cum gemini huius ingesta.\n\nNusquam sagitta ad ferre, ore terras mihi sopor mundi; tanti terga abstulit; tum\nterreris **adhuc sinistro** ad. Pirithoi certa commemorare Herse ponti\nmitissima, hanc nec sonat illo vocandus placido salus.\n\n1. Clamant donec\n2. Posuitque et relicto parent\n3. Mediis est Siculo eveniet de dictis\n4. Ripae formaque devexaque pecudes domum vidistis proles\n5. Dumque moenia amnes coniugium dumque in saxa\n\nSi patres terram! Mille habenas tractataque forte. Tenebris viscera gelidos\nfuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo **ferebat**.",
+        "contentDigest": "ee2c4c6f98c7b187e7db50da11b2d853",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "The Fairy's Witches",
+        "cover": "https://unsplash.it/1152/300/?random?FaityWitch",
+        "category": "something",
+        "date": "02/04/2017",
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
+      "fields": {
+        "slug": "/the-fairys-witches"
       }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file >>> MarkdownRemark": {
@@ -1989,13 +1976,13 @@
         "slug": "/the-butterfly-of-the-edge"
       }
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle: \"The Fairy's Witches\"\ncover: \"https://unsplash.it/1152/300/?random?FaityWitch\"\ncategory: \"something\"\ndate: \"02/04/2017\"\n---\n# Eram mora tuas in inter ferens caterva\n\n## Ait oculos\n\nLorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab\ntestes moderantum. Somno curas obscurum, et *regna spectare* quaeque tot arte\nMinyeia. Labens Actaeis potentior et **in visa Arcadiae** adfusaque et voto. In\nsilendo pares sed noceat sceptri Phoenix, qui verso [ille\nerigitur](http://de-fuit.io/populorum.php): iacet confessus ibi lacusque.\n\n> Laesa plangere, adiuvet nec: prima sinus tendit quantum, Inachis simulat nuda,\n> suffuderat sustinet serpentum. Medios parilique missisque manus; saxo idque\n> fiducia, duo his Eurydicen pectus accinctus? Silvani et duxere vultum: nec te\n> maestis duasque, sati nomen, nympha in facit! Vultibus flavaque. Pirithoi\n> infantia [hamadryadas erat dei](http://priamoque.com/exhibuit.html) parente\n> iuvenali, suum caput haud foedera nocti transferre.\n\nQuae nova: campis peragebant omnemque direptos ipsi ore erat volucris neque;\nformae. Trepidare figuram minanti longa, nec seris, ibat plus madent, nec compos\natque iuvenis dimotis; ferunt. An urbes ab deae Pentheus erit: non capere cui\nausim fallit omnia et estque caede. Meas haec una ab est iter exstantibus illo\n*summae flecti*.\n\n## Tyrios inquit\n\nOs inquit pensa sidereus: membra nomen superi magicaeque nympha ire [aevum tuus\net](http://vulnere-riget.com/) quid gladios, tuta. Pectore femina candida\naptumque auras dum!\n\n> Fuit Lucifer quorum, pone saepius videt: magnum suam? Videbit sit cepimus,\n> igne timidi nec appellat sine in. Alebat concussaque videri, subit et et ama\n> rigidoque tibi, radice, moenia Tyrios, cum gemini huius ingesta.\n\nNusquam sagitta ad ferre, ore terras mihi sopor mundi; tanti terga abstulit; tum\nterreris **adhuc sinistro** ad. Pirithoi certa commemorare Herse ponti\nmitissima, hanc nec sonat illo vocandus placido salus.\n\n1. Clamant donec\n2. Posuitque et relicto parent\n3. Mediis est Siculo eveniet de dictis\n4. Ripae formaque devexaque pecudes domum vidistis proles\n5. Dumque moenia amnes coniugium dumque in saxa\n\nSi patres terram! Mille habenas tractataque forte. Tenebris viscera gelidos\nfuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo **ferebat**.",
-        "contentDigest": "ee2c4c6f98c7b187e7db50da11b2d853",
+        "content": "---\ntitle: \"Random project 4 With Super Long Title Phase One\"\ncover: \"https://unsplash.it/1152/300/?random?SuperLong\"\ncategory: \"random\"\ndate: \"02/03/2017\"\ntags:\n    - say hi\n---\n# Artificem honorati ore temperat Lycus quam antiquum\n\n## Mendaci pinu ipsi nunc\n\nLorem markdownum supplex. Care ferre nos praemia detestatur oderit vitatumque,\ntardius pello ostentare; dixit. [Agit](http://accessit.net/) super, cum, qua\nquae pinxit certamine occulte causa: est est non. Dubita fictumque imagine.\n\nIlli quid patitur limitibus sumptam in vincemur ducit tumulatus et odisse\nvolucris et cupit inrorant vivax, Proetus ait. Nec induit mortalia olim ortus\nfoedera [praecipitem](http://www.pontumferae.io/protinuset.html) amans et iter\n[est](http://casuquefuit.io/murmurevestrum.aspx) huc virginitate spernimus\nOenopiis longi ore paretur? Sede ore quaedam dumque. Et alti: Tagus vino omnes\nait dictis **videt vos**, meus licet bipennem, Acheronte! Fulvae vulneris et\nmunus succurritis coma simulacraque amborum semper, insequar quae **simul\ntela**.\n\n## Facta huic laboras matris tandem scelus\n\nPer praesuta occupat stratum, manuque te femina magni Nelidae. [Cauda\nlacrimisque](http://www.in.io/) sua nec quoque *prodiga*: more te aera est fas\nut utrumque omnes, fugae sua Telamone. Scilicet indulgere *dat terunt quam*\ncorpora, ad non Canentem gressu feliciter lapillis caede frequentes tibi nostro?\nAgmine in Phlegon illo oblita, ait quis negare orbem, prosunt tamen, praesentit\niussae Babylonius finita!\n\nInvictumque marmoreis simulatas solverat saevique nondum depositoque **ramisque\ninclusa**, dissiluit hoc malis, *simulacra*? Cum cupido alis. Ulmi redit\nadpellatque tellus, soror robore sequerere cuspidis quae putares! Mihi solidas\nsed tyranni tecta pennas virgine, unus aufer, *Oete* neve femina, vos quid.\nOscula dignior.\n\n## Corpore motae iam\n\nEst humum data tardus et movet attrahit ferro\n[imperio](http://soleta.org/lectos). Iam undis veniente et crines faciat\nMelaneus sedebat et vobis. Protinus obstantes Iunoni uni date lumen Appenninus\npanda electae Daedalion.\n\n> Adest clipeo perdere plena bellatricemque neque ut ponat vestigatque tinxi\n> gregibus petit labore super fidem barbare. Grates modo, ite lanugine procubuit\n> artes velatos, sensit fida mihi: negabo.\n> [Tum](http://www.mea-pars.net/temptanti) desubito radere tendens **fuit**.\n\nQuibus **se intus montibus**. Auro terrae: mare e adulterium, per dolet et.",
+        "contentDigest": "00441b55a72ac697417496566fa8190e",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2003,15 +1990,18 @@
         }
       },
       "frontmatter": {
-        "title": "The Fairy's Witches",
-        "cover": "https://unsplash.it/1152/300/?random?FaityWitch",
-        "category": "something",
-        "date": "02/04/2017",
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file"
+        "title": "Random project 4 With Super Long Title Phase One",
+        "cover": "https://unsplash.it/1152/300/?random?SuperLong",
+        "category": "random",
+        "date": "02/03/2017",
+        "tags": [
+          "say hi"
+        ],
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file"
       },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md",
       "fields": {
-        "slug": "/the-fairys-witches"
+        "slug": "/random-project-4-with-super-long-title-phase-one"
       }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md absPath of file >>> MarkdownRemark": {
@@ -2042,45 +2032,22 @@
         "slug": "/birch-in-the-roses"
       }
     },
-    "SitePage /big-test": {
-      "path": "/big-test",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/big-test"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "layout": "index",
-      "jsonName": "big-test.json",
-      "internalComponentName": "ComponentBigTest",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /big-test",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "760bf4e621e8798a274c69328d1f584a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /angels-of-mist": {
-      "path": "/angels-of-mist",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/angels-of-mist"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
-      "layout": "index",
-      "jsonName": "angels-of-mist.json",
-      "internalComponentName": "ComponentAngelsOfMist",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /angels-of-mist",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "58daa6b598b2ff1f7b8bfc8fa4d28d8d",
+        "contentDigest": "f7e00b17bb630b62fdfffec8c7673e8c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2105,6 +2072,27 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /angels-of-mist": {
+      "path": "/angels-of-mist",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "context": {
+        "slug": "/angels-of-mist"
+      },
+      "componentChunkName": "component---src-templates-post-jsx",
+      "layout": "index",
+      "jsonName": "angels-of-mist.json",
+      "internalComponentName": "ComponentAngelsOfMist",
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "id": "SitePage /angels-of-mist",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "58daa6b598b2ff1f7b8bfc8fa4d28d8d",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /bold-mage": {
       "path": "/bold-mage",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2126,24 +2114,45 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /random-project-4-with-super-long-title-phase-one": {
-      "path": "/random-project-4-with-super-long-title-phase-one",
+    "SitePage /big-test": {
+      "path": "/big-test",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
       "context": {
-        "slug": "/random-project-4-with-super-long-title-phase-one"
+        "slug": "/big-test"
       },
       "componentChunkName": "component---src-templates-post-jsx",
       "layout": "index",
-      "jsonName": "random-project-4-with-super-long-title-phase-one.json",
-      "internalComponentName": "ComponentRandomProject4WithSuperLongTitlePhaseOne",
+      "jsonName": "big-test.json",
+      "internalComponentName": "ComponentBigTest",
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /random-project-4-with-super-long-title-phase-one",
+      "id": "SitePage /big-test",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "adc0850fd3cc51c7763cdd062cbb7cea",
+        "contentDigest": "760bf4e621e8798a274c69328d1f584a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /the-fairys-witches": {
+      "path": "/the-fairys-witches",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "context": {
+        "slug": "/the-fairys-witches"
+      },
+      "componentChunkName": "component---src-templates-post-jsx",
+      "layout": "index",
+      "jsonName": "the-fairys-witches.json",
+      "internalComponentName": "ComponentTheFairysWitches",
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "id": "SitePage /the-fairys-witches",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8bcfb88e00f0c44a483fceefafa31140",
         "owner": "internal-data-bridge"
       }
     },
@@ -2168,24 +2177,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /the-fairys-witches": {
-      "path": "/the-fairys-witches",
+    "SitePage /random-project-4-with-super-long-title-phase-one": {
+      "path": "/random-project-4-with-super-long-title-phase-one",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
       "context": {
-        "slug": "/the-fairys-witches"
+        "slug": "/random-project-4-with-super-long-title-phase-one"
       },
       "componentChunkName": "component---src-templates-post-jsx",
       "layout": "index",
-      "jsonName": "the-fairys-witches.json",
-      "internalComponentName": "ComponentTheFairysWitches",
+      "jsonName": "random-project-4-with-super-long-title-phase-one.json",
+      "internalComponentName": "ComponentRandomProject4WithSuperLongTitlePhaseOne",
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /the-fairys-witches",
+      "id": "SitePage /random-project-4-with-super-long-title-phase-one",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8bcfb88e00f0c44a483fceefafa31140",
+        "contentDigest": "adc0850fd3cc51c7763cdd062cbb7cea",
         "owner": "internal-data-bridge"
       }
     },
@@ -2231,24 +2240,45 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/huge/": {
-      "path": "/tags/huge/",
+    "SitePage /tags/something/": {
+      "path": "/tags/something/",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
       "context": {
-        "tag": "huge"
+        "tag": "something"
       },
       "componentChunkName": "component---src-templates-tag-jsx",
       "layout": "index",
-      "jsonName": "tags-huge.json",
-      "internalComponentName": "ComponentTagsHuge",
+      "jsonName": "tags-something.json",
+      "internalComponentName": "ComponentTagsSomething",
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/huge/",
+      "id": "SitePage /tags/something/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d65ebaf61e39d346f4ebadf87e61e22",
+        "contentDigest": "94eb069126b213b4f29ad11134797fde",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tagging/": {
+      "path": "/tags/tagging/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "context": {
+        "tag": "tagging"
+      },
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "layout": "index",
+      "jsonName": "tags-tagging.json",
+      "internalComponentName": "ComponentTagsTagging",
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/tagging/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8833a0bd60e64170e6d818a5c6249607",
         "owner": "internal-data-bridge"
       }
     },
@@ -2294,48 +2324,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/something/": {
-      "path": "/tags/something/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "something"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-something.json",
-      "internalComponentName": "ComponentTagsSomething",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/something/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "94eb069126b213b4f29ad11134797fde",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/tagging/": {
-      "path": "/tags/tagging/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "tagging"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-tagging.json",
-      "internalComponentName": "ComponentTagsTagging",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/tagging/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8833a0bd60e64170e6d818a5c6249607",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /tags/programming/": {
       "path": "/tags/programming/",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -2378,24 +2366,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/say-hi/": {
-      "path": "/tags/say-hi/",
+    "SitePage /tags/huge/": {
+      "path": "/tags/huge/",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
       "context": {
-        "tag": "say hi"
+        "tag": "huge"
       },
       "componentChunkName": "component---src-templates-tag-jsx",
       "layout": "index",
-      "jsonName": "tags-say-hi.json",
-      "internalComponentName": "ComponentTagsSayHi",
+      "jsonName": "tags-huge.json",
+      "internalComponentName": "ComponentTagsHuge",
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/say-hi/",
+      "id": "SitePage /tags/huge/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c247122cb67de7beb4bc1c7c1cafa74",
+        "contentDigest": "8d65ebaf61e39d346f4ebadf87e61e22",
         "owner": "internal-data-bridge"
       }
     },
@@ -2462,6 +2450,27 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /tags/say-hi/": {
+      "path": "/tags/say-hi/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "context": {
+        "tag": "say hi"
+      },
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "layout": "index",
+      "jsonName": "tags-say-hi.json",
+      "internalComponentName": "ComponentTagsSayHi",
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/say-hi/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c247122cb67de7beb4bc1c7c1cafa74",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /tags/tag/": {
       "path": "/tags/tag/",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -2480,48 +2489,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "8de3d396b156d773dc25fb8555c6e9e3",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/moar/": {
-      "path": "/categories/moar/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "moar"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
-      "layout": "index",
-      "jsonName": "categories-moar.json",
-      "internalComponentName": "ComponentCategoriesMoar",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/moar/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0ab708c2c860b45f47b85896788d5fcd",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/test-3/": {
-      "path": "/categories/test-3/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "test3"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
-      "layout": "index",
-      "jsonName": "categories-test-3.json",
-      "internalComponentName": "ComponentCategoriesTest3",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/test-3/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2e5148e2c63b942a1643b6f3ab444a72",
         "owner": "internal-data-bridge"
       }
     },
@@ -2546,6 +2513,27 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /categories/test-3/": {
+      "path": "/categories/test-3/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "context": {
+        "category": "test3"
+      },
+      "componentChunkName": "component---src-templates-category-jsx",
+      "layout": "index",
+      "jsonName": "categories-test-3.json",
+      "internalComponentName": "ComponentCategoriesTest3",
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "id": "SitePage /categories/test-3/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2e5148e2c63b942a1643b6f3ab444a72",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /categories/tech/": {
       "path": "/categories/tech/",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -2567,24 +2555,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /categories/random/": {
-      "path": "/categories/random/",
+    "SitePage /categories/moar/": {
+      "path": "/categories/moar/",
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
       "context": {
-        "category": "random"
+        "category": "moar"
       },
       "componentChunkName": "component---src-templates-category-jsx",
       "layout": "index",
-      "jsonName": "categories-random.json",
-      "internalComponentName": "ComponentCategoriesRandom",
+      "jsonName": "categories-moar.json",
+      "internalComponentName": "ComponentCategoriesMoar",
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/random/",
+      "id": "SitePage /categories/moar/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ec8b68bf288e4ccf5900485e3749f0f",
+        "contentDigest": "0ab708c2c860b45f47b85896788d5fcd",
         "owner": "internal-data-bridge"
       }
     },
@@ -2606,6 +2594,27 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "b42b3544e3e4cf83eeb684d0b36b3d8b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/random/": {
+      "path": "/categories/random/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "context": {
+        "category": "random"
+      },
+      "componentChunkName": "component---src-templates-category-jsx",
+      "layout": "index",
+      "jsonName": "categories-random.json",
+      "internalComponentName": "ComponentCategoriesRandom",
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "id": "SitePage /categories/random/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7ec8b68bf288e4ccf5900485e3749f0f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2650,59 +2659,56 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b023b8a97bb02a0011fa846da6a8b903"
+    "PLUGINS_HASH": "b5eb8f407f97de95f86cc7d95547bd34"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": [
-        "/big-test"
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark": [
+        "/the-fallen-time"
       ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark": [
         "/angels-of-mist"
       ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark": [
-        "/the-fallen-time"
-      ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark": [
         "/bold-mage"
       ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": [
-        "/random-project-4-with-super-long-title-phase-one"
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": [
+        "/big-test"
+      ],
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": [
+        "/the-fairys-witches"
       ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file >>> MarkdownRemark": [
         "/the-butterfly-of-the-edge"
       ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": [
-        "/the-fairys-witches"
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": [
+        "/random-project-4-with-super-long-title-phase-one"
       ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md absPath of file >>> MarkdownRemark": [
         "/birch-in-the-roses"
       ]
     },
     "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ],
       "MarkdownRemark": [
         "/tags/test/",
-        "/tags/huge/",
-        "/tags/cheese/",
-        "/tags/other/",
         "/tags/something/",
         "/tags/tagging/",
+        "/tags/cheese/",
+        "/tags/other/",
         "/tags/programming/",
         "/tags/stuff/",
-        "/tags/say-hi/",
+        "/tags/huge/",
         "/tags/more-tags/",
         "/tags/testing/",
         "/tags/another-one/",
+        "/tags/say-hi/",
         "/tags/tag/",
-        "/categories/moar/",
-        "/categories/test-3/",
         "/categories/another-one/",
+        "/categories/test-3/",
         "/categories/tech/",
-        "/categories/random/",
+        "/categories/moar/",
         "/categories/something/",
+        "/categories/random/",
         "/"
       ]
     }

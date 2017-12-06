@@ -3,15 +3,11 @@
   "version": "1.0.0",
   "description": "AmandaBozzi.com",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mandy6720/amanda-bozzi-site.git"
   },
   "author": "Amanda Bozzi",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/mandy6720/amanda-bozzi-site/issues"
   },
