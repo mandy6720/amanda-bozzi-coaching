@@ -196,17 +196,17 @@
         "path": "/categories/moar/"
     },
     {
-        "componentChunkName": "component---src-pages-index-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
         "componentChunkName": "component---src-pages-about-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "about.json",
         "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "index.json",
+        "path": "/"
     }
 ]

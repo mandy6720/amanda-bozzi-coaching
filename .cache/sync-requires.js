@@ -7,8 +7,8 @@ exports.components = {
   "component---src-templates-post-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx")),
   "component---src-templates-tag-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx")),
   "component---src-templates-category-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx")),
-  "component---src-pages-index-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx")),
-  "component---src-pages-about-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx"))
+  "component---src-pages-about-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx")),
+  "component---src-pages-index-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx"))
 }
 
 exports.json = {
@@ -69,9 +69,9 @@ exports.json = {
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
   "categories-moar.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/categories-moar.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/index.json"),
+  "about.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/about.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "about.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/about.json")
+  "index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/index.json")
 }
 
 exports.layouts = {

@@ -6,8 +6,8 @@ exports.components = {
   "component---src-templates-post-jsx": require("gatsby-module-loader?name=component---src-templates-post-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx"),
   "component---src-templates-tag-jsx": require("gatsby-module-loader?name=component---src-templates-tag-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx"),
   "component---src-templates-category-jsx": require("gatsby-module-loader?name=component---src-templates-category-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx"),
-  "component---src-pages-index-jsx": require("gatsby-module-loader?name=component---src-pages-index-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx"),
-  "component---src-pages-about-jsx": require("gatsby-module-loader?name=component---src-pages-about-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx")
+  "component---src-pages-about-jsx": require("gatsby-module-loader?name=component---src-pages-about-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx"),
+  "component---src-pages-index-jsx": require("gatsby-module-loader?name=component---src-pages-index-jsx!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx")
 }
 
 exports.json = {
@@ -68,9 +68,9 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
   "categories-moar.json": require("gatsby-module-loader?name=path---categories-moar!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/categories-moar.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "index.json": require("gatsby-module-loader?name=path---index!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/index.json"),
+  "about.json": require("gatsby-module-loader?name=path---about!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/about.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "about.json": require("gatsby-module-loader?name=path---about!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/about.json")
+  "index.json": require("gatsby-module-loader?name=path---index!/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/index.json")
 }
 
 exports.layouts = {

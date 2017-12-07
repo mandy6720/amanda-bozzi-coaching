@@ -4,7 +4,7 @@ import PostListing from "../components/PostListing/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 
-import './index.css';
+import UnderConstruction from "../components/UnderConstruction/UnderConstruction";
 
 class Index extends React.Component {
   render() {
@@ -16,9 +16,9 @@ class Index extends React.Component {
     //     <PostListing postEdges={postEdges} />
     //   </div>
     // );
-    return <div className="under-construction">
-      <h1 className="under-construction-text">Under Construction - Please Come Back Soon!</h1>
-      </div>
+    return <div>
+      <UnderConstruction/>
+    </div>
   }
 }
 

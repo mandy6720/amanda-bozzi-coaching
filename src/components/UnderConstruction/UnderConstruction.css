@@ -1,0 +1,19 @@
+.under-construction {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../../../static/img/Construction.jpg');
+  background-size: cover;
+  position: absolute;
+  padding-top: 2em;
+}
+
+.under-construction-text {
+  font-size: 4em;
+  text-align: center;
+}
+
+.inquires-text {
+  text-align: center;
+  display: block;
+  clear: both;
+}

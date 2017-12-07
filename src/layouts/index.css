@@ -15,5 +15,14 @@ html {
 
 body {
   margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2, h3, h4 {
   font-family: 'King Basil';
+}
+
+a, a:hover, a:visited {
+  text-decoration: none;
+  color: #000;
 }

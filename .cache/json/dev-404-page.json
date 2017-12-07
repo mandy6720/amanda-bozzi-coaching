@@ -140,12 +140,12 @@
                 },
                 {
                     "node": {
-                        "path": "/"
+                        "path": "/about/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/about/"
+                        "path": "/"
                     }
                 }
             ]
