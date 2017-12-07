@@ -2,7 +2,7 @@
   "name": "amanda-bozzi-site",
   "version": "1.0.0",
   "description": "AmandaBozzi.com",
-  "main": "index.js",
+  "main": "n/a",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mandy6720/amanda-bozzi-site.git"
@@ -26,6 +26,7 @@
     "gatsby-plugin-sharp": "^1.6.1",
     "gatsby-plugin-sitemap": "^1.2.1",
     "gatsby-plugin-twitter": "^1.0.6",
+    "gatsby-plugin-typography": "^1.7.10",
     "gatsby-remark-autolink-headers": "^1.4.3",
     "gatsby-remark-copy-linked-files": "^1.5.1",
     "gatsby-remark-images": "^1.5.3",
@@ -63,7 +64,6 @@
     "gatsby"
   ],
   "license": "MIT",
-  "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
     "dev": "npm run develop",

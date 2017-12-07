@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-typography/gatsby-browser.js'),
+      options: {"plugins":[]},
+    },{
       plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
@@ -24,8 +27,7 @@ var plugins = [{
 //   require('/path/to/plugin2/gatsby-browser.js'),
 // ]
 
-module.exports = (api, args, defaultReturn) => {
-  // Run each plugin in series.
+export function apiRunner(api, args, defaultReturn) {
   let results = plugins.map(plugin => {
     if (plugin.plugin[api]) {
       const result = plugin.plugin[api](args, plugin.options)
@@ -43,4 +45,14 @@ module.exports = (api, args, defaultReturn) => {
   } else {
     return []
   }
+}
+
+export function apiRunnerAsync(api, args, defaultReturn) {
+  return plugins.reduce(
+    (previous, next) =>
+      next.plugin[api]
+        ? previous.then(() => next.plugin[api](args, next.options))
+        : previous,
+    Promise.resolve()
+  )
 }

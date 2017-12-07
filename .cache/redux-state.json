@@ -1,23 +1,37 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1512606646222,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "e3e4163110e46acaf3b9951c4c8761d1",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
@@ -36,22 +50,25 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin component-page-creator",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5f7509c4a18dfa9d4a2a8bac3271eb0f",
+        "contentDigest": "09dc0046f1d2139b344677658541a683",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
@@ -70,22 +87,26 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin component-layout-creator",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "337c5b215a97f5bba6d18eb30ed386ac",
+        "contentDigest": "ac4921f1f21febdcfa2f6f0ee7ec1271",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
@@ -100,22 +121,25 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin internal-data-bridge",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5b1a076e4d2b42964f3e5ffa6ad58ba5",
+        "contentDigest": "be2e0dc87ea9db8d7a2c1bb255e52481",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "createPages"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
@@ -130,22 +154,25 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin dev-404-page",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4f8263aab6d16a017b4c26620ef0e58a",
+        "contentDigest": "39713e3a7d3cbba06d0ab8de0c500313",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
@@ -160,22 +187,26 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin prod-404",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "150f4765afba47e38b5a54ec8e8cada4",
+        "contentDigest": "dcdbe6d6967725de734d695aad66aee2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
@@ -190,34 +221,101 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin query-runner",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cd29ea682878b79e04466fc6f7be7886",
+        "contentDigest": "cd044c4d3271a675ee12040d8c04c40d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "10dd0856e5f0f40958337df438b51517",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
-      "version": "1.0.2",
+      "version": "1.0.8",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
-        "version": "1.0.2",
+        "version": "1.0.8",
         "main": "index.js",
         "keywords": [
           "gatsby"
         ],
-        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "react-helmet",
             "version": "^5.1.3"
@@ -226,46 +324,60 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-react-helmet",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7d9c54be3ef33d39c4b7bc0e949ffcd7",
+        "contentDigest": "179b52f68e9e5eafe6b95ec5f34cde27",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
-      "version": "1.4.2",
+      "version": "1.5.9",
       "pluginOptions": {
         "plugins": [],
         "name": "posts",
         "path": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts"
       },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
-        "version": "1.4.2",
+        "version": "1.5.9",
         "keywords": [
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
           },
           {
             "name": "bluebird",
@@ -274,6 +386,14 @@
           {
             "name": "chokidar",
             "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
           },
           {
             "name": "md5-file",
@@ -290,32 +410,42 @@
           {
             "name": "slash",
             "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
           }
         ],
-        "devDependencies": [],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-source-filesystem",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "40e03dbec8b814bec5e23ae2d874a807",
+        "contentDigest": "00787f8c8ac3ff9a99966d1e49f69bfc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
-      "version": "1.7.0",
+      "version": "1.7.23",
       "pluginOptions": {
         "plugins": [
           {
             "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
-            "version": "1.5.3",
+            "version": "1.5.33",
             "pluginOptions": {
               "plugins": [],
               "maxWidth": 690,
@@ -324,61 +454,88 @@
               "linkImagesToOriginal": true,
               "pathPrefix": ""
             },
+            "nodeAPIs": [],
             "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-images"
           },
           {
             "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
             "name": "gatsby-remark-responsive-iframe",
-            "version": "1.4.2",
+            "version": "1.4.15",
             "pluginOptions": {
               "plugins": [],
               "wrapperStyle": ""
             },
+            "nodeAPIs": [],
             "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-responsive-iframe"
           },
           {
             "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
             "name": "gatsby-remark-prismjs",
-            "version": "1.2.0",
+            "version": "1.2.10",
             "pluginOptions": {
               "plugins": []
             },
+            "nodeAPIs": [],
             "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-prismjs"
           },
           {
             "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
             "name": "gatsby-remark-copy-linked-files",
-            "version": "1.5.1",
+            "version": "1.5.22",
             "pluginOptions": {
-              "plugins": []
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
             },
+            "nodeAPIs": [],
             "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-copy-linked-files"
           },
           {
             "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers",
+            "id": "Plugin gatsby-remark-autolink-headers",
             "name": "gatsby-remark-autolink-headers",
-            "version": "1.4.3",
+            "version": "1.4.9",
             "pluginOptions": {
               "plugins": []
             },
+            "nodeAPIs": [],
             "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers"
           }
         ]
       },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
-        "version": "1.7.0",
+        "version": "1.7.23",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
           "markdown",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "bluebird",
             "version": "^3.5.0"
@@ -408,12 +565,32 @@
             "version": "^7.0.1"
           },
           {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
             "name": "sanitize-html",
             "version": "^1.14.1"
           },
           {
             "name": "underscore.string",
             "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
           },
           {
             "name": "unist-util-select",
@@ -427,30 +604,34 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
           },
           {
             "name": "babel-plugin-transform-object-rest-spread",
             "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-transformer-remark",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2f03f57efe01c18bdf3c8ac8880c120c",
+        "contentDigest": "fd0df6edaeb3bccff48b45a5e1867320",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
-      "version": "1.5.3",
+      "version": "1.5.33",
       "pluginOptions": {
         "plugins": [],
         "maxWidth": 690,
@@ -459,11 +640,12 @@
         "linkImagesToOriginal": true,
         "pathPrefix": ""
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
-        "version": "1.5.3",
+        "version": "1.5.33",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -473,20 +655,23 @@
           "image",
           "responsive images"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "cheerio",
             "version": "^1.0.0-rc.2"
           },
           {
             "name": "gatsby-plugin-sharp",
-            "version": "^1.6.1"
-          },
-          {
-            "name": "image-size",
-            "version": "^0.5.1"
+            "version": "^1.6.22"
           },
           {
             "name": "is-relative-url",
@@ -508,44 +693,56 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-remark-images",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0f1327154ec6c2973bfb182d65c8cac5",
+        "contentDigest": "b4100a04970f8c4551f9d0f028b0c634",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-responsive-iframe": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
       "name": "gatsby-remark-responsive-iframe",
-      "version": "1.4.2",
+      "version": "1.4.15",
       "pluginOptions": {
         "plugins": [],
         "wrapperStyle": ""
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
-        "version": "1.4.2",
+        "version": "1.4.15",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "bluebird",
             "version": "^3.5.0"
@@ -566,34 +763,47 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-remark-responsive-iframe",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7047d0febe1a8d777db06349a582b32d",
+        "contentDigest": "dc669b85210b4b361782f9741e4c85dd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-prismjs": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
       "name": "gatsby-remark-prismjs",
-      "version": "1.2.0",
+      "version": "1.2.10",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-prismjs",
       "packageJson": {
         "name": "gatsby-remark-prismjs",
         "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
-        "version": "1.2.0",
+        "version": "1.2.10",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -601,16 +811,23 @@
           "prismjs",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "parse-numeric-range",
             "version": "^0.0.2"
           },
           {
             "name": "prismjs",
-            "version": "^1.6.0"
+            "version": "^1.7.0"
           },
           {
             "name": "unist-util-visit",
@@ -620,7 +837,11 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           },
           {
             "name": "remark",
@@ -631,27 +852,35 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-remark-prismjs",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "839ff9cfd0d770f24f4be0586d9c58c7",
+        "contentDigest": "5ffebb36521776a0ed3dbda7a5219af2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-copy-linked-files": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
       "name": "gatsby-remark-copy-linked-files",
-      "version": "1.5.1",
+      "version": "1.5.22",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-copy-linked-files",
       "packageJson": {
         "name": "gatsby-remark-copy-linked-files",
         "description": "Find files which are linked to from markdown and copy them to the public directory",
-        "version": "1.5.1",
+        "version": "1.5.22",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -659,16 +888,27 @@
           "prismjs",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "cheerio",
             "version": "^1.0.0-rc.2"
           },
           {
             "name": "fs-extra",
-            "version": "^3.0.1"
+            "version": "^4.0.1"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1"
           },
           {
             "name": "is-relative-url",
@@ -679,6 +919,10 @@
             "version": "^4.17.4"
           },
           {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
             "name": "unist-util-visit",
             "version": "^1.1.1"
           }
@@ -686,43 +930,55 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-remark-copy-linked-files",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "791ba5c455a6cfb01b18b27505c63d71",
+        "contentDigest": "e625109dc14a676f5ad9dd24d1be7f5b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-autolink-headers": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers",
+      "id": "Plugin gatsby-remark-autolink-headers",
       "name": "gatsby-remark-autolink-headers",
-      "version": "1.4.3",
+      "version": "1.4.9",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers",
       "packageJson": {
         "name": "gatsby-remark-autolink-headers",
         "description": "Gatsby plugin to autolink headers in markdown processed by Remark",
-        "version": "1.4.3",
+        "version": "1.4.9",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "github-slugger",
             "version": "^1.1.1"
@@ -739,83 +995,108 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-remark-autolink-headers",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4f239b9a8270e5df70818e029d2f6546",
+        "contentDigest": "71fff078051d7793621c8e21c18bd5dd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
-      "version": "1.0.3",
+      "version": "1.0.13",
       "pluginOptions": {
         "plugins": [],
         "trackingId": "UA-110601944-1"
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
-        "version": "1.0.3",
+        "version": "1.0.13",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
           "google analytics"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
-        "dependencies": [],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-google-analytics",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bb362bdaf578ccae5e02d3d9e8d6810b",
+        "contentDigest": "80fec39d79b9b35788e89177fc1560ef",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-nprogress": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-nprogress",
+      "id": "Plugin gatsby-plugin-nprogress",
       "name": "gatsby-plugin-nprogress",
-      "version": "1.0.2",
+      "version": "1.0.8",
       "pluginOptions": {
         "plugins": [],
         "color": "#c62828"
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-nprogress",
       "packageJson": {
         "name": "gatsby-plugin-nprogress",
         "description": "Shows page loading indicator when loading page resources is delayed",
-        "version": "1.0.2",
+        "version": "1.0.8",
         "main": "index.js",
         "keywords": [
           "gatsby"
         ],
-        "author": "Kyle Mathews<mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "nprogress",
             "version": "^0.2.0"
@@ -824,46 +1105,58 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-nprogress",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b4ae4d5908ab60b7a27f9d199d3df5a2",
+        "contentDigest": "abcca0dc70183cd06df5b117aa04a5e8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
-      "version": "1.6.1",
+      "version": "1.6.22",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
-        "version": "1.6.1",
+        "version": "1.6.22",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "image",
           "sharp"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
             "name": "async",
             "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
           },
           {
             "name": "bluebird",
@@ -882,8 +1175,16 @@
             "version": "^5.0.0"
           },
           {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
             "name": "lodash",
             "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
           },
           {
             "name": "progress",
@@ -892,123 +1193,166 @@
           {
             "name": "sharp",
             "version": "^0.17.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
           }
         ],
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-sharp",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c27df403a9badd6a9c9f017948ea73ed",
+        "contentDigest": "f982aa304c73b6772f9dcb3deb8eb888",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
-      "version": "1.0.4",
+      "version": "1.0.13",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
-        "version": "1.0.4",
+        "version": "1.0.13",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
-        "dependencies": [],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-catch-links",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "12cea485a9e9b7cee07dc7284e347645",
+        "contentDigest": "32bab4c0db128e7f60c0e5db9b658771",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-twitter": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-twitter",
+      "id": "Plugin gatsby-plugin-twitter",
       "name": "gatsby-plugin-twitter",
-      "version": "1.0.6",
+      "version": "1.0.13",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-twitter",
       "packageJson": {
         "name": "gatsby-plugin-twitter",
         "description": "Stub description for gatsby-plugin-twitter",
-        "version": "1.0.6",
+        "version": "1.0.13",
         "main": "index.js",
         "keywords": [
           "gatsby"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
-        "dependencies": [],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-twitter",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "04950a3cf112ce4b3d98bf15a5def8cc",
+        "contentDigest": "9297ed6f09ca21fb3deb4b7b5e6f7fd7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sitemap": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
       "name": "gatsby-plugin-sitemap",
-      "version": "1.2.1",
+      "version": "1.2.6",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-sitemap",
       "packageJson": {
         "name": "gatsby-plugin-sitemap",
         "description": "Stub description for gatsby-plugin-sitemap",
-        "version": "1.2.1",
+        "version": "1.2.6",
         "main": "index.js",
         "keywords": [
           "gatsby"
         ],
-        "author": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;",
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "sitemap",
             "version": "^1.12.0"
@@ -1017,26 +1361,30 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-sitemap",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "135eb7a883be726298cc1594230d2194",
+        "contentDigest": "9e56f5f64a4c422e11a4384f702ae2f8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
-      "version": "1.0.3",
+      "version": "1.0.9",
       "pluginOptions": {
         "plugins": [],
         "name": "Amanda Bozzi - Life and Business Coaching for Awesome People",
@@ -1059,11 +1407,14 @@
           }
         ]
       },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
-        "version": "1.0.3",
+        "version": "1.0.9",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -1072,9 +1423,16 @@
           "pwa",
           "progressive-web-app"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "bluebird",
             "version": "^3.5.0"
@@ -1083,34 +1441,42 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-manifest",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "414f3824fd69557abdb3d5934112c5e7",
+        "contentDigest": "72944c68930b49e9b8f0b578e72d0503",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
-      "version": "1.0.3",
+      "version": "1.0.11",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
-        "version": "1.0.3",
+        "version": "1.0.11",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -1119,9 +1485,16 @@
           "precache",
           "service-worker"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "sw-precache",
             "version": "^5.0.0"
@@ -1130,26 +1503,30 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-offline",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8ee176770012fb37baaadd7ebee38fd5",
+        "contentDigest": "cc1576ace1c423b67c35d52ab92c3e61",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-feed": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-feed",
+      "id": "Plugin gatsby-plugin-feed",
       "name": "gatsby-plugin-feed",
-      "version": "1.3.4",
+      "version": "1.3.14",
       "pluginOptions": {
         "plugins": [],
         "query": "\n        {\n          site {\n            siteMetadata {\n              rssMetadata {\n                site_url\n                feed_url\n                title\n                description\n                image_url\n                author\n                copyright\n              }\n            }\n          }\n        }\n      ",
@@ -1160,11 +1537,14 @@
           }
         ]
       },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-feed",
       "packageJson": {
         "name": "gatsby-plugin-feed",
         "description": "Creates an RSS feed for your Gatsby site.",
-        "version": "1.3.4",
+        "version": "1.3.14",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -1173,9 +1553,16 @@
           "atom",
           "feed"
         ],
-        "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+        "author": {
+          "name": "Nicholas Young",
+          "email": "nicholas@nicholaswyoung.com"
+        },
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
           {
             "name": "lodash.merge",
             "version": "^4.6.0"
@@ -1192,29 +1579,38 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin gatsby-plugin-feed",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5258118d27dc531f0702267b807cb75c",
+        "contentDigest": "f2d42f6234968ce00552a37d740a8ef5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
       "resolve": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site",
+      "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "15ecab135c0920bf8b88010c8d3e43fb",
+      "version": "b1c2951a00be326d8bb34f0b29fd061b",
       "pluginOptions": {
         "plugins": []
       },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages",
+        "modifyWebpackConfig"
+      ],
       "pluginFilepath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site",
       "packageJson": {
         "name": "amanda-bozzi-site",
@@ -1278,6 +1674,10 @@
           {
             "name": "gatsby-plugin-twitter",
             "version": "^1.0.6"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.10"
           },
           {
             "name": "gatsby-remark-autolink-headers",
@@ -1406,11 +1806,10 @@
         "optionalDependecies": [],
         "bundledDependecies": []
       },
-      "id": "Plugin default-site-plugin",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f29bc3a1e554a78dbf2c1359c0d0471b",
+        "contentDigest": "93e11f4312fe3cb2851d279e44b0f4bf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1428,106 +1827,406 @@
           "copyright": "Copyright © 2017. Amanda Bozzi"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
-      "buildTime": "2017-12-06T14:22:08.032Z",
+      "polyfill": true,
+      "buildTime": "2017-12-07T00:30:43.692Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "84a4727f3ae30b95a2d0061a948fbb92",
+        "contentDigest": "0879335be6e0edb3fb274d04d5e56a42",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file",
-      "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark"
-      ],
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts absPath of file",
+      "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "59e51d8533401820e912c63242f77902",
-        "mediaType": "text/x-markdown",
-        "type": "File",
+        "contentDigest": "b8853d961c893433abcac0dbaced47c3",
+        "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md",
-      "relativePath": "01-02-2017/index.md",
-      "extension": "md",
-      "size": 3108,
-      "prettySize": "3.11 kB",
-      "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:22:10.406Z",
-      "changeTime": "2017-12-04T12:11:11.434Z",
-      "birthTime": "2017-12-04T12:11:11.434Z",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 320,
+      "prettySize": "320 B",
+      "modifiedTime": "2017-12-04T12:11:11.435Z",
+      "accessTime": "2017-12-07T00:30:45.786Z",
+      "changeTime": "2017-12-04T12:11:11.435Z",
+      "birthTime": "2017-12-04T12:11:11.431Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content",
+      "base": "sample-posts",
+      "ext": "",
+      "name": "sample-posts",
+      "relativeDirectory": "..",
       "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
+      "mode": 16877,
+      "nlink": 10,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706711,
-      "blocks": 8,
-      "atimeMs": 1512570130405.6267,
-      "mtimeMs": 1512389471433.6018,
-      "ctimeMs": 1512389471433.6018,
-      "birthtimeMs": 1512389471433.5403,
-      "atime": "2017-12-06T14:22:10.406Z",
+      "ino": 8591706707,
+      "blocks": 0,
+      "atimeMs": 1512606645785.8237,
+      "mtimeMs": 1512389471434.5337,
+      "ctimeMs": 1512389471434.5337,
+      "birthtimeMs": 1512389471430.9622,
+      "atime": "2017-12-07T00:30:45.786Z",
+      "mtime": "2017-12-04T12:11:11.435Z",
+      "ctime": "2017-12-04T12:11:11.435Z",
+      "birthtime": "2017-12-04T12:11:11.431Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a6a12491dc88485c3ed0361fe19ba0bd",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017",
+      "relativePath": "01-01-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.431Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.431Z",
+      "birthTime": "2017-12-04T12:11:11.431Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "01-01-2017",
+      "ext": "",
+      "name": "01-01-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706708,
+      "blocks": 0,
+      "atimeMs": 1512606645788.9688,
+      "mtimeMs": 1512389471431.082,
+      "ctimeMs": 1512389471431.082,
+      "birthtimeMs": 1512389471430.9998,
+      "atime": "2017-12-07T00:30:45.789Z",
+      "mtime": "2017-12-04T12:11:11.431Z",
+      "ctime": "2017-12-04T12:11:11.431Z",
+      "birthtime": "2017-12-04T12:11:11.431Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "909e76c4bafbd21663e312f56ac64746",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017",
+      "relativePath": "01-02-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.433Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "01-02-2017",
+      "ext": "",
+      "name": "01-02-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706710,
+      "blocks": 0,
+      "atimeMs": 1512606645788.9983,
+      "mtimeMs": 1512389471433.5444,
+      "ctimeMs": 1512389471433.5444,
+      "birthtimeMs": 1512389471433.497,
+      "atime": "2017-12-07T00:30:45.789Z",
+      "mtime": "2017-12-04T12:11:11.434Z",
+      "ctime": "2017-12-04T12:11:11.434Z",
+      "birthtime": "2017-12-04T12:11:11.433Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "47e383d6c3afc690d5a466e51fb213c8",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017",
+      "relativePath": "01-03-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.434Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "01-03-2017",
+      "ext": "",
+      "name": "01-03-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706712,
+      "blocks": 0,
+      "atimeMs": 1512606645788.9856,
+      "mtimeMs": 1512389471433.7131,
+      "ctimeMs": 1512389471433.7131,
+      "birthtimeMs": 1512389471433.6726,
+      "atime": "2017-12-07T00:30:45.789Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file",
-      "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark"
-      ],
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post absPath of file",
+      "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cfbed4f9b527727ccbf54a73c4683e27",
-        "mediaType": "text/x-markdown",
-        "type": "File",
+        "contentDigest": "b47f2d57fdf62fcc26018cf7f0214679",
+        "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md",
-      "relativePath": "01-03-2017/index.md",
-      "extension": "md",
-      "size": 2805,
-      "prettySize": "2.81 kB",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post",
+      "relativePath": "01-07-2017-Big_Sample_Post",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:22:10.406Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "01-07-2017-Big_Sample_Post",
+      "ext": "",
+      "name": "01-07-2017-Big_Sample_Post",
+      "relativeDirectory": "",
       "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
+      "mode": 16877,
+      "nlink": 3,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706713,
-      "blocks": 8,
-      "atimeMs": 1512570130405.7632,
-      "mtimeMs": 1512389471433.766,
-      "ctimeMs": 1512389471433.766,
-      "birthtimeMs": 1512389471433.709,
-      "atime": "2017-12-06T14:22:10.406Z",
+      "ino": 8591706714,
+      "blocks": 0,
+      "atimeMs": 1512606645788.956,
+      "mtimeMs": 1512389471433.8833,
+      "ctimeMs": 1512389471433.8833,
+      "birthtimeMs": 1512389471433.8394,
+      "atime": "2017-12-07T00:30:45.789Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "877551d46978a47172a29b17d786a69e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017",
+      "relativePath": "02-03-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.434Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "02-03-2017",
+      "ext": "",
+      "name": "02-03-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706716,
+      "blocks": 0,
+      "atimeMs": 1512606645789.011,
+      "mtimeMs": 1512389471434.0742,
+      "ctimeMs": 1512389471434.0742,
+      "birthtimeMs": 1512389471434.0332,
+      "atime": "2017-12-07T00:30:45.789Z",
+      "mtime": "2017-12-04T12:11:11.434Z",
+      "ctime": "2017-12-04T12:11:11.434Z",
+      "birthtime": "2017-12-04T12:11:11.434Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d97d0bf50307f24d1cbd3c9267a1475d",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017",
+      "relativePath": "02-04-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.434Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "02-04-2017",
+      "ext": "",
+      "name": "02-04-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706718,
+      "blocks": 0,
+      "atimeMs": 1512606645789.0237,
+      "mtimeMs": 1512389471434.2432,
+      "ctimeMs": 1512389471434.2432,
+      "birthtimeMs": 1512389471434.2031,
+      "atime": "2017-12-07T00:30:45.789Z",
+      "mtime": "2017-12-04T12:11:11.434Z",
+      "ctime": "2017-12-04T12:11:11.434Z",
+      "birthtime": "2017-12-04T12:11:11.434Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8f318d848b058b73066774d9c471448a",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017",
+      "relativePath": "17-03-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.434Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "17-03-2017",
+      "ext": "",
+      "name": "17-03-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706720,
+      "blocks": 0,
+      "atimeMs": 1512606645789.0386,
+      "mtimeMs": 1512389471434.3945,
+      "ctimeMs": 1512389471434.3945,
+      "birthtimeMs": 1512389471434.3562,
+      "atime": "2017-12-07T00:30:45.789Z",
+      "mtime": "2017-12-04T12:11:11.434Z",
+      "ctime": "2017-12-04T12:11:11.434Z",
+      "birthtime": "2017-12-04T12:11:11.434Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017 absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "06c26ce0edabf7f69146de4230473149",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017",
+      "relativePath": "23-03-2017",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2017-12-04T12:11:11.435Z",
+      "accessTime": "2017-12-07T00:30:45.789Z",
+      "changeTime": "2017-12-04T12:11:11.435Z",
+      "birthTime": "2017-12-04T12:11:11.435Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts",
+      "base": "23-03-2017",
+      "ext": "",
+      "name": "23-03-2017",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706722,
+      "blocks": 0,
+      "atimeMs": 1512606645789.0535,
+      "mtimeMs": 1512389471434.5713,
+      "ctimeMs": 1512389471434.5713,
+      "birthtimeMs": 1512389471434.529,
+      "atime": "2017-12-07T00:30:45.789Z",
+      "mtime": "2017-12-04T12:11:11.435Z",
+      "ctime": "2017-12-04T12:11:11.435Z",
+      "birthtime": "2017-12-04T12:11:11.435Z"
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
@@ -1537,7 +2236,7 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "34f41c459089216fbde4daed3c69cc06",
-        "mediaType": "text/x-markdown",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
@@ -1548,7 +2247,7 @@
       "size": 10781,
       "prettySize": "10.8 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:22:10.406Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -1556,6 +2255,7 @@
       "base": "index.md",
       "ext": ".md",
       "name": "index",
+      "relativeDirectory": "01-07-2017-Big_Sample_Post",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -1565,11 +2265,11 @@
       "blksize": 4194304,
       "ino": 8591706715,
       "blocks": 24,
-      "atimeMs": 1512570130405.8796,
+      "atimeMs": 1512606022550.9595,
       "mtimeMs": 1512389471433.9607,
       "ctimeMs": 1512389471433.9607,
       "birthtimeMs": 1512389471433.8787,
-      "atime": "2017-12-06T14:22:10.406Z",
+      "atime": "2017-12-07T00:20:22.551Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1582,7 +2282,7 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "aed51202348bd7c932e75553a31c6c1e",
-        "mediaType": "text/x-markdown",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
@@ -1593,7 +2293,7 @@
       "size": 2635,
       "prettySize": "2.63 kB",
       "modifiedTime": "2017-12-04T12:11:11.433Z",
-      "accessTime": "2017-12-06T14:22:10.406Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
       "changeTime": "2017-12-04T12:11:11.433Z",
       "birthTime": "2017-12-04T12:11:11.431Z",
       "root": "/",
@@ -1601,6 +2301,7 @@
       "base": "index.md",
       "ext": ".md",
       "name": "index",
+      "relativeDirectory": "01-01-2017",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -1610,42 +2311,43 @@
       "blksize": 4194304,
       "ino": 8591706709,
       "blocks": 8,
-      "atimeMs": 1512570130405.9558,
+      "atimeMs": 1512606022550.8892,
       "mtimeMs": 1512389471433.2817,
       "ctimeMs": 1512389471433.2817,
       "birthtimeMs": 1512389471431.078,
-      "atime": "2017-12-06T14:22:10.406Z",
+      "atime": "2017-12-07T00:20:22.551Z",
       "mtime": "2017-12-04T12:11:11.433Z",
       "ctime": "2017-12-04T12:11:11.433Z",
       "birthtime": "2017-12-04T12:11:11.431Z"
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file",
       "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark"
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d5416579a634122e7d3faa7341376959",
-        "mediaType": "text/x-markdown",
+        "contentDigest": "59e51d8533401820e912c63242f77902",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
-      "relativePath": "02-04-2017/index.md",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md",
+      "relativePath": "01-02-2017/index.md",
       "extension": "md",
-      "size": 2312,
-      "prettySize": "2.31 kB",
+      "size": 3108,
+      "prettySize": "3.11 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:22:10.406Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
+      "relativeDirectory": "01-02-2017",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -1653,44 +2355,45 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706719,
+      "ino": 8591706711,
       "blocks": 8,
-      "atimeMs": 1512570130406.0046,
-      "mtimeMs": 1512389471434.291,
-      "ctimeMs": 1512389471434.291,
-      "birthtimeMs": 1512389471434.239,
-      "atime": "2017-12-06T14:22:10.406Z",
+      "atimeMs": 1512606022550.8928,
+      "mtimeMs": 1512389471433.6018,
+      "ctimeMs": 1512389471433.6018,
+      "birthtimeMs": 1512389471433.5403,
+      "atime": "2017-12-07T00:20:22.551Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file",
       "children": [
-        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file >>> MarkdownRemark"
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0995b00c5c7f1e523baf1006d09dd1fd",
-        "mediaType": "text/x-markdown",
+        "contentDigest": "cfbed4f9b527727ccbf54a73c4683e27",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md",
-      "relativePath": "17-03-2017/index.md",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md",
+      "relativePath": "01-03-2017/index.md",
       "extension": "md",
-      "size": 2360,
-      "prettySize": "2.36 kB",
+      "size": 2805,
+      "prettySize": "2.81 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:22:10.407Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
-      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
+      "relativeDirectory": "01-03-2017",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -1698,13 +2401,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8591706721,
+      "ino": 8591706713,
       "blocks": 8,
-      "atimeMs": 1512570130407.1401,
-      "mtimeMs": 1512389471434.4565,
-      "ctimeMs": 1512389471434.4565,
-      "birthtimeMs": 1512389471434.3904,
-      "atime": "2017-12-06T14:22:10.407Z",
+      "atimeMs": 1512606022550.9316,
+      "mtimeMs": 1512389471433.766,
+      "ctimeMs": 1512389471433.766,
+      "birthtimeMs": 1512389471433.709,
+      "atime": "2017-12-07T00:20:22.551Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1717,7 +2420,7 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "22c707ee319f407cb24f0efe8c7904ca",
-        "mediaType": "text/x-markdown",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
@@ -1728,7 +2431,7 @@
       "size": 2421,
       "prettySize": "2.42 kB",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2017-12-06T14:22:10.407Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -1736,6 +2439,7 @@
       "base": "index.md",
       "ext": ".md",
       "name": "index",
+      "relativeDirectory": "02-03-2017",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -1745,11 +2449,103 @@
       "blksize": 4194304,
       "ino": 8591706717,
       "blocks": 8,
-      "atimeMs": 1512570130407.1995,
+      "atimeMs": 1512606022550.9087,
       "mtimeMs": 1512389471434.1284,
       "ctimeMs": 1512389471434.1284,
       "birthtimeMs": 1512389471434.07,
-      "atime": "2017-12-06T14:22:10.407Z",
+      "atime": "2017-12-07T00:20:22.551Z",
+      "mtime": "2017-12-04T12:11:11.434Z",
+      "ctime": "2017-12-04T12:11:11.434Z",
+      "birthtime": "2017-12-04T12:11:11.434Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file",
+      "children": [
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0995b00c5c7f1e523baf1006d09dd1fd",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md",
+      "relativePath": "17-03-2017/index.md",
+      "extension": "md",
+      "size": 2360,
+      "prettySize": "2.36 kB",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.434Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "17-03-2017",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706721,
+      "blocks": 8,
+      "atimeMs": 1512606022550.9453,
+      "mtimeMs": 1512389471434.4565,
+      "ctimeMs": 1512389471434.4565,
+      "birthtimeMs": 1512389471434.3904,
+      "atime": "2017-12-07T00:20:22.551Z",
+      "mtime": "2017-12-04T12:11:11.434Z",
+      "ctime": "2017-12-04T12:11:11.434Z",
+      "birthtime": "2017-12-04T12:11:11.434Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
+      "children": [
+        "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d5416579a634122e7d3faa7341376959",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
+      "relativePath": "02-04-2017/index.md",
+      "extension": "md",
+      "size": 2312,
+      "prettySize": "2.31 kB",
+      "modifiedTime": "2017-12-04T12:11:11.434Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
+      "changeTime": "2017-12-04T12:11:11.434Z",
+      "birthTime": "2017-12-04T12:11:11.434Z",
+      "root": "/",
+      "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "02-04-2017",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591706719,
+      "blocks": 8,
+      "atimeMs": 1512606022550.927,
+      "mtimeMs": 1512389471434.291,
+      "ctimeMs": 1512389471434.291,
+      "birthtimeMs": 1512389471434.239,
+      "atime": "2017-12-07T00:20:22.551Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1762,7 +2558,7 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "b4494584875e2f4b9da32e2fac0a93d3",
-        "mediaType": "text/x-markdown",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
@@ -1773,7 +2569,7 @@
       "size": 2380,
       "prettySize": "2.38 kB",
       "modifiedTime": "2017-12-04T12:11:11.435Z",
-      "accessTime": "2017-12-06T14:22:10.410Z",
+      "accessTime": "2017-12-07T00:20:22.551Z",
       "changeTime": "2017-12-04T12:11:11.435Z",
       "birthTime": "2017-12-04T12:11:11.435Z",
       "root": "/",
@@ -1781,6 +2577,7 @@
       "base": "index.md",
       "ext": ".md",
       "name": "index",
+      "relativeDirectory": "23-03-2017",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -1790,14 +2587,76 @@
       "blksize": 4194304,
       "ino": 8591706723,
       "blocks": 8,
-      "atimeMs": 1512570130410.373,
+      "atimeMs": 1512606022550.9792,
       "mtimeMs": 1512389471434.618,
       "ctimeMs": 1512389471434.618,
       "birthtimeMs": 1512389471434.5642,
-      "atime": "2017-12-06T14:22:10.410Z",
+      "atime": "2017-12-07T00:20:22.551Z",
       "mtime": "2017-12-04T12:11:11.435Z",
       "ctime": "2017-12-04T12:11:11.435Z",
       "birthtime": "2017-12-04T12:11:11.435Z"
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Big Test\"\ncover: \"https://unsplash.it/400/300/?random?BigTest\"\ncategory: \"moar\"\ndate: \"01/03/2018\"\nslug: \"Big-Sample_Test\"\ntags:\n    - test\n    - huge\n---\n\n# NOTE: This \"post\" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.\n\n\nThis is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).\n\nThis cheatsheet is specifically *Markdown Here's* version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a *Markdown Here* email, but it should be pretty close.\n\nYou can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).\n\n(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)\n\n##### Table of Contents\n\n[Headers](#headers)\n[Emphasis](#emphasis)\n[Lists](#lists)\n[Links](#links)\n[Images](#images)\n[Code and Syntax Highlighting](#code)\n[Tables](#tables)\n[Blockquotes](#blockquotes)\n[Inline HTML](#html)\n[Horizontal Rule](#hr)\n[Line Breaks](#lines)\n[YouTube Videos](#videos)\n\n<a name=\"headers\"/>\n\n## Headers\n\n```no-highlight\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n```\n\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n\n<a name=\"emphasis\"/>\n\n## Emphasis\n\n```no-highlight\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n```\n\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n\n<a name=\"lists\"/>\n\n## Lists\n\n```no-highlight\n1. First ordered list item\n2. Another item\n  * Unordered sub-list.\n1. Actual numbers don't matter, just that it's a number\n  1. Ordered sub-list\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n```\n\n1. First ordered list item\n2. Another item\n\n   * Unordered sub-list.\n\n1. Actual numbers don't matter, just that it's a number\n\n   1. Ordered sub-list\n\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n\n<a name=\"links\"/>\n\n## Links\n\nThere are two ways to create links.\n\n```no-highlight\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n```\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\n<a name=\"images\"/>\n\n## Images\n\n```no-highlight\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n```\n\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n\n<a name=\"code\"/>\n\n## Code and Syntax Highlighting\n\nCode blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n```no-highlight\nInline `code` has `back-ticks around` it.\n```\n\nInline `code` has `back-ticks around` it.\n\nBlocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.\n\n<pre lang=\"no-highlight\"><code>```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting.\nBut let's throw in a &lt;b&gt;tag&lt;/b&gt;.\n```\n</code></pre>\n\n\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting in Markdown Here (varies on Github).\nBut let's throw in a <b>tag</b>.\n```\n\nAgain, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n<a name=\"tables\"/>\n\n## Tables\n\nTables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.\n\n```no-highlight\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n```\n\nColons can be used to align columns.\n\n| Tables        | Are           | Cool |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n\n<a name=\"blockquotes\"/>\n\n## Blockquotes\n\n```no-highlight\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n```\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n\n<a name=\"html\"/>\n\n## Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n```no-highlight\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n```\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n<a name=\"hr\"/>\n\n## Horizontal Rule\n\n```\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n```\n\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n\n<a name=\"lines\"/>\n\n## Line Breaks\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\n```\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n```\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also begins a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n\n(Technical note: *Markdown Here* uses GFM line breaks, so there's no need to use MD's two-space line breaks.)\n\n<a name=\"videos\"/>\n\n## YouTube Videos\n\nThey can't be added directly but you can add an image with a link to the video like this:\n\n```no-highlight\n<a href=\"http://www.youtube.com/watch?feature=player_embedded&v=8AkLfYOgIrE\n\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg\"\nalt=\"IMAGE ALT TEXT HERE\" width=\"240\" height=\"180\" border=\"10\" /></a>\n```\n\nOr, in pure Markdown, but losing the image sizing and border:\n\n```no-highlight\n[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)\n```\n",
+        "contentDigest": "f26bfc5912c480a7f8fe2e9be644f957",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Big Test",
+        "cover": "https://unsplash.it/400/300/?random?BigTest",
+        "category": "moar",
+        "date": "01/03/2018",
+        "slug": "Big-Sample_Test",
+        "tags": [
+          "test",
+          "huge"
+        ],
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md",
+      "fields": {
+        "slug": "/big-test"
+      }
+    },
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Bold Mage\"\ncover: \"https://unsplash.it/400/300/?random?BoldMage\"\ndate: \"01/01/2017\"\ncategory: \"tech\"\ntags:\n    - programming\n    - stuff\n    - other\n---\n# Quanto et ius coniunctis urbes\n\n## Sedisti civiliter\n\nLorem **markdownum** Ixione palus **semper peritura barbaque** in aureus\nobliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus\nambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique\nanimalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam\n*Talibus ausis*.\n\n## Vultusque subsequitur Pallas regis datis inde animaque\n\nAt securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.\nAlis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro\nmea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether\nPeleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.\n\n```php\n    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);\n    var ddr = storage_wordart_sdram;\n    python.raw_backlink = rfid_load - 4;\n    kibibyte *= cdnThumbnailUri;\n```\n\n## Fortis dextrae humo limina Tempus singultibus illa\n\nNate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,\npigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de\nsociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet\nin pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt\nvulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque\nquam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),\nfunestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos\nergo firmat albentia verba casuque.\n\n```perl\n    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {\n        driveProcessor = floatingWord(commerceDockRestore(database));\n    } else {\n        partition_source_thunderbolt = -2 + tokenStateArchive /\n                teraflops_gigahertz;\n    }\n    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,\n            controlInboxMode), 50) + -3;\n    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(\n            masterNullFloating + vdu, software_play);\n```\n\n## Nati expugnacior nympha milia nascuntur amico\n\nMultis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri\nsunt florem.\n\nSub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;\nsubitam amittere illius esse dona. Quamvis patris virtutem, partem una per\niuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.\nHic bis parenti: e petunt satis.",
+        "contentDigest": "31baa9c9315d353a8d9c7e6adcd111d9",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Bold Mage",
+        "cover": "https://unsplash.it/400/300/?random?BoldMage",
+        "date": "01/01/2017",
+        "category": "tech",
+        "tags": [
+          "programming",
+          "stuff",
+          "other"
+        ],
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file",
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md",
+      "fields": {
+        "slug": "/bold-mage"
+      }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark",
@@ -1822,6 +2681,7 @@
           "something",
           "tagging"
         ],
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file",
         "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file"
       },
       "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md",
@@ -1851,6 +2711,7 @@
           "cheese",
           "other"
         ],
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file",
         "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file"
       },
       "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md",
@@ -1858,13 +2719,13 @@
         "slug": "/angels-of-mist"
       }
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file",
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle: \"Bold Mage\"\ncover: \"https://unsplash.it/400/300/?random?BoldMage\"\ndate: \"01/01/2017\"\ncategory: \"tech\"\ntags:\n    - programming\n    - stuff\n    - other\n---\n# Quanto et ius coniunctis urbes\n\n## Sedisti civiliter\n\nLorem **markdownum** Ixione palus **semper peritura barbaque** in aureus\nobliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus\nambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique\nanimalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam\n*Talibus ausis*.\n\n## Vultusque subsequitur Pallas regis datis inde animaque\n\nAt securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.\nAlis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro\nmea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether\nPeleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.\n\n```php\n    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);\n    var ddr = storage_wordart_sdram;\n    python.raw_backlink = rfid_load - 4;\n    kibibyte *= cdnThumbnailUri;\n```\n\n## Fortis dextrae humo limina Tempus singultibus illa\n\nNate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,\npigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de\nsociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet\nin pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt\nvulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque\nquam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),\nfunestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos\nergo firmat albentia verba casuque.\n\n```perl\n    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {\n        driveProcessor = floatingWord(commerceDockRestore(database));\n    } else {\n        partition_source_thunderbolt = -2 + tokenStateArchive /\n                teraflops_gigahertz;\n    }\n    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,\n            controlInboxMode), 50) + -3;\n    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(\n            masterNullFloating + vdu, software_play);\n```\n\n## Nati expugnacior nympha milia nascuntur amico\n\nMultis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri\nsunt florem.\n\nSub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;\nsubitam amittere illius esse dona. Quamvis patris virtutem, partem una per\niuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.\nHic bis parenti: e petunt satis.",
-        "contentDigest": "31baa9c9315d353a8d9c7e6adcd111d9",
+        "content": "---\ntitle: \"Random project 4 With Super Long Title Phase One\"\ncover: \"https://unsplash.it/1152/300/?random?SuperLong\"\ncategory: \"random\"\ndate: \"02/03/2017\"\ntags:\n    - say hi\n---\n# Artificem honorati ore temperat Lycus quam antiquum\n\n## Mendaci pinu ipsi nunc\n\nLorem markdownum supplex. Care ferre nos praemia detestatur oderit vitatumque,\ntardius pello ostentare; dixit. [Agit](http://accessit.net/) super, cum, qua\nquae pinxit certamine occulte causa: est est non. Dubita fictumque imagine.\n\nIlli quid patitur limitibus sumptam in vincemur ducit tumulatus et odisse\nvolucris et cupit inrorant vivax, Proetus ait. Nec induit mortalia olim ortus\nfoedera [praecipitem](http://www.pontumferae.io/protinuset.html) amans et iter\n[est](http://casuquefuit.io/murmurevestrum.aspx) huc virginitate spernimus\nOenopiis longi ore paretur? Sede ore quaedam dumque. Et alti: Tagus vino omnes\nait dictis **videt vos**, meus licet bipennem, Acheronte! Fulvae vulneris et\nmunus succurritis coma simulacraque amborum semper, insequar quae **simul\ntela**.\n\n## Facta huic laboras matris tandem scelus\n\nPer praesuta occupat stratum, manuque te femina magni Nelidae. [Cauda\nlacrimisque](http://www.in.io/) sua nec quoque *prodiga*: more te aera est fas\nut utrumque omnes, fugae sua Telamone. Scilicet indulgere *dat terunt quam*\ncorpora, ad non Canentem gressu feliciter lapillis caede frequentes tibi nostro?\nAgmine in Phlegon illo oblita, ait quis negare orbem, prosunt tamen, praesentit\niussae Babylonius finita!\n\nInvictumque marmoreis simulatas solverat saevique nondum depositoque **ramisque\ninclusa**, dissiluit hoc malis, *simulacra*? Cum cupido alis. Ulmi redit\nadpellatque tellus, soror robore sequerere cuspidis quae putares! Mihi solidas\nsed tyranni tecta pennas virgine, unus aufer, *Oete* neve femina, vos quid.\nOscula dignior.\n\n## Corpore motae iam\n\nEst humum data tardus et movet attrahit ferro\n[imperio](http://soleta.org/lectos). Iam undis veniente et crines faciat\nMelaneus sedebat et vobis. Protinus obstantes Iunoni uni date lumen Appenninus\npanda electae Daedalion.\n\n> Adest clipeo perdere plena bellatricemque neque ut ponat vestigatque tinxi\n> gregibus petit labore super fidem barbare. Grates modo, ite lanugine procubuit\n> artes velatos, sensit fida mihi: negabo.\n> [Tum](http://www.mea-pars.net/temptanti) desubito radere tendens **fuit**.\n\nQuibus **se intus montibus**. Auro terrae: mare e adulterium, per dolet et.",
+        "contentDigest": "00441b55a72ac697417496566fa8190e",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1872,75 +2733,19 @@
         }
       },
       "frontmatter": {
-        "title": "Bold Mage",
-        "cover": "https://unsplash.it/400/300/?random?BoldMage",
-        "date": "01/01/2017",
-        "category": "tech",
+        "title": "Random project 4 With Super Long Title Phase One",
+        "cover": "https://unsplash.it/1152/300/?random?SuperLong",
+        "category": "random",
+        "date": "02/03/2017",
         "tags": [
-          "programming",
-          "stuff",
-          "other"
+          "say hi"
         ],
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file"
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file"
       },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md",
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md",
       "fields": {
-        "slug": "/bold-mage"
-      }
-    },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Big Test\"\ncover: \"https://unsplash.it/400/300/?random?BigTest\"\ncategory: \"moar\"\ndate: \"01/03/2018\"\nslug: \"Big-Sample_Test\"\ntags:\n    - test\n    - huge\n---\n\n# NOTE: This \"post\" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.\n\n\nThis is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).\n\nThis cheatsheet is specifically *Markdown Here's* version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a *Markdown Here* email, but it should be pretty close.\n\nYou can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).\n\n(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)\n\n##### Table of Contents\n\n[Headers](#headers)\n[Emphasis](#emphasis)\n[Lists](#lists)\n[Links](#links)\n[Images](#images)\n[Code and Syntax Highlighting](#code)\n[Tables](#tables)\n[Blockquotes](#blockquotes)\n[Inline HTML](#html)\n[Horizontal Rule](#hr)\n[Line Breaks](#lines)\n[YouTube Videos](#videos)\n\n<a name=\"headers\"/>\n\n## Headers\n\n```no-highlight\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n```\n\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n\n<a name=\"emphasis\"/>\n\n## Emphasis\n\n```no-highlight\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n```\n\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n\n<a name=\"lists\"/>\n\n## Lists\n\n```no-highlight\n1. First ordered list item\n2. Another item\n  * Unordered sub-list.\n1. Actual numbers don't matter, just that it's a number\n  1. Ordered sub-list\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n```\n\n1. First ordered list item\n2. Another item\n\n   * Unordered sub-list.\n\n1. Actual numbers don't matter, just that it's a number\n\n   1. Ordered sub-list\n\n4. And another item.\n\n   Some text that should be aligned with the above item.\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n\n<a name=\"links\"/>\n\n## Links\n\nThere are two ways to create links.\n\n```no-highlight\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n```\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself]\n\nURLs and URLs in angle brackets will automatically get turned into links.\nhttp://www.example.com or <http://www.example.com> and sometimes\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\n<a name=\"images\"/>\n\n## Images\n\n```no-highlight\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n```\n\nHere's our logo (hover to see the title text):\n\nInline-style:\n![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")\n\nReference-style:\n![alt text][logo]\n\n[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 2\"\n\n<a name=\"code\"/>\n\n## Code and Syntax Highlighting\n\nCode blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n```no-highlight\nInline `code` has `back-ticks around` it.\n```\n\nInline `code` has `back-ticks around` it.\n\nBlocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.\n\n<pre lang=\"no-highlight\"><code>```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting.\nBut let's throw in a &lt;b&gt;tag&lt;/b&gt;.\n```\n</code></pre>\n\n\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n```\nNo language indicated, so no syntax highlighting in Markdown Here (varies on Github).\nBut let's throw in a <b>tag</b>.\n```\n\nAgain, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).\n\n<a name=\"tables\"/>\n\n## Tables\n\nTables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.\n\n```no-highlight\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n```\n\nColons can be used to align columns.\n\n| Tables        | Are           | Cool |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThe outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n\n<a name=\"blockquotes\"/>\n\n## Blockquotes\n\n```no-highlight\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n```\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.\n\n<a name=\"html\"/>\n\n## Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n```no-highlight\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n```\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n<a name=\"hr\"/>\n\n## Horizontal Rule\n\n```\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n```\n\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n\n<a name=\"lines\"/>\n\n## Line Breaks\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\n```\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n```\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also begins a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.\n\n(Technical note: *Markdown Here* uses GFM line breaks, so there's no need to use MD's two-space line breaks.)\n\n<a name=\"videos\"/>\n\n## YouTube Videos\n\nThey can't be added directly but you can add an image with a link to the video like this:\n\n```no-highlight\n<a href=\"http://www.youtube.com/watch?feature=player_embedded&v=8AkLfYOgIrE\n\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg\"\nalt=\"IMAGE ALT TEXT HERE\" width=\"240\" height=\"180\" border=\"10\" /></a>\n```\n\nOr, in pure Markdown, but losing the image sizing and border:\n\n```no-highlight\n[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)\n```\n",
-        "contentDigest": "f26bfc5912c480a7f8fe2e9be644f957",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Big Test",
-        "cover": "https://unsplash.it/400/300/?random?BigTest",
-        "category": "moar",
-        "date": "01/03/2018",
-        "slug": "Big-Sample_Test",
-        "tags": [
-          "test",
-          "huge"
-        ],
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md",
-      "fields": {
-        "slug": "/big-test"
-      }
-    },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"The Fairy's Witches\"\ncover: \"https://unsplash.it/1152/300/?random?FaityWitch\"\ncategory: \"something\"\ndate: \"02/04/2017\"\n---\n# Eram mora tuas in inter ferens caterva\n\n## Ait oculos\n\nLorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab\ntestes moderantum. Somno curas obscurum, et *regna spectare* quaeque tot arte\nMinyeia. Labens Actaeis potentior et **in visa Arcadiae** adfusaque et voto. In\nsilendo pares sed noceat sceptri Phoenix, qui verso [ille\nerigitur](http://de-fuit.io/populorum.php): iacet confessus ibi lacusque.\n\n> Laesa plangere, adiuvet nec: prima sinus tendit quantum, Inachis simulat nuda,\n> suffuderat sustinet serpentum. Medios parilique missisque manus; saxo idque\n> fiducia, duo his Eurydicen pectus accinctus? Silvani et duxere vultum: nec te\n> maestis duasque, sati nomen, nympha in facit! Vultibus flavaque. Pirithoi\n> infantia [hamadryadas erat dei](http://priamoque.com/exhibuit.html) parente\n> iuvenali, suum caput haud foedera nocti transferre.\n\nQuae nova: campis peragebant omnemque direptos ipsi ore erat volucris neque;\nformae. Trepidare figuram minanti longa, nec seris, ibat plus madent, nec compos\natque iuvenis dimotis; ferunt. An urbes ab deae Pentheus erit: non capere cui\nausim fallit omnia et estque caede. Meas haec una ab est iter exstantibus illo\n*summae flecti*.\n\n## Tyrios inquit\n\nOs inquit pensa sidereus: membra nomen superi magicaeque nympha ire [aevum tuus\net](http://vulnere-riget.com/) quid gladios, tuta. Pectore femina candida\naptumque auras dum!\n\n> Fuit Lucifer quorum, pone saepius videt: magnum suam? Videbit sit cepimus,\n> igne timidi nec appellat sine in. Alebat concussaque videri, subit et et ama\n> rigidoque tibi, radice, moenia Tyrios, cum gemini huius ingesta.\n\nNusquam sagitta ad ferre, ore terras mihi sopor mundi; tanti terga abstulit; tum\nterreris **adhuc sinistro** ad. Pirithoi certa commemorare Herse ponti\nmitissima, hanc nec sonat illo vocandus placido salus.\n\n1. Clamant donec\n2. Posuitque et relicto parent\n3. Mediis est Siculo eveniet de dictis\n4. Ripae formaque devexaque pecudes domum vidistis proles\n5. Dumque moenia amnes coniugium dumque in saxa\n\nSi patres terram! Mille habenas tractataque forte. Tenebris viscera gelidos\nfuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo **ferebat**.",
-        "contentDigest": "ee2c4c6f98c7b187e7db50da11b2d853",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "The Fairy's Witches",
-        "cover": "https://unsplash.it/1152/300/?random?FaityWitch",
-        "category": "something",
-        "date": "02/04/2017",
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
-      "fields": {
-        "slug": "/the-fairys-witches"
+        "slug": "/random-project-4-with-super-long-title-phase-one"
       }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file >>> MarkdownRemark": {
@@ -1969,6 +2774,7 @@
           "stuff",
           "other"
         ],
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file",
         "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file"
       },
       "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md",
@@ -1976,13 +2782,13 @@
         "slug": "/the-butterfly-of-the-edge"
       }
     },
-    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark",
+    "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file",
+      "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle: \"Random project 4 With Super Long Title Phase One\"\ncover: \"https://unsplash.it/1152/300/?random?SuperLong\"\ncategory: \"random\"\ndate: \"02/03/2017\"\ntags:\n    - say hi\n---\n# Artificem honorati ore temperat Lycus quam antiquum\n\n## Mendaci pinu ipsi nunc\n\nLorem markdownum supplex. Care ferre nos praemia detestatur oderit vitatumque,\ntardius pello ostentare; dixit. [Agit](http://accessit.net/) super, cum, qua\nquae pinxit certamine occulte causa: est est non. Dubita fictumque imagine.\n\nIlli quid patitur limitibus sumptam in vincemur ducit tumulatus et odisse\nvolucris et cupit inrorant vivax, Proetus ait. Nec induit mortalia olim ortus\nfoedera [praecipitem](http://www.pontumferae.io/protinuset.html) amans et iter\n[est](http://casuquefuit.io/murmurevestrum.aspx) huc virginitate spernimus\nOenopiis longi ore paretur? Sede ore quaedam dumque. Et alti: Tagus vino omnes\nait dictis **videt vos**, meus licet bipennem, Acheronte! Fulvae vulneris et\nmunus succurritis coma simulacraque amborum semper, insequar quae **simul\ntela**.\n\n## Facta huic laboras matris tandem scelus\n\nPer praesuta occupat stratum, manuque te femina magni Nelidae. [Cauda\nlacrimisque](http://www.in.io/) sua nec quoque *prodiga*: more te aera est fas\nut utrumque omnes, fugae sua Telamone. Scilicet indulgere *dat terunt quam*\ncorpora, ad non Canentem gressu feliciter lapillis caede frequentes tibi nostro?\nAgmine in Phlegon illo oblita, ait quis negare orbem, prosunt tamen, praesentit\niussae Babylonius finita!\n\nInvictumque marmoreis simulatas solverat saevique nondum depositoque **ramisque\ninclusa**, dissiluit hoc malis, *simulacra*? Cum cupido alis. Ulmi redit\nadpellatque tellus, soror robore sequerere cuspidis quae putares! Mihi solidas\nsed tyranni tecta pennas virgine, unus aufer, *Oete* neve femina, vos quid.\nOscula dignior.\n\n## Corpore motae iam\n\nEst humum data tardus et movet attrahit ferro\n[imperio](http://soleta.org/lectos). Iam undis veniente et crines faciat\nMelaneus sedebat et vobis. Protinus obstantes Iunoni uni date lumen Appenninus\npanda electae Daedalion.\n\n> Adest clipeo perdere plena bellatricemque neque ut ponat vestigatque tinxi\n> gregibus petit labore super fidem barbare. Grates modo, ite lanugine procubuit\n> artes velatos, sensit fida mihi: negabo.\n> [Tum](http://www.mea-pars.net/temptanti) desubito radere tendens **fuit**.\n\nQuibus **se intus montibus**. Auro terrae: mare e adulterium, per dolet et.",
-        "contentDigest": "00441b55a72ac697417496566fa8190e",
+        "content": "---\ntitle: \"The Fairy's Witches\"\ncover: \"https://unsplash.it/1152/300/?random?FaityWitch\"\ncategory: \"something\"\ndate: \"02/04/2017\"\n---\n# Eram mora tuas in inter ferens caterva\n\n## Ait oculos\n\nLorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab\ntestes moderantum. Somno curas obscurum, et *regna spectare* quaeque tot arte\nMinyeia. Labens Actaeis potentior et **in visa Arcadiae** adfusaque et voto. In\nsilendo pares sed noceat sceptri Phoenix, qui verso [ille\nerigitur](http://de-fuit.io/populorum.php): iacet confessus ibi lacusque.\n\n> Laesa plangere, adiuvet nec: prima sinus tendit quantum, Inachis simulat nuda,\n> suffuderat sustinet serpentum. Medios parilique missisque manus; saxo idque\n> fiducia, duo his Eurydicen pectus accinctus? Silvani et duxere vultum: nec te\n> maestis duasque, sati nomen, nympha in facit! Vultibus flavaque. Pirithoi\n> infantia [hamadryadas erat dei](http://priamoque.com/exhibuit.html) parente\n> iuvenali, suum caput haud foedera nocti transferre.\n\nQuae nova: campis peragebant omnemque direptos ipsi ore erat volucris neque;\nformae. Trepidare figuram minanti longa, nec seris, ibat plus madent, nec compos\natque iuvenis dimotis; ferunt. An urbes ab deae Pentheus erit: non capere cui\nausim fallit omnia et estque caede. Meas haec una ab est iter exstantibus illo\n*summae flecti*.\n\n## Tyrios inquit\n\nOs inquit pensa sidereus: membra nomen superi magicaeque nympha ire [aevum tuus\net](http://vulnere-riget.com/) quid gladios, tuta. Pectore femina candida\naptumque auras dum!\n\n> Fuit Lucifer quorum, pone saepius videt: magnum suam? Videbit sit cepimus,\n> igne timidi nec appellat sine in. Alebat concussaque videri, subit et et ama\n> rigidoque tibi, radice, moenia Tyrios, cum gemini huius ingesta.\n\nNusquam sagitta ad ferre, ore terras mihi sopor mundi; tanti terga abstulit; tum\nterreris **adhuc sinistro** ad. Pirithoi certa commemorare Herse ponti\nmitissima, hanc nec sonat illo vocandus placido salus.\n\n1. Clamant donec\n2. Posuitque et relicto parent\n3. Mediis est Siculo eveniet de dictis\n4. Ripae formaque devexaque pecudes domum vidistis proles\n5. Dumque moenia amnes coniugium dumque in saxa\n\nSi patres terram! Mille habenas tractataque forte. Tenebris viscera gelidos\nfuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo **ferebat**.",
+        "contentDigest": "ee2c4c6f98c7b187e7db50da11b2d853",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1990,18 +2796,16 @@
         }
       },
       "frontmatter": {
-        "title": "Random project 4 With Super Long Title Phase One",
-        "cover": "https://unsplash.it/1152/300/?random?SuperLong",
-        "category": "random",
-        "date": "02/03/2017",
-        "tags": [
-          "say hi"
-        ],
-        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file"
+        "title": "The Fairy's Witches",
+        "cover": "https://unsplash.it/1152/300/?random?FaityWitch",
+        "category": "something",
+        "date": "02/04/2017",
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file",
+        "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file"
       },
-      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md",
+      "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md",
       "fields": {
-        "slug": "/random-project-4-with-super-long-title-phase-one"
+        "slug": "/the-fairys-witches"
       }
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md absPath of file >>> MarkdownRemark": {
@@ -2025,6 +2829,7 @@
         "tags": [
           "tag"
         ],
+        "_PARENT": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md absPath of file",
         "parent": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md absPath of file"
       },
       "fileAbsolutePath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md",
@@ -2032,683 +2837,725 @@
         "slug": "/birch-in-the-roses"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f7e00b17bb630b62fdfffec8c7673e8c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /the-fallen-time": {
-      "path": "/the-fallen-time",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/the-fallen-time"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
-      "layout": "index",
-      "jsonName": "the-fallen-time.json",
-      "internalComponentName": "ComponentTheFallenTime",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /the-fallen-time",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1d6f3552e1e572df98a3f1d02b6724e1",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /angels-of-mist": {
-      "path": "/angels-of-mist",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/angels-of-mist"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
-      "layout": "index",
-      "jsonName": "angels-of-mist.json",
-      "internalComponentName": "ComponentAngelsOfMist",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /angels-of-mist",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "58daa6b598b2ff1f7b8bfc8fa4d28d8d",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /bold-mage": {
-      "path": "/bold-mage",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/bold-mage"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
-      "layout": "index",
-      "jsonName": "bold-mage.json",
-      "internalComponentName": "ComponentBoldMage",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /bold-mage",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "912d3b03ec963a6fd64c8d392f0f469c",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /big-test": {
-      "path": "/big-test",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/big-test"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
       "layout": "index",
       "jsonName": "big-test.json",
       "internalComponentName": "ComponentBigTest",
+      "path": "/big-test",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/big-test"
+      },
+      "updatedAt": 1512606646241,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
       "id": "SitePage /big-test",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "760bf4e621e8798a274c69328d1f584a",
+        "contentDigest": "a3d6327af3e95a0759c8d1d1238442f1",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /the-fairys-witches": {
-      "path": "/the-fairys-witches",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/the-fairys-witches"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
+    "SitePage /bold-mage": {
       "layout": "index",
-      "jsonName": "the-fairys-witches.json",
-      "internalComponentName": "ComponentTheFairysWitches",
+      "jsonName": "bold-mage.json",
+      "internalComponentName": "ComponentBoldMage",
+      "path": "/bold-mage",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/bold-mage"
+      },
+      "updatedAt": 1512606646242,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /the-fairys-witches",
+      "id": "SitePage /bold-mage",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8bcfb88e00f0c44a483fceefafa31140",
+        "contentDigest": "b655cdfc292b8fd1a774e7e2c999c117",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /the-butterfly-of-the-edge": {
-      "path": "/the-butterfly-of-the-edge",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/the-butterfly-of-the-edge"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
+    "SitePage /the-fallen-time": {
       "layout": "index",
-      "jsonName": "the-butterfly-of-the-edge.json",
-      "internalComponentName": "ComponentTheButterflyOfTheEdge",
+      "jsonName": "the-fallen-time.json",
+      "internalComponentName": "ComponentTheFallenTime",
+      "path": "/the-fallen-time",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/the-fallen-time"
+      },
+      "updatedAt": 1512606646243,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "id": "SitePage /the-butterfly-of-the-edge",
+      "id": "SitePage /the-fallen-time",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8077117088d9aa9ee22a8e5d1a590139",
+        "contentDigest": "700a22bfd2d11e450ed69624c53f65cf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /angels-of-mist": {
+      "layout": "index",
+      "jsonName": "angels-of-mist.json",
+      "internalComponentName": "ComponentAngelsOfMist",
+      "path": "/angels-of-mist",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/angels-of-mist"
+      },
+      "updatedAt": 1512606646244,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "id": "SitePage /angels-of-mist",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0f612aaf8762e4f16d768475b133e5c8",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /random-project-4-with-super-long-title-phase-one": {
-      "path": "/random-project-4-with-super-long-title-phase-one",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/random-project-4-with-super-long-title-phase-one"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
       "layout": "index",
       "jsonName": "random-project-4-with-super-long-title-phase-one.json",
       "internalComponentName": "ComponentRandomProject4WithSuperLongTitlePhaseOne",
+      "path": "/random-project-4-with-super-long-title-phase-one",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/random-project-4-with-super-long-title-phase-one"
+      },
+      "updatedAt": 1512606646245,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
       "id": "SitePage /random-project-4-with-super-long-title-phase-one",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "adc0850fd3cc51c7763cdd062cbb7cea",
+        "contentDigest": "fd0767b68be0f2b23e81ebd96c5d0ded",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /the-butterfly-of-the-edge": {
+      "layout": "index",
+      "jsonName": "the-butterfly-of-the-edge.json",
+      "internalComponentName": "ComponentTheButterflyOfTheEdge",
+      "path": "/the-butterfly-of-the-edge",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/the-butterfly-of-the-edge"
+      },
+      "updatedAt": 1512606646247,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "id": "SitePage /the-butterfly-of-the-edge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "67ac89e641a95be7aebaef8317abce0e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /the-fairys-witches": {
+      "layout": "index",
+      "jsonName": "the-fairys-witches.json",
+      "internalComponentName": "ComponentTheFairysWitches",
+      "path": "/the-fairys-witches",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/the-fairys-witches"
+      },
+      "updatedAt": 1512606646247,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "id": "SitePage /the-fairys-witches",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5cdb2b48499b967927bc181aa3cf829a",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /birch-in-the-roses": {
-      "path": "/birch-in-the-roses",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
-      "context": {
-        "slug": "/birch-in-the-roses"
-      },
-      "componentChunkName": "component---src-templates-post-jsx",
       "layout": "index",
       "jsonName": "birch-in-the-roses.json",
       "internalComponentName": "ComponentBirchInTheRoses",
+      "path": "/birch-in-the-roses",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "slug": "/birch-in-the-roses"
+      },
+      "updatedAt": 1512606646248,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
       "id": "SitePage /birch-in-the-roses",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "02857dd79895dc9dc42280596d7eb81c",
+        "contentDigest": "31fda0160a38bcf8b503fa4c64ab5371",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /tags/test/": {
-      "path": "/tags/test/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "test"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
       "layout": "index",
       "jsonName": "tags-test.json",
       "internalComponentName": "ComponentTagsTest",
+      "path": "/tags/test/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "test"
+      },
+      "updatedAt": 1512606646248,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
       "id": "SitePage /tags/test/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d393c2d9cd7fce94a340732282856217",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/something/": {
-      "path": "/tags/something/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "something"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-something.json",
-      "internalComponentName": "ComponentTagsSomething",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/something/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "94eb069126b213b4f29ad11134797fde",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/tagging/": {
-      "path": "/tags/tagging/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "tagging"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-tagging.json",
-      "internalComponentName": "ComponentTagsTagging",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/tagging/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8833a0bd60e64170e6d818a5c6249607",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/cheese/": {
-      "path": "/tags/cheese/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "cheese"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-cheese.json",
-      "internalComponentName": "ComponentTagsCheese",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/cheese/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "189f2e30f001ec794f6a1e4ffd818596",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/other/": {
-      "path": "/tags/other/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "other"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-other.json",
-      "internalComponentName": "ComponentTagsOther",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/other/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "489d45712ac2d8bd5d71f8ad2072075f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/programming/": {
-      "path": "/tags/programming/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "programming"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-programming.json",
-      "internalComponentName": "ComponentTagsProgramming",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/programming/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f46cd1e7807def307b3e164c00e0bc80",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/stuff/": {
-      "path": "/tags/stuff/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "stuff"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
-      "layout": "index",
-      "jsonName": "tags-stuff.json",
-      "internalComponentName": "ComponentTagsStuff",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/stuff/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5bf3925d95cff44f769cd4545e2d3c7e",
+        "contentDigest": "84bd5a89c5e2ee8d3b17cd2afaa3ada1",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /tags/huge/": {
-      "path": "/tags/huge/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "huge"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
       "layout": "index",
       "jsonName": "tags-huge.json",
       "internalComponentName": "ComponentTagsHuge",
+      "path": "/tags/huge/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "huge"
+      },
+      "updatedAt": 1512606646249,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
       "id": "SitePage /tags/huge/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d65ebaf61e39d346f4ebadf87e61e22",
+        "contentDigest": "2f96667c2b2575b3e3e2ddc414845548",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/more-tags/": {
-      "path": "/tags/more-tags/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "more tags"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
+    "SitePage /tags/programming/": {
       "layout": "index",
-      "jsonName": "tags-more-tags.json",
-      "internalComponentName": "ComponentTagsMoreTags",
+      "jsonName": "tags-programming.json",
+      "internalComponentName": "ComponentTagsProgramming",
+      "path": "/tags/programming/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "programming"
+      },
+      "updatedAt": 1512606646250,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/more-tags/",
+      "id": "SitePage /tags/programming/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "558d49e5a299b6e01e554d1d7349119d",
+        "contentDigest": "9c61e984a7348b7a02d23c069381239b",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/testing/": {
-      "path": "/tags/testing/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "testing"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
+    "SitePage /tags/stuff/": {
       "layout": "index",
-      "jsonName": "tags-testing.json",
-      "internalComponentName": "ComponentTagsTesting",
+      "jsonName": "tags-stuff.json",
+      "internalComponentName": "ComponentTagsStuff",
+      "path": "/tags/stuff/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "stuff"
+      },
+      "updatedAt": 1512606646250,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/testing/",
+      "id": "SitePage /tags/stuff/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5da52da8a159f8a0f41b2f5cb5eeaa10",
+        "contentDigest": "6dfb46311ed06d1e7f04b6f37d525434",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/another-one/": {
-      "path": "/tags/another-one/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "another one"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
+    "SitePage /tags/other/": {
       "layout": "index",
-      "jsonName": "tags-another-one.json",
-      "internalComponentName": "ComponentTagsAnotherOne",
+      "jsonName": "tags-other.json",
+      "internalComponentName": "ComponentTagsOther",
+      "path": "/tags/other/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "other"
+      },
+      "updatedAt": 1512606646251,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "id": "SitePage /tags/another-one/",
+      "id": "SitePage /tags/other/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cf94daab6c8c70c07910d42ada8bcd3c",
+        "contentDigest": "247ddd9a7dba1e3d9ca41719e65527f9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/something/": {
+      "layout": "index",
+      "jsonName": "tags-something.json",
+      "internalComponentName": "ComponentTagsSomething",
+      "path": "/tags/something/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "something"
+      },
+      "updatedAt": 1512606646251,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/something/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "41d23bf50df780cc6d74fd8cc9ce2615",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tagging/": {
+      "layout": "index",
+      "jsonName": "tags-tagging.json",
+      "internalComponentName": "ComponentTagsTagging",
+      "path": "/tags/tagging/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "tagging"
+      },
+      "updatedAt": 1512606646252,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/tagging/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4367d262dbb06354df593e5e867d0f22",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/cheese/": {
+      "layout": "index",
+      "jsonName": "tags-cheese.json",
+      "internalComponentName": "ComponentTagsCheese",
+      "path": "/tags/cheese/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "cheese"
+      },
+      "updatedAt": 1512606646253,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/cheese/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fb50460979023b6f12fc14bdb0dcd647",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /tags/say-hi/": {
-      "path": "/tags/say-hi/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "say hi"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
       "layout": "index",
       "jsonName": "tags-say-hi.json",
       "internalComponentName": "ComponentTagsSayHi",
+      "path": "/tags/say-hi/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "say hi"
+      },
+      "updatedAt": 1512606646253,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
       "id": "SitePage /tags/say-hi/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c247122cb67de7beb4bc1c7c1cafa74",
+        "contentDigest": "169303cd83405368dcd09e5bf399a57b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/more-tags/": {
+      "layout": "index",
+      "jsonName": "tags-more-tags.json",
+      "internalComponentName": "ComponentTagsMoreTags",
+      "path": "/tags/more-tags/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "more tags"
+      },
+      "updatedAt": 1512606646254,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/more-tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "903ee5cbb4fd7c67908cbb7e20be500f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/testing/": {
+      "layout": "index",
+      "jsonName": "tags-testing.json",
+      "internalComponentName": "ComponentTagsTesting",
+      "path": "/tags/testing/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "testing"
+      },
+      "updatedAt": 1512606646254,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/testing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1fbada501c00ba92cf4b6c9720d7984f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/another-one/": {
+      "layout": "index",
+      "jsonName": "tags-another-one.json",
+      "internalComponentName": "ComponentTagsAnotherOne",
+      "path": "/tags/another-one/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "another one"
+      },
+      "updatedAt": 1512606646255,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "id": "SitePage /tags/another-one/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e636033fa669074d60fce75449450dee",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /tags/tag/": {
-      "path": "/tags/tag/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
-      "context": {
-        "tag": "tag"
-      },
-      "componentChunkName": "component---src-templates-tag-jsx",
       "layout": "index",
       "jsonName": "tags-tag.json",
       "internalComponentName": "ComponentTagsTag",
+      "path": "/tags/tag/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "tag": "tag"
+      },
+      "updatedAt": 1512606646256,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
       "id": "SitePage /tags/tag/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8de3d396b156d773dc25fb8555c6e9e3",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/another-one/": {
-      "path": "/categories/another-one/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "another one"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
-      "layout": "index",
-      "jsonName": "categories-another-one.json",
-      "internalComponentName": "ComponentCategoriesAnotherOne",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/another-one/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8c2b1b289bb56f37a2062a49588fb995",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/test-3/": {
-      "path": "/categories/test-3/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "test3"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
-      "layout": "index",
-      "jsonName": "categories-test-3.json",
-      "internalComponentName": "ComponentCategoriesTest3",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/test-3/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2e5148e2c63b942a1643b6f3ab444a72",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/tech/": {
-      "path": "/categories/tech/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "tech"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
-      "layout": "index",
-      "jsonName": "categories-tech.json",
-      "internalComponentName": "ComponentCategoriesTech",
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/tech/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ea7db358e6593256b0eb9ef040c47032",
+        "contentDigest": "259b53c69a3a32fd958b39f8fc9afc5e",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /categories/moar/": {
-      "path": "/categories/moar/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "moar"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
       "layout": "index",
       "jsonName": "categories-moar.json",
       "internalComponentName": "ComponentCategoriesMoar",
+      "path": "/categories/moar/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "category": "moar"
+      },
+      "updatedAt": 1512606646257,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
       "id": "SitePage /categories/moar/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ab708c2c860b45f47b85896788d5fcd",
+        "contentDigest": "23fd4044d53f6699cdd96e458288b15a",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /categories/something/": {
-      "path": "/categories/something/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "something"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
+    "SitePage /categories/tech/": {
       "layout": "index",
-      "jsonName": "categories-something.json",
-      "internalComponentName": "ComponentCategoriesSomething",
+      "jsonName": "categories-tech.json",
+      "internalComponentName": "ComponentCategoriesTech",
+      "path": "/categories/tech/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "category": "tech"
+      },
+      "updatedAt": 1512606646259,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "id": "SitePage /categories/something/",
+      "id": "SitePage /categories/tech/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b42b3544e3e4cf83eeb684d0b36b3d8b",
+        "contentDigest": "2881c5acf137acdf46126f5e53c1cc3c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/another-one/": {
+      "layout": "index",
+      "jsonName": "categories-another-one.json",
+      "internalComponentName": "ComponentCategoriesAnotherOne",
+      "path": "/categories/another-one/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "category": "another one"
+      },
+      "updatedAt": 1512606646259,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "id": "SitePage /categories/another-one/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "80f7ae14106cdb8e99dd0a9f1b2afe89",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/test-3/": {
+      "layout": "index",
+      "jsonName": "categories-test-3.json",
+      "internalComponentName": "ComponentCategoriesTest3",
+      "path": "/categories/test-3/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "category": "test3"
+      },
+      "updatedAt": 1512606646259,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "id": "SitePage /categories/test-3/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "faf922060c743581bf6226c80370e433",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /categories/random/": {
-      "path": "/categories/random/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
-      "context": {
-        "category": "random"
-      },
-      "componentChunkName": "component---src-templates-category-jsx",
       "layout": "index",
       "jsonName": "categories-random.json",
       "internalComponentName": "ComponentCategoriesRandom",
+      "path": "/categories/random/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "category": "random"
+      },
+      "updatedAt": 1512606646260,
       "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
       "id": "SitePage /categories/random/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ec8b68bf288e4ccf5900485e3749f0f",
+        "contentDigest": "b2c580288f557a16cde8df2463953df1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/something/": {
+      "layout": "index",
+      "jsonName": "categories-something.json",
+      "internalComponentName": "ComponentCategoriesSomething",
+      "path": "/categories/something/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "category": "something"
+      },
+      "updatedAt": 1512606646260,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
+      "id": "SitePage /categories/something/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "44e87481ef051972d0781bf7bb128f3d",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /about/": {
-      "path": "/about/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx",
-      "componentChunkName": "component---src-pages-about-jsx",
       "layout": "index",
       "jsonName": "about.json",
       "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx",
+      "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
+      "updatedAt": 1512606646291,
       "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx",
       "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab9022de8aab6412a9e57a396c75954a",
+        "contentDigest": "d7a7ea9c3f94686cfbdfbbebd9223b51",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /": {
-      "path": "/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx",
-      "componentChunkName": "component---src-pages-index-jsx",
       "layout": "index",
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
+      "updatedAt": 1512606646292,
       "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cae08c5ee587606da929c0537167d742",
+        "contentDigest": "491a08739753d2c25c1714094e57f61e",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b5eb8f407f97de95f86cc7d95547bd34"
+    "PLUGINS_HASH": "c5612176703ebb1852fe6f95b6dfc28f"
   },
   "componentDataDependencies": {
     "nodes": {
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": [
+        "/big-test"
+      ],
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark": [
+        "/bold-mage"
+      ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-02-2017/index.md absPath of file >>> MarkdownRemark": [
         "/the-fallen-time"
       ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-03-2017/index.md absPath of file >>> MarkdownRemark": [
         "/angels-of-mist"
       ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-01-2017/index.md absPath of file >>> MarkdownRemark": [
-        "/bold-mage"
-      ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/01-07-2017-Big_Sample_Post/index.md absPath of file >>> MarkdownRemark": [
-        "/big-test"
-      ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": [
-        "/the-fairys-witches"
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": [
+        "/random-project-4-with-super-long-title-phase-one"
       ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/17-03-2017/index.md absPath of file >>> MarkdownRemark": [
         "/the-butterfly-of-the-edge"
       ],
-      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-03-2017/index.md absPath of file >>> MarkdownRemark": [
-        "/random-project-4-with-super-long-title-phase-one"
+      "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/02-04-2017/index.md absPath of file >>> MarkdownRemark": [
+        "/the-fairys-witches"
       ],
       "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/content/sample-posts/23-03-2017/index.md absPath of file >>> MarkdownRemark": [
         "/birch-in-the-roses"
       ]
     },
     "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
       "MarkdownRemark": [
         "/tags/test/",
+        "/tags/huge/",
+        "/tags/programming/",
+        "/tags/stuff/",
+        "/tags/other/",
         "/tags/something/",
         "/tags/tagging/",
         "/tags/cheese/",
-        "/tags/other/",
-        "/tags/programming/",
-        "/tags/stuff/",
-        "/tags/huge/",
+        "/tags/say-hi/",
         "/tags/more-tags/",
         "/tags/testing/",
         "/tags/another-one/",
-        "/tags/say-hi/",
         "/tags/tag/",
+        "/categories/moar/",
+        "/categories/tech/",
         "/categories/another-one/",
         "/categories/test-3/",
-        "/categories/tech/",
-        "/categories/moar/",
-        "/categories/something/",
         "/categories/random/",
+        "/categories/something/",
         "/"
       ]
     }

@@ -8,7 +8,7 @@
                         "fields": {
                             "slug": "/big-test"
                         },
-                        "excerpt": "NOTE: This \"post\" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a...",
+                        "excerpt": "NOTE: This \"post\" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…",
                         "timeToRead": 8,
                         "frontmatter": {
                             "title": "Big Test",
@@ -26,7 +26,7 @@
                         "fields": {
                             "slug": "/the-fallen-time"
                         },
-                        "excerpt": "Autolyci eminus retenta Hoc domum solitos veteremque nostrum Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus...",
+                        "excerpt": "Autolyci eminus retenta Hoc domum solitos veteremque nostrum Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus…",
                         "timeToRead": 2,
                         "frontmatter": {
                             "title": "The Fallen Time",

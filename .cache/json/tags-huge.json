@@ -8,7 +8,7 @@
                         "fields": {
                             "slug": "/big-test"
                         },
-                        "excerpt": "NOTE: This \"post\" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a...",
+                        "excerpt": "NOTE: This \"post\" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…",
                         "timeToRead": 8,
                         "frontmatter": {
                             "title": "Big Test",

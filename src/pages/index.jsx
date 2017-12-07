@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import typography from "../utils/typography";
 import PostListing from "../components/PostListing/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
@@ -14,7 +15,9 @@ class Index extends React.Component {
     //     <PostListing postEdges={postEdges} />
     //   </div>
     // );
-    return <div className="under-contruction">Under Construction - Please Come Back Soon!</div>
+    return <div className="under-contruction">
+      <h1>Under Construction - Please Come Back Soon!</h1>
+      </div>
   }
 }
 
