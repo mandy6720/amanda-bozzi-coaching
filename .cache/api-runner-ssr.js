@@ -1,7 +1,4 @@
 var plugins = [{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-typography/gatsby-ssr.js'),
-      options: {"plugins":[]},
-    },{
       plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{

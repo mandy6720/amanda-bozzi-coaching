@@ -5,11 +5,6 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/big-test"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/bold-mage"
                     }
                 },
@@ -20,17 +15,7 @@
                 },
                 {
                     "node": {
-                        "path": "/angels-of-mist"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/random-project-4-with-super-long-title-phase-one"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/the-butterfly-of-the-edge"
                     }
                 },
                 {
@@ -40,17 +25,22 @@
                 },
                 {
                     "node": {
+                        "path": "/the-butterfly-of-the-edge"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/birch-in-the-roses"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/test/"
+                        "path": "/angels-of-mist"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/huge/"
+                        "path": "/big-test"
                     }
                 },
                 {
@@ -70,17 +60,17 @@
                 },
                 {
                     "node": {
+                        "path": "/tags/test/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/tags/something/"
                     }
                 },
                 {
                     "node": {
                         "path": "/tags/tagging/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/tags/cheese/"
                     }
                 },
                 {
@@ -110,7 +100,12 @@
                 },
                 {
                     "node": {
-                        "path": "/categories/moar/"
+                        "path": "/tags/cheese/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/huge/"
                     }
                 },
                 {
@@ -125,11 +120,6 @@
                 },
                 {
                     "node": {
-                        "path": "/categories/test-3/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/categories/random/"
                     }
                 },
@@ -140,12 +130,22 @@
                 },
                 {
                     "node": {
-                        "path": "/about/"
+                        "path": "/categories/test-3/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/categories/moar/"
                     }
                 },
                 {
                     "node": {
                         "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/about/"
                     }
                 }
             ]

@@ -1,7 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
 import config from "../../data/SiteConfig";
-import typography from "../utils/typography";
 
 import "./index.css";
 
