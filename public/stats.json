@@ -20,6 +20,10 @@
       "path---random-project-4-with-super-long-title-phase-one-58a5652133935d446608.js",
       "path---random-project-4-with-super-long-title-phase-one-58a5652133935d446608.js.map"
     ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-51bdd0f72e904aa8949b.js",
+      "component---src-pages-contact-jsx-51bdd0f72e904aa8949b.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -41,8 +45,8 @@
       "path---tags-testing-c115e7c0b5b43182c6c3.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-76042f1835dd6e8743db.js",
-      "component---src-layouts-index-jsx-76042f1835dd6e8743db.js.map"
+      "component---src-layouts-index-jsx-8725b60186f2b738fd62.js",
+      "component---src-layouts-index-jsx-8725b60186f2b738fd62.js.map"
     ],
     "path---categories-test-3": [
       "path---categories-test-3-6f7cd5ecd9ee33e66afd.js",
@@ -93,9 +97,9 @@
       "path---tags-tagging-24e5d475d88afdaa232b.js.map"
     ],
     "commons": [
-      "commons-9ca0ff6f347d8dc541bc.js",
+      "commons-465e963a66d301232591.js",
       "build-js-styles.css",
-      "commons-9ca0ff6f347d8dc541bc.js.map",
+      "commons-465e963a66d301232591.js.map",
       "build-js-styles.css.map"
     ],
     "path---angels-of-mist": [
@@ -110,6 +114,10 @@
       "path---the-fairys-witches-dd50f18b1605d72d5652.js",
       "path---the-fairys-witches-dd50f18b1605d72d5652.js.map"
     ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---categories-random": [
       "path---categories-random-c91f88f36c76d78a2778.js",
       "path---categories-random-c91f88f36c76d78a2778.js.map"
@@ -123,17 +131,17 @@
       "component---src-templates-post-jsx-d6a325225573bbb7a6c3.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-8905c7d025ead702ff95.js",
-      "component---src-pages-index-jsx-8905c7d025ead702ff95.js.map"
+      "component---src-pages-index-jsx-c3da94d2c071c478ed08.js",
+      "component---src-pages-index-jsx-c3da94d2c071c478ed08.js.map"
     ],
     "path---tags-something": [
       "path---tags-something-1a50a895a1f2052ea304.js",
       "path---tags-something-1a50a895a1f2052ea304.js.map"
     ],
     "app": [
-      "app-1d7bbb10d6fa86713c96.js",
+      "app-a74c269198d9c267e33f.js",
       "build-js-styles.css",
-      "app-1d7bbb10d6fa86713c96.js.map",
+      "app-a74c269198d9c267e33f.js.map",
       "build-js-styles.css.map"
     ],
     "path---big-test": [

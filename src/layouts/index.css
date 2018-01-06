@@ -76,6 +76,10 @@ a, a:hover, a:visited {
   font-family: 'Playlist';
 }
 
+#hb-container {
+  display: none;
+}
+
 .hero {
   background-image: url('../../static/img/Experiential-Travel.jpg');
   background-size: cover;
@@ -175,7 +179,15 @@ a, a:hover, a:visited {
   }
 }
 /* Mobile styles go here <3 */
-@media screen and (max-width: 875px) {
+@media screen and (max-width: 475px) {
+  #nav-links {
+    display: none;
+  }
+
+  #hb-container {
+    display: inline-block;
+  }
+
   .hero {
     background-image: url('../../static/img/spotsbg-transp.png');
     background-size: cover;
