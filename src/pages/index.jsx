@@ -1,6 +1,5 @@
 import React from "react";
 import Helmet from "react-helmet";
-import PostListing from "../components/PostListing/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 
@@ -8,17 +7,17 @@ import UnderConstruction from "../components/UnderConstruction/UnderConstruction
 
 class Index extends React.Component {
   render() {
-    // const postEdges = this.props.data.allMarkdownRemark.edges;
-    // return (
-    //   <div className="index-container">
-    //     <Helmet title={config.siteTitle} />
-    //     <SEO postEdges={postEdges} />
-    //     <PostListing postEdges={postEdges} />
-    //   </div>
-    // );
-    return <div>
-      <UnderConstruction/>
-    </div>
+    const postEdges = this.props.data.allMarkdownRemark.edges;
+    return (
+      <div id="index-container">
+        <Helmet title={config.siteTitle} />
+        <SEO postEdges={postEdges} />
+        <div>Hi, I'm the home page</div>
+      </div>
+    );
+    // return <div>
+    //   <UnderConstruction/>
+    // </div>
   }
 }
 

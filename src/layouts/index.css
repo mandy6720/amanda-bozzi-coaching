@@ -1,3 +1,15 @@
+/* 
+POSSIBLE BRAND COLORS:
+
+eton blue #95c6b3
+light carmine pink #ef6f6c
+white #fff
+yankees blue #1c3144
+black shadows (light grey) #bab7ae
+charcoal #36454F
+
+*/
+
 @font-face {
   font-family: 'King Basil';
   src: url('../fonts/KingBasil/king-basil-lite-webfont.woff2') format('woff2'), url('../fonts/KingBasil/king-basil-lite-webfont.woff') format('woff');
@@ -24,5 +36,9 @@ h1, h2, h3, h4 {
 
 a, a:hover, a:visited {
   text-decoration: none;
-  color: #000;
+  color: #bab7ae;
+}
+
+.content-container {
+  padding: 0 1.5rem;
 }

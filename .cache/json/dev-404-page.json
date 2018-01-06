@@ -1,7 +1,7 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 29,
+            "totalCount": 30,
             "edges": [
                 {
                     "node": {
@@ -146,6 +146,11 @@
                 {
                     "node": {
                         "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/workWithMe/"
                     }
                 }
             ]

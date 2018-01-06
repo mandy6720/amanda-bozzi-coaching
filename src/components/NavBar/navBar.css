@@ -1,0 +1,31 @@
+#navbar-container {
+  height: 3.5rem;
+  background-color: #1c3144;
+  color: #F0F8FF;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  justify-content: space-between;
+}
+
+#brand-logo {
+  text-shadow: none;
+  background-image: none;
+  margin-left: 1rem;
+}
+
+#brand-logo h3 {
+  color: #F0F8FF;
+}
+
+#nav-links {
+  list-style: none;
+}
+.nav-link {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.nav-link a {
+  color: #F0F8FF;
+}

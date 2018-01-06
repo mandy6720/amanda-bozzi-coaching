@@ -6,7 +6,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-110601944-1"},
     },{
       plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
-      options: {"plugins":[],"color":"#c62828"},
+      options: {"plugins":[],"color":"#013243"},
     },{
       plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},

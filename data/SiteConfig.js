@@ -16,7 +16,7 @@ module.exports = {
   userLocation: "Alexandria, VA", // User location to display in the author segment.
   userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
   userDescription:
-    "Software engineer turned life coach and general troublemaker", // User description to display in the author segment.
+    "Software engineer turned life coach & general troublemaker", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -31,11 +31,11 @@ module.exports = {
     },
     {
       label: "Email",
-      url: "mailto:amanda.hewitt01@gmail.com",
+      url: "mailto:amanda@amandabozzi.com",
       iconClassName: "fa fa-envelope"
     }
   ],
   copyright: "Copyright © 2017. Amanda Bozzi", // Copyright string for the footer of the website and RSS feed.
-  themeColor: "#c62828", // Used for setting manifest and progress theme colors.
+  themeColor: "#013243", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0" // Used for setting manifest background color.
 };

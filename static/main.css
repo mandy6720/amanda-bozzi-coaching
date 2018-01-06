@@ -6,6 +6,7 @@ light carmine pink #ef6f6c
 white #fff
 yankees blue #1c3144
 black shadows (light grey) #bab7ae
+charcoal #36454F
 
 */
 
@@ -30,15 +31,6 @@ body {
   font-family: 'Source Sans Pro', sans-serif;  
 }
 
-.navbar {
-
-}
-
-.navbar-brand {
-  font-family: KingBasil;
-  margin-top: 5px;
-}
-
-.nav-item {
-  margin-right: 1.5em;
+.container {
+  padding-left: 1.5rem;
 }
