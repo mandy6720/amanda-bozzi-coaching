@@ -6,7 +6,6 @@ import Hamburger from '../Hamburger/hamburger';
 import './navBar.css';
 
 let screenSize = document.getElementsByTagName('body')[0].clientWidth;
-console.log(screenSize)
 
 const ListLink = props =>
   <li className="nav-link">
@@ -20,7 +19,7 @@ export default ({ children }) =>
     <Link to="/" id="brand-logo">
       <h3>Amanda Bozzi</h3>
     </Link>
-    {screenSize >= 375 ? (<ul id="nav-links">
+    {screenSize >= 350 ? (<ul id="nav-links">
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/contact/">Contact</ListLink>

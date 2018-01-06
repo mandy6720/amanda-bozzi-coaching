@@ -9,10 +9,16 @@ class Index extends React.Component {
   render() {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div id="index-container">
+      <div className="container">
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
-        <div>Hi, I'm the home page</div>
+        <div className="hero">
+          <div className="hero-content">
+            <h1 className="">Get Unstuck.</h1>
+            <h4>Stop wasting your time in an unfulfilling, unsatisfying, soul-sucking job and start doing work you love.</h4>
+            <button className="gold-button">Get Started</button>
+          </div>
+        </div>
       </div>
     );
     // return <div>

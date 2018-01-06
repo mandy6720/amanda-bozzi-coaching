@@ -19,10 +19,14 @@
 }
 
 .hb-link {
-  height: 2rem;
+  height: 2.5rem;
   width: 100%;
   display: flex;
   border-bottom: 1px solid #bab7ae;
   justify-content: center;
   align-items: center;
+  background-color: #fffffa;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: #36454F;
 }

@@ -37,6 +37,7 @@ export default class HTML extends React.Component {
           <meta name="google-site-verification" content="F8-DFf_48Zewm2fJ0MzqaHOetujMGJuazX_5GAWQixg" />
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
+          <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
           {css}
         </head>
         <body>

@@ -4,7 +4,6 @@
   color: #F0F8FF;
   display: flex;
   align-items: center;
-  margin-bottom: 1.5rem;
   justify-content: space-between;
 }
 
@@ -21,6 +20,7 @@
 #nav-links {
   list-style: none;
 }
+
 .nav-link {
   display: inline-block;
   margin-right: 1rem;

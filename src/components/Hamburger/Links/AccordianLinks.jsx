@@ -30,9 +30,9 @@ const ListLink = props =>
 export default ({ children }) =>
   <div id="accordian-links">
     <div className="panel-link">
-      <ListLink to="/">Home</ListLink>
-      <ListLink to="/about/">About</ListLink>
-      <ListLink to="/contact/">Contact</ListLink>
+      <ListLink to="/"><h4>Home</h4></ListLink>
+      <ListLink to="/about/"><h4>About</h4></ListLink>
+      <ListLink to="/contact/"><h4>Contact</h4></ListLink>
     </div>
   </div>
 
