@@ -1,6 +1,8 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
+import Hamburger from '../Hamburger/hamburger';
+
 import './navBar.css';
 
 let screenSize = document.getElementsByTagName('body')[0].clientWidth;
@@ -22,6 +24,6 @@ export default ({ children }) =>
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/contact/">Contact</ListLink>
-      </ul>) : <div className="hamburger">hb</div>
+      </ul>) : <Hamburger />
     }
   </header>
