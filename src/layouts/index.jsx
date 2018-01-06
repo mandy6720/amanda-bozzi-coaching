@@ -3,6 +3,7 @@ import Helmet from "react-helmet";
 import config from "../../data/SiteConfig";
 
 import NavBar from '../components/NavBar/navBar';
+import AccordianLinks from '../components/Hamburger/Links/AccordianLinks';
 
 import "./index.css";
 
@@ -51,6 +52,7 @@ export default class MainLayout extends React.Component {
         </Helmet>
         <div className="app-container">
           <NavBar />
+          <AccordianLinks />
           <div className="content-container">
             {children()}
           </div>
