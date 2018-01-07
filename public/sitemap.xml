@@ -29,6 +29,6 @@
 <url> <loc>http://www.amandabozzi.com/categories/test-3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.amandabozzi.com/categories/moar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.amandabozzi.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.amandabozzi.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.amandabozzi.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.amandabozzi.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

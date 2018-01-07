@@ -51,11 +51,11 @@ export default class MainLayout extends React.Component {
           <meta name="description" content={config.siteDescription} />
         </Helmet>
         <div className="app-container">
-          <NavBar />
           <AccordianLinks />
           <div className="content-container">
             {children()}
           </div>
+          <NavBar />
         </div>
       </div>
     );

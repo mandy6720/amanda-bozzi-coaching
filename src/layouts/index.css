@@ -24,6 +24,8 @@ off white #F0F8FF
   font-style: normal;
 }
 
+a:visited
+
 .gold-text {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -56,7 +58,11 @@ h4 {
   font-family: 'Playlist';
 }
 
-a, a:hover, a:visited {
+:focus {
+  outline: none;
+}
+
+a, a:hover, a:visited, a:focus {
   text-decoration: none;
   color: #bab7ae;
 }
@@ -70,6 +76,7 @@ a, a:hover, a:visited {
 .container {
   display: flex;
   width: 100%;
+  flex-direction: column;
 }
 
 .nav-link {
@@ -85,7 +92,7 @@ a, a:hover, a:visited {
   background-size: cover;
   background-position: right;
   width: 100%;
-  height: 95vh;
+  height: 92vh;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -105,7 +112,7 @@ a, a:hover, a:visited {
   flex-direction: column;
   margin-top: -3rem;
   line-height: 2rem;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .hero-content h1 {
@@ -173,11 +180,64 @@ a, a:hover, a:visited {
   transition: all 0.3s ease-out;
 }
 
+.no-bullet-list {
+  list-style: none;
+}
+
+.divider-text {
+  width: 100vw;
+  background-color: #1c3144;
+  padding: 2rem 1rem;
+  color: aliceblue;
+}
+
+.divider-text:first-of-type {
+  margin-top: -1rem; 
+}
+
+.content-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-section span,
+.content-section ul {
+  max-width: 600px;
+}
+
+/* Media Queries */
+
 @media screen and (max-height: 600px) {
   .hero-content {
-    height: 85%;
+    height: 80%;
   }
 }
+
+@media screen and (max-height: 400px) {
+  .hero-content h1 {
+    font-size: 1.75rem;
+    line-height: 2rem;
+  }
+
+  .hero-content h4 {
+    font-size: 1rem;
+    line-height: 1.25rem;
+  }
+
+  .gold-button {
+    font-size: 1rem;
+    min-height: 2rem;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .hero-content {
+    padding: 1rem;
+  }
+}
+
 /* Mobile styles go here <3 */
 @media screen and (max-width: 475px) {
   #nav-links {
@@ -192,14 +252,14 @@ a, a:hover, a:visited {
     background-image: url('../../static/img/spotsbg-transp.png');
     background-size: cover;
     padding-left: 0;
-    justify-content: center;
+    justify-content: space-around;
   }
 
   .hero-content {
     background-color: rgba(28, 49, 68, .95);
     text-align: center;
     width: 80%;
-    height: 80%;
+    height: 83%;
     padding: 1rem;
     display: flex;
     justify-content: center;
