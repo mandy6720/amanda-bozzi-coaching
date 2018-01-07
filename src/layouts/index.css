@@ -24,7 +24,12 @@ off white #F0F8FF
   font-style: normal;
 }
 
-a:visited
+@font-face {
+  font-family: 'PlaylistOrnament';
+  src: url('../fonts/playlistOrnament/playlist_ornament-webfont.woff2') format('woff2'), url('../fonts/playlistOrnament/playlist_ornament-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
 
 .gold-text {
   -webkit-background-clip: text;
@@ -47,7 +52,8 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Playlist';
 }
 
 h1, h2, h3 {
@@ -139,6 +145,11 @@ a, a:hover, a:visited, a:focus {
   min-height: 2.5rem;
   margin-bottom: 1rem;
 }
+
+.gold-button a {
+  line-height: 2rem;
+  color: aliceblue;
+}
 /* button hover style if required */
 .gold-button:hover {
   background-image: url('../../static/img/gold-foil-texture-background-gm648434376-117717841.jpg');
@@ -187,7 +198,7 @@ a, a:hover, a:visited, a:focus {
 .divider-text {
   width: 100vw;
   background-color: #1c3144;
-  padding: 2rem 1rem;
+  padding: 2rem 2rem;
   color: aliceblue;
 }
 
@@ -199,11 +210,18 @@ a, a:hover, a:visited, a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #F0F8FF;
 }
 
 .content-section span,
 .content-section ul {
-  max-width: 600px;
+  max-width: 80%;
+  font-size: 2rem; 
+}
+
+.gold-bullet li {
+  list-style: url('../../static/img/scribble-gold.png');
+  margin-bottom: 1.5rem; 
 }
 
 /* Media Queries */
@@ -276,5 +294,9 @@ a, a:hover, a:visited, a:focus {
   .gold-button {
     background-image: url('../../static/img/gold-foil-texture-background-gm648434376-117717841.jpg');
     color: #36454F;
+  }
+
+  .divider-text {
+    text-align: center;
   }
 }

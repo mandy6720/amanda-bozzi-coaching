@@ -203,17 +203,17 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-pages-index-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
         "componentChunkName": "component---src-pages-contact-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "contact.json",
         "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "index.json",
+        "path": "/"
     }
 ]
