@@ -61,7 +61,7 @@ class AboutPage extends Component {
           <span>That's why it's so rewarding to get to help people in exactly that situation and watch as they push past it and acheive INCREDIBLE things.</span>
         </div>
         <div className="divider-text">
-          <h1>Get to know me a little...</h1>
+          <h1>Some fun facts</h1>
         </div>
         <div className="content-section gold-bullet">
           <span>Here are some of my weirdest jobs:</span><span>(while I was still figuring out my life)</span>
@@ -75,7 +75,7 @@ class AboutPage extends Component {
           <h1>Ready to start making shit happen?</h1>
         </div>
         <div className="content-section">
-          <span><a href="http://bit.ly/call-with-amanda-bozzi">Click here</a> to schedule a discovery call, where we can find out how I can help you to live a life you LOVE 
+          <span><a href="http://bit.ly/call-with-amanda-bozzi" target="_blank">Click here</a> to schedule a discovery call, where we can find out how I can help you to live a life you LOVE 
             (and can totally brag about on Facebook)</span>
         </div>
         <Footer config={config} />

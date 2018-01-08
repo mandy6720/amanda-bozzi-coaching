@@ -3,7 +3,7 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js")),
   "component---src-templates-post-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx")),
   "component---src-templates-tag-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx")),
   "component---src-templates-category-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx")),
@@ -14,7 +14,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "dev-404-page.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
   "bold-mage.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/bold-mage.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),

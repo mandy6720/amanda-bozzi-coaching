@@ -37,5 +37,5 @@ module.exports = {
   ],
   copyright: "Copyright © 2018. Amanda Bozzi", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#013243", // Used for setting manifest and progress theme colors.
-  backgroundColor: "aliceblue" // Used for setting manifest background color.
+  backgroundColor: "#F0F8FF" // Used for setting manifest background color.
 };
