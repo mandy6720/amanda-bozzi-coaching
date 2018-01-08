@@ -32,7 +32,7 @@ export default ({ children }) =>
     <div className="panel-link">
       <ListLink to="/"><h4>Home</h4></ListLink>
       <ListLink to="/about/"><h4>About</h4></ListLink>
-      <ListLink to="/contact/"><h4>Contact</h4></ListLink>
+      <ListLink to="/work-with-me/"><h4>Work With Me</h4></ListLink>
     </div>
   </div>
 

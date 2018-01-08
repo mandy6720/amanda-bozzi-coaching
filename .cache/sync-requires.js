@@ -3,18 +3,18 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js")),
   "component---src-templates-post-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx")),
   "component---src-templates-tag-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx")),
   "component---src-templates-category-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx")),
   "component---src-pages-about-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx")),
-  "component---src-pages-contact-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/contact.jsx")),
-  "component---src-pages-index-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx"))
+  "component---src-pages-index-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx")),
+  "component---src-pages-work-with-me-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/work-with-me.jsx"))
 }
 
 exports.json = {
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "dev-404-page.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
   "bold-mage.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/bold-mage.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
@@ -72,9 +72,9 @@ exports.json = {
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
   "about.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/about.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "contact.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/contact.json"),
+  "index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/index.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/layout-index.json"),
-  "index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/index.json")
+  "work-with-me.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/json/work-with-me.json")
 }
 
 exports.layouts = {

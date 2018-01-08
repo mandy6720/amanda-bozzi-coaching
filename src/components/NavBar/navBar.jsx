@@ -20,7 +20,7 @@ export default ({ children }) =>
     <ul id="nav-links">
       <ListLink to="/">Home</ListLink>
       <ListLink to="/about/">About</ListLink>
-      <ListLink to="/contact/">Contact</ListLink>
+      <ListLink to="/work-with-me/">Work With Me</ListLink>
     </ul>
     <Hamburger />
   </header>

@@ -7,7 +7,7 @@ class WorkWithMePage extends Component {
   render() {
     return (
       <div className="container">
-      <Helmet title={`About | ${config.siteTitle}`} />
+      <Helmet title={`Work With Me | ${config.siteTitle}`} />
         <div className="hero wwm-hero">
           <div className="hero-content wwm-content">
             <h1>Stop letting life pass you by!</h1>
@@ -126,7 +126,7 @@ class WorkWithMePage extends Component {
         <div className="content-section gold-bullet">
           <ul>
             <li>One setup call, where we:</li>
-              <ul>
+              <ul className="sub-list">
                 <li>define your goal</li>
                 <li>make an actionable plan (break it down into smaller steps)</li>
                 <li>create our first 2 week "sprint" (a period where you accomplish a defined set of the smaller steps from above)</li>

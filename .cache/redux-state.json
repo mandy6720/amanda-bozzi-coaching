@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1515414112050,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "72993e6d4b2b38abe57c8791cd6ef763",
         "owner": "internal-data-bridge"
       }
     },
@@ -1757,14 +1767,16 @@
           "copyright": "Copyright © 2018. Amanda Bozzi"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-08T03:36:09.751Z",
+      "buildTime": "2018-01-08T12:20:50.286Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f4816ea0012d0d7d1adfde4359edfd24",
+        "contentDigest": "daf61e7eea6726ecec9424e7f371f82d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1774,7 +1786,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8655722dbb201d7f82b3a20161cfbd48",
+        "contentDigest": "f6c4469d4432addbae8907c833756403",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1785,7 +1797,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2017-12-04T12:11:11.435Z",
-      "accessTime": "2018-01-08T03:36:12.816Z",
+      "accessTime": "2018-01-08T12:20:53.803Z",
       "changeTime": "2017-12-04T12:11:11.435Z",
       "birthTime": "2017-12-04T12:11:11.431Z",
       "root": "/",
@@ -1803,11 +1815,11 @@
       "blksize": 4194304,
       "ino": 8591706707,
       "blocks": 0,
-      "atimeMs": 1515382572816.4817,
+      "atimeMs": 1515414053803.3635,
       "mtimeMs": 1512389471434.5337,
       "ctimeMs": 1512389471434.5337,
       "birthtimeMs": 1512389471430.9622,
-      "atime": "2018-01-08T03:36:12.816Z",
+      "atime": "2018-01-08T12:20:53.803Z",
       "mtime": "2017-12-04T12:11:11.435Z",
       "ctime": "2017-12-04T12:11:11.435Z",
       "birthtime": "2017-12-04T12:11:11.431Z"
@@ -1817,7 +1829,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "788ee2b9c14441f6237afcd397e5bcfe",
+        "contentDigest": "b82bfa9a3812668407bf9f1bc51ab8ab",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1828,7 +1840,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.431Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.815Z",
       "changeTime": "2017-12-04T12:11:11.431Z",
       "birthTime": "2017-12-04T12:11:11.431Z",
       "root": "/",
@@ -1846,11 +1858,11 @@
       "blksize": 4194304,
       "ino": 8591706708,
       "blocks": 0,
-      "atimeMs": 1515382572819.373,
+      "atimeMs": 1515414053815.488,
       "mtimeMs": 1512389471431.082,
       "ctimeMs": 1512389471431.082,
       "birthtimeMs": 1512389471430.9998,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.815Z",
       "mtime": "2017-12-04T12:11:11.431Z",
       "ctime": "2017-12-04T12:11:11.431Z",
       "birthtime": "2017-12-04T12:11:11.431Z"
@@ -1860,7 +1872,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "412a259a4d614a0c199b83fe6a55bbdc",
+        "contentDigest": "c617cd7ac6e587edccc732b9eb292ec5",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1871,7 +1883,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.815Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.433Z",
       "root": "/",
@@ -1889,11 +1901,11 @@
       "blksize": 4194304,
       "ino": 8591706710,
       "blocks": 0,
-      "atimeMs": 1515382572819.3777,
+      "atimeMs": 1515414053815.3967,
       "mtimeMs": 1512389471433.5444,
       "ctimeMs": 1512389471433.5444,
       "birthtimeMs": 1512389471433.497,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.815Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.433Z"
@@ -1903,7 +1915,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6f83a20879a56d5f426ebaac1aa31b45",
+        "contentDigest": "5f1523864d9d1b71f11652534b5f644d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1914,7 +1926,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.815Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -1932,11 +1944,11 @@
       "blksize": 4194304,
       "ino": 8591706712,
       "blocks": 0,
-      "atimeMs": 1515382572819.3958,
+      "atimeMs": 1515414053815.3162,
       "mtimeMs": 1512389471433.7131,
       "ctimeMs": 1512389471433.7131,
       "birthtimeMs": 1512389471433.6726,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.815Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1946,7 +1958,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c337dac4129727d5afe977ef8114d5cb",
+        "contentDigest": "ee2cd37cf257328985a1a6b47bff9946",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1957,7 +1969,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.815Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -1975,11 +1987,11 @@
       "blksize": 4194304,
       "ino": 8591706714,
       "blocks": 0,
-      "atimeMs": 1515382572819.4116,
+      "atimeMs": 1515414053815.43,
       "mtimeMs": 1512389471433.8833,
       "ctimeMs": 1512389471433.8833,
       "birthtimeMs": 1512389471433.8394,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.815Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -1989,7 +2001,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e6abb90b79d762eb3b81b629190fb813",
+        "contentDigest": "4c2a49835e392423898847b707badbac",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2000,7 +2012,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.815Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -2018,11 +2030,11 @@
       "blksize": 4194304,
       "ino": 8591706716,
       "blocks": 0,
-      "atimeMs": 1515382572819.4238,
+      "atimeMs": 1515414053815.4954,
       "mtimeMs": 1512389471434.0742,
       "ctimeMs": 1512389471434.0742,
       "birthtimeMs": 1512389471434.0332,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.815Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -2032,7 +2044,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b5cb5e77553687274cbd2d2a41ee37ea",
+        "contentDigest": "de16d0006da694eb14ad2e82ee72ee5a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2043,7 +2055,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.816Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -2061,11 +2073,11 @@
       "blksize": 4194304,
       "ino": 8591706718,
       "blocks": 0,
-      "atimeMs": 1515382572819.4954,
+      "atimeMs": 1515414053815.537,
       "mtimeMs": 1512389471434.2432,
       "ctimeMs": 1512389471434.2432,
       "birthtimeMs": 1512389471434.2031,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.816Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -2075,7 +2087,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2cd176f0845523a3a4b2947d1d12a0d3",
+        "contentDigest": "80f934d7524e88c8b84b05b4dce28d82",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2086,7 +2098,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.434Z",
-      "accessTime": "2018-01-08T03:36:12.819Z",
+      "accessTime": "2018-01-08T12:20:53.816Z",
       "changeTime": "2017-12-04T12:11:11.434Z",
       "birthTime": "2017-12-04T12:11:11.434Z",
       "root": "/",
@@ -2104,11 +2116,11 @@
       "blksize": 4194304,
       "ino": 8591706720,
       "blocks": 0,
-      "atimeMs": 1515382572819.4336,
+      "atimeMs": 1515414053815.545,
       "mtimeMs": 1512389471434.3945,
       "ctimeMs": 1512389471434.3945,
       "birthtimeMs": 1512389471434.3562,
-      "atime": "2018-01-08T03:36:12.819Z",
+      "atime": "2018-01-08T12:20:53.816Z",
       "mtime": "2017-12-04T12:11:11.434Z",
       "ctime": "2017-12-04T12:11:11.434Z",
       "birthtime": "2017-12-04T12:11:11.434Z"
@@ -2118,7 +2130,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3f61f09251d27cc05c3d87c8e1366fac",
+        "contentDigest": "2323a1f9318d3d07baefc616f7b28271",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2129,7 +2141,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2017-12-04T12:11:11.435Z",
-      "accessTime": "2018-01-08T03:36:12.820Z",
+      "accessTime": "2018-01-08T12:20:53.816Z",
       "changeTime": "2017-12-04T12:11:11.435Z",
       "birthTime": "2017-12-04T12:11:11.435Z",
       "root": "/",
@@ -2147,11 +2159,11 @@
       "blksize": 4194304,
       "ino": 8591706722,
       "blocks": 0,
-      "atimeMs": 1515382572819.505,
+      "atimeMs": 1515414053815.5125,
       "mtimeMs": 1512389471434.5713,
       "ctimeMs": 1512389471434.5713,
       "birthtimeMs": 1512389471434.529,
-      "atime": "2018-01-08T03:36:12.820Z",
+      "atime": "2018-01-08T12:20:53.816Z",
       "mtime": "2017-12-04T12:11:11.435Z",
       "ctime": "2017-12-04T12:11:11.435Z",
       "birthtime": "2017-12-04T12:11:11.435Z"
@@ -2765,27 +2777,6 @@
         "slug": "/big-test"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "updatedAt": 1515382573301,
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "86298f202e7d525725d03462c51e09c3",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /bold-mage": {
       "layout": "index",
       "jsonName": "bold-mage.json",
@@ -2796,7 +2787,7 @@
       "context": {
         "slug": "/bold-mage"
       },
-      "updatedAt": 1515382573323,
+      "updatedAt": 1515414112054,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2805,7 +2796,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e8009bcb00f9a2d3577460656c7d4672",
+        "contentDigest": "6f96f34272f4ca2a4f33a2cef8107740",
         "owner": "internal-data-bridge"
       }
     },
@@ -2819,7 +2810,7 @@
       "context": {
         "slug": "/the-fallen-time"
       },
-      "updatedAt": 1515382573324,
+      "updatedAt": 1515414112054,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2828,7 +2819,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "daddd8a90a69049d0fea8e8a6dc42508",
+        "contentDigest": "a0ea5bc573ccbec3280ed1af4df94a0b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2842,7 +2833,7 @@
       "context": {
         "slug": "/random-project-4-with-super-long-title-phase-one"
       },
-      "updatedAt": 1515382573325,
+      "updatedAt": 1515414112055,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2851,7 +2842,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c5aa23346fe9ac69d656bd265b80cce",
+        "contentDigest": "8d7d0ea8674ea53025d79b3c2bd7a62c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2865,7 +2856,7 @@
       "context": {
         "slug": "/the-fairys-witches"
       },
-      "updatedAt": 1515382573326,
+      "updatedAt": 1515414112055,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2874,7 +2865,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4bcae4a0c1f1f3013cbf08839af57891",
+        "contentDigest": "93211aaa7991a8b874a7b31c835071e3",
         "owner": "internal-data-bridge"
       }
     },
@@ -2888,7 +2879,7 @@
       "context": {
         "slug": "/the-butterfly-of-the-edge"
       },
-      "updatedAt": 1515382573326,
+      "updatedAt": 1515414112056,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2897,7 +2888,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a0a0be085d8104b22b15ea60dcd064e7",
+        "contentDigest": "f3aa22b24944abf732d83d75812ac29b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2911,7 +2902,7 @@
       "context": {
         "slug": "/birch-in-the-roses"
       },
-      "updatedAt": 1515382573326,
+      "updatedAt": 1515414112056,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2920,7 +2911,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "24bf73a23214aa73f6c364466c316866",
+        "contentDigest": "a7de4d30b51d30e4327dff21313cc6ea",
         "owner": "internal-data-bridge"
       }
     },
@@ -2934,7 +2925,7 @@
       "context": {
         "slug": "/angels-of-mist"
       },
-      "updatedAt": 1515382573327,
+      "updatedAt": 1515414112057,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2943,7 +2934,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a06b02a087ab918924acdb255a962127",
+        "contentDigest": "3fd11c52aa33baf014842e5f08e93400",
         "owner": "internal-data-bridge"
       }
     },
@@ -2957,7 +2948,7 @@
       "context": {
         "slug": "/big-test"
       },
-      "updatedAt": 1515382573327,
+      "updatedAt": 1515414112058,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/post.jsx",
@@ -2966,7 +2957,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a40f2da465501f47b5729a0adb9161ca",
+        "contentDigest": "b40d304562bb9c344895bd0621f4df6b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2980,7 +2971,7 @@
       "context": {
         "tag": "programming"
       },
-      "updatedAt": 1515382573328,
+      "updatedAt": 1515414112061,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -2989,7 +2980,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0b1873bd0e36d842c1e73df6a740993e",
+        "contentDigest": "b39de06b469faa2302107db49914aff2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3003,7 +2994,7 @@
       "context": {
         "tag": "stuff"
       },
-      "updatedAt": 1515382573328,
+      "updatedAt": 1515414112062,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3012,7 +3003,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "70298c1600cedf9ca3630ad448eefd1f",
+        "contentDigest": "893cd626b6442b49d5ea9f9053f41cc5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3026,7 +3017,7 @@
       "context": {
         "tag": "other"
       },
-      "updatedAt": 1515382573329,
+      "updatedAt": 1515414112063,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3035,7 +3026,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b41eab6828da449f48169144a881cf62",
+        "contentDigest": "8d5c6ff16e2628a3a11e0fa607bb329e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3049,7 +3040,7 @@
       "context": {
         "tag": "test"
       },
-      "updatedAt": 1515382573329,
+      "updatedAt": 1515414112063,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3058,7 +3049,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a0abb6f668fb12dc5ebdde5a997e340a",
+        "contentDigest": "39b591784615840821a94df5cbc1432b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3072,7 +3063,7 @@
       "context": {
         "tag": "something"
       },
-      "updatedAt": 1515382573329,
+      "updatedAt": 1515414112063,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3081,7 +3072,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "774f8677184656b0560af33def85b0de",
+        "contentDigest": "d1d39975564977aea91cca9a394c6af8",
         "owner": "internal-data-bridge"
       }
     },
@@ -3095,7 +3086,7 @@
       "context": {
         "tag": "tagging"
       },
-      "updatedAt": 1515382573330,
+      "updatedAt": 1515414112064,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3104,7 +3095,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b40bcc31c3779c4f74840b58feddd6fb",
+        "contentDigest": "30711efa9158ca0acbea67641c5e627b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3118,7 +3109,7 @@
       "context": {
         "tag": "say hi"
       },
-      "updatedAt": 1515382573330,
+      "updatedAt": 1515414112065,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3127,7 +3118,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "12b2fd6ae9c0a2d2f5439a86e4cbd5e2",
+        "contentDigest": "d1ce775c3419fee4a6fa9a2dd67c177b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3141,7 +3132,7 @@
       "context": {
         "tag": "more tags"
       },
-      "updatedAt": 1515382573331,
+      "updatedAt": 1515414112065,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3150,7 +3141,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c6a270084bacf6b6acf53fda5f39ab8d",
+        "contentDigest": "5fbe118864ebb1f8cc223728f455f4c5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3164,7 +3155,7 @@
       "context": {
         "tag": "testing"
       },
-      "updatedAt": 1515382573331,
+      "updatedAt": 1515414112066,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3173,7 +3164,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d0d3a9966c8c5eb80431cbc381bd262",
+        "contentDigest": "3f378de4e593985e8b9adde6fbf3383a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3187,7 +3178,7 @@
       "context": {
         "tag": "another one"
       },
-      "updatedAt": 1515382573332,
+      "updatedAt": 1515414112066,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3196,7 +3187,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4984d61636d777c3f80cbc4f57a628da",
+        "contentDigest": "5ad1f6618cbedfaffdfa513ef1eff16a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3210,7 +3201,7 @@
       "context": {
         "tag": "tag"
       },
-      "updatedAt": 1515382573332,
+      "updatedAt": 1515414112067,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3219,7 +3210,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ffaa0325865b5c106f0988872e676b3",
+        "contentDigest": "aed624addb84698e4dd36366ef274694",
         "owner": "internal-data-bridge"
       }
     },
@@ -3233,7 +3224,7 @@
       "context": {
         "tag": "cheese"
       },
-      "updatedAt": 1515382573333,
+      "updatedAt": 1515414112067,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3242,7 +3233,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2eb3e581f6436e5e8ee0e63ef0cf5140",
+        "contentDigest": "f009db1a9383163f90fbeb69a8fbd573",
         "owner": "internal-data-bridge"
       }
     },
@@ -3256,7 +3247,7 @@
       "context": {
         "tag": "huge"
       },
-      "updatedAt": 1515382573333,
+      "updatedAt": 1515414112068,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/tag.jsx",
@@ -3265,7 +3256,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88c2e399ae69916feed96c4af499cd7c",
+        "contentDigest": "78a138afa1261d214d8ffd03a0bf7dde",
         "owner": "internal-data-bridge"
       }
     },
@@ -3279,7 +3270,7 @@
       "context": {
         "category": "tech"
       },
-      "updatedAt": 1515382573334,
+      "updatedAt": 1515414112068,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -3288,7 +3279,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5800d8859d60083bc253ff4d8fe8c27c",
+        "contentDigest": "f00651b34725307c3715a3b987189684",
         "owner": "internal-data-bridge"
       }
     },
@@ -3302,7 +3293,7 @@
       "context": {
         "category": "another one"
       },
-      "updatedAt": 1515382573334,
+      "updatedAt": 1515414112069,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -3311,7 +3302,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bf49534499f59a8027920e19c3fbc7f9",
+        "contentDigest": "4ef6a7b350cdbe8e2c86d4c685232258",
         "owner": "internal-data-bridge"
       }
     },
@@ -3325,7 +3316,7 @@
       "context": {
         "category": "random"
       },
-      "updatedAt": 1515382573336,
+      "updatedAt": 1515414112069,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -3334,7 +3325,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9b41ac69cc424875307807f4404ca108",
+        "contentDigest": "fd92e642841ebdc6755418b0e2c50606",
         "owner": "internal-data-bridge"
       }
     },
@@ -3348,7 +3339,7 @@
       "context": {
         "category": "something"
       },
-      "updatedAt": 1515382573337,
+      "updatedAt": 1515414112070,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -3357,7 +3348,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d35e5b54c28c1416e336221bfd006d2",
+        "contentDigest": "db3bb974f4d8fc7c06ec7d79e0e7c68b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3371,7 +3362,7 @@
       "context": {
         "category": "test3"
       },
-      "updatedAt": 1515382573338,
+      "updatedAt": 1515414112072,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -3380,7 +3371,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "311303f5b2631a134236904b7fc301aa",
+        "contentDigest": "b40a3f8cd50c5d6ac1418b12eafda8f0",
         "owner": "internal-data-bridge"
       }
     },
@@ -3394,7 +3385,7 @@
       "context": {
         "category": "moar"
       },
-      "updatedAt": 1515382573339,
+      "updatedAt": 1515414112073,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/templates/category.jsx",
@@ -3403,7 +3394,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4accc38457caabbe595e252b70f11930",
+        "contentDigest": "d895a7f857809d67178078ab4b23dd18",
         "owner": "internal-data-bridge"
       }
     },
@@ -3415,7 +3406,7 @@
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
-      "updatedAt": 1515382573378,
+      "updatedAt": 1515414054458,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/about.jsx",
@@ -3424,28 +3415,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8718a26fda7d409f6dd3a0f6d7111204",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/contact.jsx",
-      "componentChunkName": "component---src-pages-contact-jsx",
-      "context": {},
-      "updatedAt": 1515382573379,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/contact.jsx",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7774dbd46a6078bc5d009c40fd60ea1a",
+        "contentDigest": "9696e2845e7c3453e461f847b8a5a511",
         "owner": "internal-data-bridge"
       }
     },
@@ -3457,7 +3427,7 @@
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1515382573379,
+      "updatedAt": 1515414054458,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/index.jsx",
@@ -3466,7 +3436,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f2e59c261b65b2a8684409c6584b6686",
+        "contentDigest": "92cdb782de50aea78240e81afd045756",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /work-with-me/": {
+      "layout": "index",
+      "jsonName": "work-with-me.json",
+      "internalComponentName": "ComponentWorkWithMe",
+      "path": "/work-with-me/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/work-with-me.jsx",
+      "componentChunkName": "component---src-pages-work-with-me-jsx",
+      "context": {},
+      "updatedAt": 1515414111938,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/src/pages/work-with-me.jsx",
+      "id": "SitePage /work-with-me/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c29a293d175a2eed61c36b44ba8f9c22",
         "owner": "internal-data-bridge"
       }
     }
