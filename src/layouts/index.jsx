@@ -4,6 +4,7 @@ import config from "../../data/SiteConfig";
 
 import NavBar from '../components/NavBar/navBar';
 import AccordianLinks from '../components/Hamburger/Links/AccordianLinks';
+import Footer from '../components/Footer/Footer';
 
 import "./index.css";
 

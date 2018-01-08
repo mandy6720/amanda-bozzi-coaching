@@ -104,6 +104,22 @@ a, a:hover, a:visited, a:focus {
   align-items: center;
   color: aliceblue;
   padding-left: 3rem; 
+  position: relative;
+}
+
+.about-hero {
+  background-image: url('../../static/img/destop-laptop.jpg');
+}
+
+.portrait {
+  background-image: url('../../static/img/Amanda_headshot.png');
+  border-radius: 50%;
+  border: 5px solid aliceblue;
+  width: 50%;
+  height: 50%;
+  min-width: 200px;
+  min-height: 200px;
+  background-size: cover;
 }
 
 .hero-content {
@@ -131,6 +147,14 @@ a, a:hover, a:visited, a:focus {
   font-size: 1.5rem;
 }
 
+.about-content {
+  justify-content: space-around;
+}
+
+.center-text {
+  text-align: center;
+}
+
 .gold-button {
   width: 110px;
   padding: 10px;
@@ -144,10 +168,11 @@ a, a:hover, a:visited, a:focus {
   transition: all .4s;
   min-height: 2.5rem;
   margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
 }
 
 .gold-button a {
-  line-height: 2rem;
   color: aliceblue;
 }
 /* button hover style if required */
@@ -211,12 +236,20 @@ a, a:hover, a:visited, a:focus {
   align-items: center;
   justify-content: center;
   background-color: #F0F8FF;
+  padding: 2.5em;
+  flex-direction: column;
 }
 
 .content-section span,
-.content-section ul {
-  max-width: 80%;
+.content-section ul,
+.content-section p {
+  max-width: 75%;
   font-size: 2rem; 
+  
+}
+
+.content-section.center-text span {
+  margin-bottom: 2rem;
 }
 
 .gold-bullet li {
@@ -287,8 +320,18 @@ a, a:hover, a:visited, a:focus {
     line-height: 2rem;
   }
 
+  .portrait {
+    margin-bottom: 1rem;
+  }
+
   .hero-content h1 {
     line-height: 3.5rem;
+  }
+
+  .about-hero h1 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    margin-top: 1rem;
   }
 
   .gold-button {

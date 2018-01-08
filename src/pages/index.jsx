@@ -3,6 +3,7 @@ import Helmet from "react-helmet";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 
+import Footer from '../components/Footer/Footer';
 // import UnderConstruction from "../components/UnderConstruction/UnderConstruction";
 
 class Index extends React.Component {
@@ -16,7 +17,7 @@ class Index extends React.Component {
           <div className="hero-content">
             <h1 className="">Get Unstuck.</h1>
             <h4>Stop wasting your time in an unfulfilling, unsatisfying, soul-sucking job and start doing work you love.</h4>
-            <button className="gold-button"><a href="https://forms.aweber.com/form/57/2063595657.htm" target="_blank">Get Started</a></button>
+            <a href="https://forms.aweber.com/form/57/2063595657.htm" target="_blank"><button className="gold-button">Get Started</button></a>
           </div>
         </div>
         <div className="home-content">
@@ -52,7 +53,7 @@ class Index extends React.Component {
               goals faster.</li>
             </ul>
           </div>
-          <div className="divider-text">
+          <div className="divider-text" id="get-started">
             <h1>🔥 Re-ignite your passion</h1>
           </div>
           <div className="content-section">
@@ -61,8 +62,8 @@ class Index extends React.Component {
               <li>Find your perfect side hustle with this <a href="https://forms.aweber.com/form/57/2063595657.htm" target="_blank">free workbook</a> (or test your current business idea against it)</li>
             </ul>
           </div>
-          <img src="../../static/img/newhome.jpg" alt=""/>
         </div>
+        <Footer config={config} />
       </div>
     );
   }
