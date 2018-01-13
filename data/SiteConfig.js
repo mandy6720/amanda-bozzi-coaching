@@ -3,7 +3,7 @@ module.exports = {
   siteTitle: "Amanda Bozzi - Life and Business Coaching for Awesome People", // Site title.
   siteTitleAlt: "Amanda Bozzi Coaching - Life and Business Coaching for Awesome People", // Alternative site title for SEO.
   siteLogo: "/logos/ab.png", // Logo used for SEO and manifest.
-  siteUrl: "http://www.amandabozzi.com", // Domain of your website without pathPrefix.
+  siteUrl: "http://www.amandabozzicoaching.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Life and Business Coaching for Awesome People who are stuck and need a little help.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
