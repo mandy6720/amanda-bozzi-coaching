@@ -5,32 +5,7 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/bold-mage"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/the-fallen-time"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/random-project-4-with-super-long-title-phase-one"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/the-fairys-witches"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/the-butterfly-of-the-edge"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/birch-in-the-roses"
+                        "path": "/big-test"
                     }
                 },
                 {
@@ -40,27 +15,52 @@
                 },
                 {
                     "node": {
-                        "path": "/big-test"
+                        "path": "/the-fallen-time"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/programming/"
+                        "path": "/bold-mage"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/stuff/"
+                        "path": "/random-project-4-with-super-long-title-phase-one"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/other/"
+                        "path": "/the-butterfly-of-the-edge"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/the-fairys-witches"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/birch-in-the-roses"
                     }
                 },
                 {
                     "node": {
                         "path": "/tags/test/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/huge/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/cheese/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/other/"
                     }
                 },
                 {
@@ -71,6 +71,16 @@
                 {
                     "node": {
                         "path": "/tags/tagging/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/programming/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/stuff/"
                     }
                 },
                 {
@@ -100,22 +110,22 @@
                 },
                 {
                     "node": {
-                        "path": "/tags/cheese/"
+                        "path": "/categories/moar/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/huge/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/tech/"
+                        "path": "/categories/test-3/"
                     }
                 },
                 {
                     "node": {
                         "path": "/categories/another-one/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/categories/tech/"
                     }
                 },
                 {
@@ -126,16 +136,6 @@
                 {
                     "node": {
                         "path": "/categories/something/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/test-3/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/moar/"
                     }
                 },
                 {
