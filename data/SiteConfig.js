@@ -2,7 +2,7 @@ module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   siteTitle: "Amanda Bozzi - Life and Business Coaching for Awesome People", // Site title.
   siteTitleAlt: "Amanda Bozzi Coaching - Life and Business Coaching for Awesome People", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteLogo: "/logos/ab.png", // Logo used for SEO and manifest.
   siteUrl: "http://www.amandabozzi.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Life and Business Coaching for Awesome People who are stuck and need a little help.", // Website description used for RSS feeds/meta description tag.
@@ -16,7 +16,7 @@ module.exports = {
   userLocation: "Alexandria, VA", // User location to display in the author segment.
   userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
   userDescription:
-    "Software engineer turned life coach and general troublemaker", // User description to display in the author segment.
+    "Software engineer turned life coach & general troublemaker", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -31,11 +31,11 @@ module.exports = {
     },
     {
       label: "Email",
-      url: "mailto:amanda.hewitt01@gmail.com",
+      url: "mailto:amanda@amandabozzi.com",
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2017. Amanda Bozzi", // Copyright string for the footer of the website and RSS feed.
-  themeColor: "#c62828", // Used for setting manifest and progress theme colors.
-  backgroundColor: "#e0e0e0" // Used for setting manifest background color.
+  copyright: "Copyright © 2018. Amanda Bozzi", // Copyright string for the footer of the website and RSS feed.
+  themeColor: "#013243", // Used for setting manifest and progress theme colors.
+  backgroundColor: "#F0F8FF" // Used for setting manifest background color.
 };

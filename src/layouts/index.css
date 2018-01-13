@@ -1,12 +1,374 @@
+/* 
+POSSIBLE BRAND COLORS:
+
+eton blue #95c6b3
+light carmine pink #ef6f6c
+white #fff
+yankees blue #1c3144
+black shadows (light grey) #bab7ae
+charcoal #36454F
+off white #F0F8FF
+*/
+
+@font-face {
+  font-family: 'King Basil';
+  src: url('../fonts/KingBasil/king-basil-lite-webfont.woff2') format('woff2'), url('../fonts/KingBasil/king-basil-lite-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Playlist';
+  src: url('../fonts/playlist/playlist_caps-webfont.woff2') format('woff2'), url('../fonts/playlist/playlist_caps-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PlaylistOrnament';
+  src: url('../fonts/playlistOrnament/playlist_ornament-webfont.woff2') format('woff2'), url('../fonts/playlistOrnament/playlist_ornament-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+.gold-text {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: -webkit-linear-gradient(top, #efd100 0, #e2a233 38%, #f0c328 60%, #fff1a3 86%, #ffe13e 100%);
+  background-size: 1em 1em;
+  color: #f8b700;
+  display: inline-block;
+  position: relative;
+  z-index: auto
+}
+
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
-    height: 100%;
+  height: 100%;
 }
 
 body {
-    margin: 0;
-    padding: 20px;
+  margin: 0;
+  font-family: 'Playlist';
+}
+
+h1, h2, h3 {
+  font-family: 'King Basil';
+}
+
+h4 {
+  font-family: 'Playlist';
+}
+
+:focus {
+  outline: none;
+}
+
+a, a:hover, a:visited, a:focus {
+  text-decoration: none;
+  color: #bab7ae;
+}
+
+.content-container {
+  position: absolute;
+  top: 3.5rem;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.nav-link {
+  font-family: 'Playlist';
+}
+
+#hb-container {
+  display: none;
+}
+
+.hero {
+  background-image: url('../../static/img/Experiential-Travel.jpg');
+  background-size: cover;
+  background-position: right;
+  width: 100%;
+  height: 92vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: aliceblue;
+  padding-left: 3rem; 
+  position: relative;
+}
+
+.about-hero {
+  background-image: url('../../static/img/destop-laptop.jpg');
+}
+
+.wwm-hero {
+  background-image: url('../../static/img/destop-laptop2.jpg');
+}
+
+.portrait {
+  background-image: url('../../static/img/Amanda_headshot.png');
+  border-radius: 50%;
+  border: 5px solid aliceblue;
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+}
+
+.hero-content {
+  background-color: rgba(28, 49, 68, .75);
+  text-align: center;
+  width: 40%;
+  height: 70%;
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -3rem;
+  line-height: 2rem;
+  overflow: hidden;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  line-height: 3.5rem;
+  margin-top: 1rem;
+}
+
+.hero-content h4 {
+  font-size: 1.5rem;
+}
+
+.about-content {
+  justify-content: space-around;
+}
+
+.wwm-content h1 {
+  line-height: 5rem;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.gold-button {
+  width: 110px;
+  padding: 10px;
+  background-color:#36454F;
+  text-align: center;
+  color: #FFF;
+  position: relative;
+  font-family: 'Playlist';
+  font-size: 1.25rem;
+  text-align: center;
+  transition: all .4s;
+  min-height: 2.5rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.gold-button a {
+  color: aliceblue;
+}
+/* button hover style if required */
+.gold-button:hover {
+  background-image: url('../../static/img/gold-foil-texture-background-gm648434376-117717841.jpg');
+}
+/* generated element for shine effect.
+* normal state is semi-transparent
+* white but with zero width. Set no
+* transition here for no mouse-leave
+* animations. Otherwise the effect
+* will play in reverse when your mouse
+* leaves the element
+*/
+.gold-button:after {
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 0%;
+  height: 100%;
+  background-color: rgba(255,255,255,0.4);
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;
+  
+}
+/* on hover we animate the width to
+* 100% and opacity to 0 so the element
+* grows and fades out 
+*/
+.gold-button:hover:after {
+  width: 120%;
+  background-color: rgba(255,255,255,0);
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.no-bullet-list {
+  list-style: none;
+}
+
+.urgent-text {
+  color: tomato;
+}
+
+.divider-text {
+  width: 100vw;
+  background-color: #1c3144;
+  padding: 2rem 2rem;
+  color: aliceblue;
+}
+
+.divider-text:first-of-type {
+  margin-top: -1rem; 
+}
+
+.content-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F0F8FF;
+  padding: 2.5em;
+  flex-direction: column;
+}
+
+.content-section span,
+.content-section ul,
+.content-section p {
+  width: 75%;
+  max-width: 1000px;
+  font-size: 2rem; 
+}
+
+.content-section.center-text span {
+  margin-bottom: 2rem;
+}
+
+.content-section.center-text span:first-of-type {
+  margin-top: 2rem;
+}
+
+.gold-bullet li {
+  list-style: url('../../static/img/scribble-gold.png');
+  margin-bottom: 1.5rem; 
+}
+
+/* nested lists */
+.sub-list li{
+  list-style: url('../../static/img/scribble-gold2.png');
+}
+
+/* Media Queries */
+
+@media screen and (max-height: 600px) {
+  .hero-content {
+    height: 80%;
+  }
+}
+
+@media screen and (max-height: 400px) {
+  .hero-content h1 {
+    font-size: 1.75rem;
+    line-height: 2rem;
+  }
+
+  .hero-content h4 {
+    font-size: 1rem;
+    line-height: 1.25rem;
+  }
+
+  .gold-button {
+    font-size: 1rem;
+    min-height: 2rem;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .hero-content {
+    padding: 1rem;
+  }
+}
+
+/* Mobile styles go here <3 */
+@media screen and (max-width: 475px) {
+  #nav-links {
+    display: none;
+  }
+
+  #hb-container {
+    display: inline-block;
+  }
+
+  .hero {
+    background-image: url('../../static/img/spotsbg-transp.png');
+    background-size: cover;
+    padding-left: 0;
+    justify-content: space-around;
+  }
+
+  .hero-content {
+    background-color: rgba(28, 49, 68, .95);
+    text-align: center;
+    width: 80%;
+    height: 83%;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -3rem;
+    line-height: 2rem;
+  }
+
+  .portrait {
+    margin-bottom: 1rem;
+  }
+
+  .hero-content h1 {
+    line-height: 3.5rem;
+  }
+
+  .about-hero h1 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    margin-top: 1rem;
+  }
+
+  .gold-button {
+    background-image: url('../../static/img/gold-foil-texture-background-gm648434376-117717841.jpg');
+    color: #36454F;
+  }
+
+  .divider-text {
+    text-align: center;
+  }
+
+  .content-section span,
+  .content-section ul,
+  .content-section p {
+    max-width: 85%;
+  }
+
+  .sub-list {
+    margin-left: -2rem;
+    margin-right: 0;
+  }
 }

@@ -1,0 +1,33 @@
+#accordian-links {
+  transition: 0.4s;
+  position: absolute;
+  top: 3.5rem;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  z-index: 100;
+}
+
+.panel-link {
+  z-index: 10;
+  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  width: 100%;
+  text-align: center;
+}
+
+.hb-link {
+  height: 2.5rem;
+  width: 100%;
+  display: flex;
+  border-bottom: 1px solid #bab7ae;
+  justify-content: center;
+  align-items: center;
+  background-color: #fffffa;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: #36454F;
+}

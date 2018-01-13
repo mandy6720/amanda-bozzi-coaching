@@ -1,6 +1,11 @@
 import React from "react";
 import Helmet from "react-helmet";
 import config from "../../data/SiteConfig";
+
+import NavBar from '../components/NavBar/navBar';
+import AccordianLinks from '../components/Hamburger/Links/AccordianLinks';
+import Footer from '../components/Footer/Footer';
+
 import "./index.css";
 
 export default class MainLayout extends React.Component {
@@ -46,7 +51,13 @@ export default class MainLayout extends React.Component {
           <title>{`${config.siteTitle} |  ${this.getLocalTitle()}`}</title>
           <meta name="description" content={config.siteDescription} />
         </Helmet>
-        {children()}
+        <div className="app-container">
+          <AccordianLinks />
+          <div className="content-container">
+            {children()}
+          </div>
+          <NavBar />
+        </div>
       </div>
     );
   }
