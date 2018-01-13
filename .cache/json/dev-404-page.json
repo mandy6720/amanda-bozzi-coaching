@@ -5,17 +5,12 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/big-test"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/angels-of-mist"
                     }
                 },
                 {
                     "node": {
-                        "path": "/the-fallen-time"
+                        "path": "/big-test"
                     }
                 },
                 {
@@ -25,17 +20,12 @@
                 },
                 {
                     "node": {
-                        "path": "/random-project-4-with-super-long-title-phase-one"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/the-butterfly-of-the-edge"
                     }
                 },
                 {
                     "node": {
-                        "path": "/the-fairys-witches"
+                        "path": "/the-fallen-time"
                     }
                 },
                 {
@@ -45,12 +35,12 @@
                 },
                 {
                     "node": {
-                        "path": "/tags/test/"
+                        "path": "/random-project-4-with-super-long-title-phase-one"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/huge/"
+                        "path": "/the-fairys-witches"
                     }
                 },
                 {
@@ -65,12 +55,12 @@
                 },
                 {
                     "node": {
-                        "path": "/tags/something/"
+                        "path": "/tags/test/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/tagging/"
+                        "path": "/tags/huge/"
                     }
                 },
                 {
@@ -81,11 +71,6 @@
                 {
                     "node": {
                         "path": "/tags/stuff/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/tags/say-hi/"
                     }
                 },
                 {
@@ -105,12 +90,22 @@
                 },
                 {
                     "node": {
+                        "path": "/tags/something/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/tagging/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/tags/tag/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/categories/moar/"
+                        "path": "/tags/say-hi/"
                     }
                 },
                 {
@@ -120,12 +115,17 @@
                 },
                 {
                     "node": {
-                        "path": "/categories/another-one/"
+                        "path": "/categories/moar/"
                     }
                 },
                 {
                     "node": {
                         "path": "/categories/tech/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/categories/another-one/"
                     }
                 },
                 {
@@ -145,12 +145,12 @@
                 },
                 {
                     "node": {
-                        "path": "/"
+                        "path": "/work-with-me/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/work-with-me/"
+                        "path": "/"
                     }
                 }
             ]

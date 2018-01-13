@@ -10,13 +10,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "big-test.json",
-        "path": "/big-test"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "angels-of-mist.json",
         "path": "/angels-of-mist"
     },
@@ -24,8 +17,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "the-fallen-time.json",
-        "path": "/the-fallen-time"
+        "jsonName": "big-test.json",
+        "path": "/big-test"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -38,13 +31,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "random-project-4-with-super-long-title-phase-one.json",
-        "path": "/random-project-4-with-super-long-title-phase-one"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "the-butterfly-of-the-edge.json",
         "path": "/the-butterfly-of-the-edge"
     },
@@ -52,8 +38,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "the-fairys-witches.json",
-        "path": "/the-fairys-witches"
+        "jsonName": "the-fallen-time.json",
+        "path": "/the-fallen-time"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -63,18 +49,18 @@
         "path": "/birch-in-the-roses"
     },
     {
-        "componentChunkName": "component---src-templates-tag-jsx",
+        "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-test.json",
-        "path": "/tags/test/"
+        "jsonName": "random-project-4-with-super-long-title-phase-one.json",
+        "path": "/random-project-4-with-super-long-title-phase-one"
     },
     {
-        "componentChunkName": "component---src-templates-tag-jsx",
+        "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-huge.json",
-        "path": "/tags/huge/"
+        "jsonName": "the-fairys-witches.json",
+        "path": "/the-fairys-witches"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -94,15 +80,15 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-something.json",
-        "path": "/tags/something/"
+        "jsonName": "tags-test.json",
+        "path": "/tags/test/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-tagging.json",
-        "path": "/tags/tagging/"
+        "jsonName": "tags-huge.json",
+        "path": "/tags/huge/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -117,13 +103,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-stuff.json",
         "path": "/tags/stuff/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-say-hi.json",
-        "path": "/tags/say-hi/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -150,15 +129,29 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-something.json",
+        "path": "/tags/something/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-tagging.json",
+        "path": "/tags/tagging/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-tag.json",
         "path": "/tags/tag/"
     },
     {
-        "componentChunkName": "component---src-templates-category-jsx",
+        "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-moar.json",
-        "path": "/categories/moar/"
+        "jsonName": "tags-say-hi.json",
+        "path": "/tags/say-hi/"
     },
     {
         "componentChunkName": "component---src-templates-category-jsx",
@@ -171,8 +164,8 @@
         "componentChunkName": "component---src-templates-category-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-another-one.json",
-        "path": "/categories/another-one/"
+        "jsonName": "categories-moar.json",
+        "path": "/categories/moar/"
     },
     {
         "componentChunkName": "component---src-templates-category-jsx",
@@ -180,6 +173,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-tech.json",
         "path": "/categories/tech/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-another-one.json",
+        "path": "/categories/another-one/"
     },
     {
         "componentChunkName": "component---src-templates-category-jsx",
@@ -203,17 +203,17 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-pages-index-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
         "componentChunkName": "component---src-pages-work-with-me-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "work-with-me.json",
         "path": "/work-with-me/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "index.json",
+        "path": "/"
     }
 ]
