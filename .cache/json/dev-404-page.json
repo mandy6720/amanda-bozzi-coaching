@@ -10,17 +10,7 @@
                 },
                 {
                     "node": {
-                        "path": "/big-test"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/bold-mage"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/the-butterfly-of-the-edge"
+                        "path": "/random-project-4-with-super-long-title-phase-one"
                     }
                 },
                 {
@@ -30,12 +20,22 @@
                 },
                 {
                     "node": {
+                        "path": "/bold-mage"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/birch-in-the-roses"
                     }
                 },
                 {
                     "node": {
-                        "path": "/random-project-4-with-super-long-title-phase-one"
+                        "path": "/the-butterfly-of-the-edge"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/big-test"
                     }
                 },
                 {
@@ -55,12 +55,22 @@
                 },
                 {
                     "node": {
+                        "path": "/tags/say-hi/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/tags/test/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/tags/huge/"
+                        "path": "/tags/something/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/tagging/"
                     }
                 },
                 {
@@ -71,6 +81,11 @@
                 {
                     "node": {
                         "path": "/tags/stuff/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/tag/"
                     }
                 },
                 {
@@ -90,22 +105,7 @@
                 },
                 {
                     "node": {
-                        "path": "/tags/something/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/tags/tagging/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/tags/tag/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/tags/say-hi/"
+                        "path": "/tags/huge/"
                     }
                 },
                 {
@@ -115,12 +115,7 @@
                 },
                 {
                     "node": {
-                        "path": "/categories/moar/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/tech/"
+                        "path": "/categories/random/"
                     }
                 },
                 {
@@ -130,7 +125,12 @@
                 },
                 {
                     "node": {
-                        "path": "/categories/random/"
+                        "path": "/categories/tech/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/categories/moar/"
                     }
                 },
                 {

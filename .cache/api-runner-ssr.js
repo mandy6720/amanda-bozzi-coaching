@@ -1,23 +1,23 @@
 var plugins = [{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-remark-autolink-headers/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
       options: {"plugins":[],"trackingId":"UA-110601944-1"},
     },{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-twitter/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-plugin-twitter/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
       options: {"plugins":[],"name":"Amanda Bozzi - Life and Business Coaching for Awesome People","short_name":"Amanda Bozzi - Life and Business Coaching for Awesome People","description":"Life and Business Coaching for Awesome People who are stuck and need a little help.","start_url":"/","background_color":"#F0F8FF","theme_color":"#013243","display":"minimal-ui","icons":[{"src":"/logos/logo-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/logos/logo-512x512.png","sizes":"512x512","type":"image/png"}]},
     },{
-      plugin: require('/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-site/node_modules/gatsby-plugin-feed/gatsby-ssr.js'),
+      plugin: require('/Users/amandabozzi/Desktop/amanda-bozzi-site/node_modules/gatsby-plugin-feed/gatsby-ssr.js'),
       options: {"plugins":[],"query":"\n        {\n          site {\n            siteMetadata {\n              rssMetadata {\n                site_url\n                feed_url\n                title\n                description\n                image_url\n                author\n                copyright\n              }\n            }\n          }\n        }\n      ","feeds":[{"query":"\n            {\n              allMarkdownRemark(\n                limit: 1000,\n                sort: { order: DESC, fields: [frontmatter___date] },\n              ) {\n                edges {\n                  node {\n                    excerpt\n                    html\n                    timeToRead\n                    fields { slug }\n                    frontmatter {\n                      title\n                      cover\n                      date\n                      category\n                      tags\n                    }\n                  }\n                }\n              }\n            }\n          ","output":"/rss.xml"}]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
