@@ -8,8 +8,8 @@ exports.components = {
   "component---src-templates-tag-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx")),
   "component---src-templates-category-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx")),
   "component---src-pages-about-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/about.jsx")),
-  "component---src-pages-work-with-me-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/work-with-me.jsx")),
-  "component---src-pages-index-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/index.jsx"))
+  "component---src-pages-index-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/index.jsx")),
+  "component---src-pages-work-with-me-jsx": preferDefault(require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/work-with-me.jsx"))
 }
 
 exports.json = {
@@ -72,9 +72,9 @@ exports.json = {
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/layout-index.json"),
   "about.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/about.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/layout-index.json"),
-  "work-with-me.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/work-with-me.json"),
+  "index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/index.json"),
   "layout-index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/layout-index.json"),
-  "index.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/index.json")
+  "work-with-me.json": require("/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/json/work-with-me.json")
 }
 
 exports.layouts = {

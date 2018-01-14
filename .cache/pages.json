@@ -203,17 +203,17 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-pages-work-with-me-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "work-with-me.json",
-        "path": "/work-with-me/"
-    },
-    {
         "componentChunkName": "component---src-pages-index-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "index.json",
         "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-work-with-me-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "work-with-me.json",
+        "path": "/work-with-me/"
     }
 ]
