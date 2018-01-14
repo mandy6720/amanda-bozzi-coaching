@@ -145,12 +145,12 @@
                 },
                 {
                     "node": {
-                        "path": "/work-with-me/"
+                        "path": "/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/"
+                        "path": "/work-with-me/"
                     }
                 }
             ]
