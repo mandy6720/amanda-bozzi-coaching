@@ -1,10 +1,10 @@
 [
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
+        "jsonName": "offline-plugin-app-shell-fallback.json",
+        "path": "/offline-plugin-app-shell-fallback/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -12,13 +12,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "angels-of-mist.json",
         "path": "/angels-of-mist"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "random-project-4-with-super-long-title-phase-one.json",
-        "path": "/random-project-4-with-super-long-title-phase-one"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -45,15 +38,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "the-butterfly-of-the-edge.json",
-        "path": "/the-butterfly-of-the-edge"
+        "jsonName": "big-test.json",
+        "path": "/big-test"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "big-test.json",
-        "path": "/big-test"
+        "jsonName": "random-project-4-with-super-long-title-phase-one.json",
+        "path": "/random-project-4-with-super-long-title-phase-one"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "the-butterfly-of-the-edge.json",
+        "path": "/the-butterfly-of-the-edge"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -75,13 +75,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-other.json",
         "path": "/tags/other/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-say-hi.json",
-        "path": "/tags/say-hi/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -129,6 +122,20 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-huge.json",
+        "path": "/tags/huge/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-say-hi.json",
+        "path": "/tags/say-hi/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-more-tags.json",
         "path": "/tags/more-tags/"
     },
@@ -147,25 +154,11 @@
         "path": "/tags/another-one/"
     },
     {
-        "componentChunkName": "component---src-templates-tag-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-huge.json",
-        "path": "/tags/huge/"
-    },
-    {
         "componentChunkName": "component---src-templates-category-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-test-3.json",
         "path": "/categories/test-3/"
-    },
-    {
-        "componentChunkName": "component---src-templates-category-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-random.json",
-        "path": "/categories/random/"
     },
     {
         "componentChunkName": "component---src-templates-category-jsx",
@@ -192,6 +185,13 @@
         "componentChunkName": "component---src-templates-category-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-random.json",
+        "path": "/categories/random/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-something.json",
         "path": "/categories/something/"
     },
@@ -203,17 +203,17 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-pages-index-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
         "componentChunkName": "component---src-pages-work-with-me-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "work-with-me.json",
         "path": "/work-with-me/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "index.json",
+        "path": "/"
     }
 ]
