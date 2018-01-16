@@ -1,16 +1,11 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 30,
+            "totalCount": 31,
             "edges": [
                 {
                     "node": {
                         "path": "/angels-of-mist"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/random-project-4-with-super-long-title-phase-one"
                     }
                 },
                 {
@@ -30,12 +25,17 @@
                 },
                 {
                     "node": {
-                        "path": "/the-butterfly-of-the-edge"
+                        "path": "/big-test"
                     }
                 },
                 {
                     "node": {
-                        "path": "/big-test"
+                        "path": "/random-project-4-with-super-long-title-phase-one"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/the-butterfly-of-the-edge"
                     }
                 },
                 {
@@ -51,11 +51,6 @@
                 {
                     "node": {
                         "path": "/tags/other/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/tags/say-hi/"
                     }
                 },
                 {
@@ -90,6 +85,16 @@
                 },
                 {
                     "node": {
+                        "path": "/tags/huge/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/say-hi/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/tags/more-tags/"
                     }
                 },
@@ -105,17 +110,7 @@
                 },
                 {
                     "node": {
-                        "path": "/tags/huge/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/categories/test-3/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/random/"
                     }
                 },
                 {
@@ -135,12 +130,22 @@
                 },
                 {
                     "node": {
+                        "path": "/categories/random/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/categories/something/"
                     }
                 },
                 {
                     "node": {
                         "path": "/about/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/contact/"
                     }
                 },
                 {

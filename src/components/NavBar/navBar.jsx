@@ -21,6 +21,8 @@ export default ({ children }) =>
       <ListLink to="/">Home</ListLink>
       <ListLink to="/about/">About</ListLink>
       <ListLink to="/work-with-me/">Work With Me</ListLink>
+      {/* <ListLink to="/blog/"><h4>Blog</h4></ListLink> */}
+      <ListLink to="/contact/"><h4>Contact Me</h4></ListLink>
     </ul>
     <Hamburger />
   </header>

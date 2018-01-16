@@ -275,6 +275,27 @@ a, a:hover, a:visited, a:focus {
   list-style: url('../../static/img/scribble-gold2.png');
 }
 
+/* Contact (and other) Form */
+form {
+  width: 100%;
+  max-width: 300px;
+  box-shadow: none;
+  position: relative;
+  
+}
+form input,
+form textarea {
+  margin-bottom: 10px;
+  border: none;
+  width: 100%;
+  padding: 5px;
+}
+
+form input[type="submit"] {
+  background: #1c3144;
+  color: aliceblue;
+}
+
 /* Media Queries */
 
 @media screen and (max-height: 600px) {

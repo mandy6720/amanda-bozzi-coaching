@@ -1,10 +1,10 @@
 [
     {
-        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "componentChunkName": "component---cache-dev-404-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "offline-plugin-app-shell-fallback.json",
-        "path": "/offline-plugin-app-shell-fallback/"
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -201,6 +201,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "about.json",
         "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-contact-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "contact.json",
+        "path": "/contact/"
     },
     {
         "componentChunkName": "component---src-pages-index-jsx",
