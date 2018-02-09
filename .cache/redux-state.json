@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1516126384880,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc23d3b1c3d66e42714ecc740bac9ab8",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1743,16 +1733,14 @@
           "copyright": "Copyright © 2018. Amanda Bozzi"
         }
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-16T18:13:01.184Z",
+      "buildTime": "2018-01-18T23:02:07.066Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7ba2915cd2f7735f8aa67674188ae3d6",
+        "contentDigest": "900987ca8c00a4e02389881db4eca719",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1762,7 +1750,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f043b7127d65c5031663970767b8113b",
+        "contentDigest": "23a99e2d6f11f42ac5e43e0743a98e4f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1773,7 +1761,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-01-14T13:53:06.336Z",
-      "accessTime": "2018-01-16T18:13:04.373Z",
+      "accessTime": "2018-01-18T23:02:10.012Z",
       "changeTime": "2018-01-14T13:53:06.336Z",
       "birthTime": "2018-01-14T13:53:06.334Z",
       "root": "/",
@@ -1791,11 +1779,7 @@
       "blksize": 4194304,
       "ino": 8594823304,
       "blocks": 0,
-      "atimeMs": 1516126384373.01,
-      "mtimeMs": 1515937986336.1987,
-      "ctimeMs": 1515937986336.1987,
-      "birthtimeMs": 1515937986334.3965,
-      "atime": "2018-01-16T18:13:04.373Z",
+      "atime": "2018-01-18T23:02:10.012Z",
       "mtime": "2018-01-14T13:53:06.336Z",
       "ctime": "2018-01-14T13:53:06.336Z",
       "birthtime": "2018-01-14T13:53:06.334Z"
@@ -1805,7 +1789,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "308265ff54ca018e6571ce6b102a7875",
+        "contentDigest": "475ade5d1dd8bc34674610c651c362ec",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1815,10 +1799,10 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-01-14T13:53:06.335Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
-      "changeTime": "2018-01-14T13:53:06.335Z",
-      "birthTime": "2018-01-14T13:53:06.335Z",
+      "modifiedTime": "2018-01-14T13:53:06.334Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
+      "changeTime": "2018-01-14T13:53:06.334Z",
+      "birthTime": "2018-01-14T13:53:06.334Z",
       "root": "/",
       "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts",
       "base": "01-02-2017",
@@ -1834,21 +1818,17 @@
       "blksize": 4194304,
       "ino": 8594823307,
       "blocks": 0,
-      "atimeMs": 1516126384385.1401,
-      "mtimeMs": 1515937986334.7502,
-      "ctimeMs": 1515937986334.7502,
-      "birthtimeMs": 1515937986334.6873,
-      "atime": "2018-01-16T18:13:04.385Z",
-      "mtime": "2018-01-14T13:53:06.335Z",
-      "ctime": "2018-01-14T13:53:06.335Z",
-      "birthtime": "2018-01-14T13:53:06.335Z"
+      "atime": "2018-01-18T23:02:10.018Z",
+      "mtime": "2018-01-14T13:53:06.334Z",
+      "ctime": "2018-01-14T13:53:06.334Z",
+      "birthtime": "2018-01-14T13:53:06.334Z"
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/01-01-2017 absPath of file": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/01-01-2017 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c6efb4c2db67aaa5a66d7ab09010991d",
+        "contentDigest": "f8451dbc4cbf392fcf6e3c6d2210cc6f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1858,9 +1838,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-01-14T13:53:06.335Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
-      "changeTime": "2018-01-14T13:53:06.335Z",
+      "modifiedTime": "2018-01-14T13:53:06.334Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
+      "changeTime": "2018-01-14T13:53:06.334Z",
       "birthTime": "2018-01-14T13:53:06.334Z",
       "root": "/",
       "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts",
@@ -1877,13 +1857,9 @@
       "blksize": 4194304,
       "ino": 8594823305,
       "blocks": 0,
-      "atimeMs": 1516126384385.0806,
-      "mtimeMs": 1515937986334.5183,
-      "ctimeMs": 1515937986334.5183,
-      "birthtimeMs": 1515937986334.44,
-      "atime": "2018-01-16T18:13:04.385Z",
-      "mtime": "2018-01-14T13:53:06.335Z",
-      "ctime": "2018-01-14T13:53:06.335Z",
+      "atime": "2018-01-18T23:02:10.018Z",
+      "mtime": "2018-01-14T13:53:06.334Z",
+      "ctime": "2018-01-14T13:53:06.334Z",
       "birthtime": "2018-01-14T13:53:06.334Z"
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/01-07-2017-Big_Sample_Post absPath of file": {
@@ -1891,7 +1867,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "00d2732c427f59d02669510a0a922300",
+        "contentDigest": "d0c2f7f462c4170e6b1570ead5957e21",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1902,7 +1878,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-01-14T13:53:06.335Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
       "changeTime": "2018-01-14T13:53:06.335Z",
       "birthTime": "2018-01-14T13:53:06.335Z",
       "root": "/",
@@ -1920,11 +1896,7 @@
       "blksize": 4194304,
       "ino": 8594823311,
       "blocks": 0,
-      "atimeMs": 1516126384385.0977,
-      "mtimeMs": 1515937986335.3262,
-      "ctimeMs": 1515937986335.3262,
-      "birthtimeMs": 1515937986335.2659,
-      "atime": "2018-01-16T18:13:04.385Z",
+      "atime": "2018-01-18T23:02:10.018Z",
       "mtime": "2018-01-14T13:53:06.335Z",
       "ctime": "2018-01-14T13:53:06.335Z",
       "birthtime": "2018-01-14T13:53:06.335Z"
@@ -1934,7 +1906,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8352f67eacc48d46eef21ac6e1dbd4a5",
+        "contentDigest": "fb2166b56e23c3810a363f10a24209e6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1945,7 +1917,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-01-14T13:53:06.335Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
       "changeTime": "2018-01-14T13:53:06.335Z",
       "birthTime": "2018-01-14T13:53:06.335Z",
       "root": "/",
@@ -1963,11 +1935,7 @@
       "blksize": 4194304,
       "ino": 8594823309,
       "blocks": 0,
-      "atimeMs": 1516126384385.122,
-      "mtimeMs": 1515937986335.0989,
-      "ctimeMs": 1515937986335.0989,
-      "birthtimeMs": 1515937986335.0205,
-      "atime": "2018-01-16T18:13:04.385Z",
+      "atime": "2018-01-18T23:02:10.018Z",
       "mtime": "2018-01-14T13:53:06.335Z",
       "ctime": "2018-01-14T13:53:06.335Z",
       "birthtime": "2018-01-14T13:53:06.335Z"
@@ -1977,7 +1945,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "130b69225157d98e2bd372a8bb24172c",
+        "contentDigest": "9004d48cb98d07324278ce936f22d0c4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1987,10 +1955,10 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-01-14T13:53:06.336Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
-      "changeTime": "2018-01-14T13:53:06.336Z",
-      "birthTime": "2018-01-14T13:53:06.336Z",
+      "modifiedTime": "2018-01-14T13:53:06.335Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
+      "changeTime": "2018-01-14T13:53:06.335Z",
+      "birthTime": "2018-01-14T13:53:06.335Z",
       "root": "/",
       "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts",
       "base": "02-03-2017",
@@ -2006,21 +1974,17 @@
       "blksize": 4194304,
       "ino": 8594823313,
       "blocks": 0,
-      "atimeMs": 1516126384385.185,
-      "mtimeMs": 1515937986335.5862,
-      "ctimeMs": 1515937986335.5862,
-      "birthtimeMs": 1515937986335.524,
-      "atime": "2018-01-16T18:13:04.385Z",
-      "mtime": "2018-01-14T13:53:06.336Z",
-      "ctime": "2018-01-14T13:53:06.336Z",
-      "birthtime": "2018-01-14T13:53:06.336Z"
+      "atime": "2018-01-18T23:02:10.018Z",
+      "mtime": "2018-01-14T13:53:06.335Z",
+      "ctime": "2018-01-14T13:53:06.335Z",
+      "birthtime": "2018-01-14T13:53:06.335Z"
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/02-04-2017 absPath of file": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/02-04-2017 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2f2eafbc1cfb27f1d77b763073f41c6f",
+        "contentDigest": "24e1b57c6edb251838376ce6d12bef46",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2030,10 +1994,10 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-01-14T13:53:06.336Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
-      "changeTime": "2018-01-14T13:53:06.336Z",
-      "birthTime": "2018-01-14T13:53:06.336Z",
+      "modifiedTime": "2018-01-14T13:53:06.335Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
+      "changeTime": "2018-01-14T13:53:06.335Z",
+      "birthTime": "2018-01-14T13:53:06.335Z",
       "root": "/",
       "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts",
       "base": "02-04-2017",
@@ -2049,21 +2013,17 @@
       "blksize": 4194304,
       "ino": 8594823315,
       "blocks": 0,
-      "atimeMs": 1516126384385.1653,
-      "mtimeMs": 1515937986335.8108,
-      "ctimeMs": 1515937986335.8108,
-      "birthtimeMs": 1515937986335.7502,
-      "atime": "2018-01-16T18:13:04.385Z",
-      "mtime": "2018-01-14T13:53:06.336Z",
-      "ctime": "2018-01-14T13:53:06.336Z",
-      "birthtime": "2018-01-14T13:53:06.336Z"
+      "atime": "2018-01-18T23:02:10.018Z",
+      "mtime": "2018-01-14T13:53:06.335Z",
+      "ctime": "2018-01-14T13:53:06.335Z",
+      "birthtime": "2018-01-14T13:53:06.335Z"
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/17-03-2017 absPath of file": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/17-03-2017 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fefe7cd86df290e36ecb1a6b7c6e3c28",
+        "contentDigest": "775c2632da47476e74160bdb2c781a62",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2074,9 +2034,9 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-01-14T13:53:06.336Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
       "changeTime": "2018-01-14T13:53:06.336Z",
-      "birthTime": "2018-01-14T13:53:06.336Z",
+      "birthTime": "2018-01-14T13:53:06.335Z",
       "root": "/",
       "dir": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts",
       "base": "17-03-2017",
@@ -2092,21 +2052,17 @@
       "blksize": 4194304,
       "ino": 8594823317,
       "blocks": 0,
-      "atimeMs": 1516126384385.2285,
-      "mtimeMs": 1515937986336.0315,
-      "ctimeMs": 1515937986336.0315,
-      "birthtimeMs": 1515937986335.97,
-      "atime": "2018-01-16T18:13:04.385Z",
+      "atime": "2018-01-18T23:02:10.018Z",
       "mtime": "2018-01-14T13:53:06.336Z",
       "ctime": "2018-01-14T13:53:06.336Z",
-      "birthtime": "2018-01-14T13:53:06.336Z"
+      "birthtime": "2018-01-14T13:53:06.335Z"
     },
     "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/23-03-2017 absPath of file": {
       "id": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/content/sample-posts/23-03-2017 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e63daa1d08ee1dc5d95a4df0b9d01929",
+        "contentDigest": "e5a1514c01701f8cfda2ce618dc27eff",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2117,7 +2073,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-01-14T13:53:06.336Z",
-      "accessTime": "2018-01-16T18:13:04.385Z",
+      "accessTime": "2018-01-18T23:02:10.018Z",
       "changeTime": "2018-01-14T13:53:06.336Z",
       "birthTime": "2018-01-14T13:53:06.336Z",
       "root": "/",
@@ -2135,11 +2091,7 @@
       "blksize": 4194304,
       "ino": 8594823319,
       "blocks": 0,
-      "atimeMs": 1516126384385.2085,
-      "mtimeMs": 1515937986336.2515,
-      "ctimeMs": 1515937986336.2515,
-      "birthtimeMs": 1515937986336.1897,
-      "atime": "2018-01-16T18:13:04.385Z",
+      "atime": "2018-01-18T23:02:10.018Z",
       "mtime": "2018-01-14T13:53:06.336Z",
       "ctime": "2018-01-14T13:53:06.336Z",
       "birthtime": "2018-01-14T13:53:06.336Z"
@@ -2753,6 +2705,27 @@
         "slug": "/the-fairys-witches"
       }
     },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "updatedAt": 1516316530447,
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ec4df67d3dea02c003d83bf491c67ef2",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /angels-of-mist": {
       "layout": "index",
       "jsonName": "angels-of-mist.json",
@@ -2763,7 +2736,7 @@
       "context": {
         "slug": "/angels-of-mist"
       },
-      "updatedAt": 1516126384899,
+      "updatedAt": 1516316530473,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2772,7 +2745,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a4a524798f83e70b89e8ed077874bc82",
+        "contentDigest": "096dff6dcaede810c6b2e6cbdd53fabf",
         "owner": "internal-data-bridge"
       }
     },
@@ -2786,7 +2759,7 @@
       "context": {
         "slug": "/the-fallen-time"
       },
-      "updatedAt": 1516126384899,
+      "updatedAt": 1516316530474,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2795,7 +2768,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f7feae4ba9e33654ff270368fef05aa2",
+        "contentDigest": "bf95ee3f8520b38aa848176129da1c7d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2809,7 +2782,7 @@
       "context": {
         "slug": "/bold-mage"
       },
-      "updatedAt": 1516126384900,
+      "updatedAt": 1516316530474,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2818,7 +2791,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "48fafd6e875f9c174e3c9711072ed9ea",
+        "contentDigest": "4cd62775dfd9261f68283569c9b0623f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2832,7 +2805,7 @@
       "context": {
         "slug": "/birch-in-the-roses"
       },
-      "updatedAt": 1516126384900,
+      "updatedAt": 1516316530475,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2841,7 +2814,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1d7f7db9bfdda2d8c78b6fcaabc44962",
+        "contentDigest": "474373b728a6deaa5313738103aa7029",
         "owner": "internal-data-bridge"
       }
     },
@@ -2855,7 +2828,7 @@
       "context": {
         "slug": "/big-test"
       },
-      "updatedAt": 1516126384901,
+      "updatedAt": 1516316530475,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2864,7 +2837,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7683b02d67411d2366969b30cd25c3f8",
+        "contentDigest": "5fbd5f9bd8075e0ca85df4b4f60e05a7",
         "owner": "internal-data-bridge"
       }
     },
@@ -2878,7 +2851,7 @@
       "context": {
         "slug": "/random-project-4-with-super-long-title-phase-one"
       },
-      "updatedAt": 1516126384901,
+      "updatedAt": 1516316530478,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2887,7 +2860,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac2adf8271bb6646de493d519c81cdc2",
+        "contentDigest": "4b3c00cbdf59c463651411cc47b14f99",
         "owner": "internal-data-bridge"
       }
     },
@@ -2901,7 +2874,7 @@
       "context": {
         "slug": "/the-butterfly-of-the-edge"
       },
-      "updatedAt": 1516126384901,
+      "updatedAt": 1516316530478,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2910,7 +2883,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72261db9d98b118d02e07032886b4f46",
+        "contentDigest": "61749eed266574dbb95266d7602b9705",
         "owner": "internal-data-bridge"
       }
     },
@@ -2924,7 +2897,7 @@
       "context": {
         "slug": "/the-fairys-witches"
       },
-      "updatedAt": 1516126384902,
+      "updatedAt": 1516316530479,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/post.jsx",
@@ -2933,7 +2906,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e85c0d267d8117edda975881d0e4a3a",
+        "contentDigest": "4c785ace7f5e31d764749ff16f2032ed",
         "owner": "internal-data-bridge"
       }
     },
@@ -2947,7 +2920,7 @@
       "context": {
         "tag": "cheese"
       },
-      "updatedAt": 1516126384902,
+      "updatedAt": 1516316530487,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -2956,7 +2929,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5507e36f9d06337c8ff5423df5378bf3",
+        "contentDigest": "9e4340f7f41d3351e9fcf1f020f5d96c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2970,7 +2943,7 @@
       "context": {
         "tag": "other"
       },
-      "updatedAt": 1516126384903,
+      "updatedAt": 1516316530488,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -2979,7 +2952,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5d535a6bbc7e09b0ca93f7a258605a3d",
+        "contentDigest": "05834a5284e4374f8387fadc6c4ad3a2",
         "owner": "internal-data-bridge"
       }
     },
@@ -2993,7 +2966,7 @@
       "context": {
         "tag": "test"
       },
-      "updatedAt": 1516126384903,
+      "updatedAt": 1516316530488,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3002,7 +2975,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d520d19fb3c9210d05ce436e49096181",
+        "contentDigest": "3bb2214891fe1babd2025e668d5bab00",
         "owner": "internal-data-bridge"
       }
     },
@@ -3016,7 +2989,7 @@
       "context": {
         "tag": "something"
       },
-      "updatedAt": 1516126384904,
+      "updatedAt": 1516316530489,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3025,7 +2998,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "addce6ae12d846113b32b429cc992d87",
+        "contentDigest": "350004def6b4e2753fe0eee8440b158b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3039,7 +3012,7 @@
       "context": {
         "tag": "tagging"
       },
-      "updatedAt": 1516126384907,
+      "updatedAt": 1516316530490,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3048,7 +3021,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "563aa58a8adac70b5ddbcc9f37512b56",
+        "contentDigest": "84f231d20c73a724859536300b5482b7",
         "owner": "internal-data-bridge"
       }
     },
@@ -3062,7 +3035,7 @@
       "context": {
         "tag": "programming"
       },
-      "updatedAt": 1516126384908,
+      "updatedAt": 1516316530490,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3071,7 +3044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ef8721d5905ce774312a21bb8194cb65",
+        "contentDigest": "f060fc87319aefbee0d11925b7815787",
         "owner": "internal-data-bridge"
       }
     },
@@ -3085,7 +3058,7 @@
       "context": {
         "tag": "stuff"
       },
-      "updatedAt": 1516126384908,
+      "updatedAt": 1516316530491,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3094,7 +3067,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b3975da1c16246ef5e9196881636f90e",
+        "contentDigest": "857f813f8853cd5e342543036e22f8cf",
         "owner": "internal-data-bridge"
       }
     },
@@ -3108,7 +3081,7 @@
       "context": {
         "tag": "tag"
       },
-      "updatedAt": 1516126384909,
+      "updatedAt": 1516316530491,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3117,7 +3090,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9fc8c178f74ff41df173e357a9586a3d",
+        "contentDigest": "066d604a121ead6b3e5e50ca9587e4af",
         "owner": "internal-data-bridge"
       }
     },
@@ -3131,7 +3104,7 @@
       "context": {
         "tag": "huge"
       },
-      "updatedAt": 1516126384909,
+      "updatedAt": 1516316530492,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3140,7 +3113,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "62f4e47d055e3efadce4765624cc9730",
+        "contentDigest": "4ea806423f0f91ab48aab9d437606e24",
         "owner": "internal-data-bridge"
       }
     },
@@ -3154,7 +3127,7 @@
       "context": {
         "tag": "say hi"
       },
-      "updatedAt": 1516126384909,
+      "updatedAt": 1516316530493,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3163,7 +3136,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "05e285f996c95614316974bc5234bc7f",
+        "contentDigest": "b29b4a4758ec247739377cd5034f8101",
         "owner": "internal-data-bridge"
       }
     },
@@ -3177,7 +3150,7 @@
       "context": {
         "tag": "more tags"
       },
-      "updatedAt": 1516126384910,
+      "updatedAt": 1516316530493,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3186,7 +3159,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "74fd3fe74e97fd4501f33958fb321bf6",
+        "contentDigest": "d14088bc0c3ae41c62bba829f24286dc",
         "owner": "internal-data-bridge"
       }
     },
@@ -3200,7 +3173,7 @@
       "context": {
         "tag": "testing"
       },
-      "updatedAt": 1516126384912,
+      "updatedAt": 1516316530494,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3209,7 +3182,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "99bc694032df64a3f658ab0db9cb9c04",
+        "contentDigest": "26bf6592763e40e2b655253ce655f44f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3223,7 +3196,7 @@
       "context": {
         "tag": "another one"
       },
-      "updatedAt": 1516126384912,
+      "updatedAt": 1516316530495,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/tag.jsx",
@@ -3232,7 +3205,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "91f86387b5f6c3c6fe77c81ed3004f59",
+        "contentDigest": "3e008f5f7900ea6477269bd7ecd64830",
         "owner": "internal-data-bridge"
       }
     },
@@ -3246,7 +3219,7 @@
       "context": {
         "category": "test3"
       },
-      "updatedAt": 1516126384913,
+      "updatedAt": 1516316530495,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx",
@@ -3255,7 +3228,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3061114f64de8e4fd684fe983d47f63d",
+        "contentDigest": "b9c09b31f9782ee7008f5e2463a89d05",
         "owner": "internal-data-bridge"
       }
     },
@@ -3269,7 +3242,7 @@
       "context": {
         "category": "another one"
       },
-      "updatedAt": 1516126384914,
+      "updatedAt": 1516316530496,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx",
@@ -3278,7 +3251,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f9376997ccb72cb23947c07978346da7",
+        "contentDigest": "cca8f200520c2d724b92aa745413c6a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3292,7 +3265,7 @@
       "context": {
         "category": "tech"
       },
-      "updatedAt": 1516126384914,
+      "updatedAt": 1516316530496,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx",
@@ -3301,7 +3274,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb500ff8181e26783184f77b1664e508",
+        "contentDigest": "1f7409fb6df5da90718243b0ddf78092",
         "owner": "internal-data-bridge"
       }
     },
@@ -3315,7 +3288,7 @@
       "context": {
         "category": "moar"
       },
-      "updatedAt": 1516126384915,
+      "updatedAt": 1516316530497,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx",
@@ -3324,7 +3297,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9a8e6dff043f1d984df74c094d52e4b8",
+        "contentDigest": "d9807da197af07cc52686c22b0d69d4e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3338,7 +3311,7 @@
       "context": {
         "category": "random"
       },
-      "updatedAt": 1516126384916,
+      "updatedAt": 1516316530497,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx",
@@ -3347,7 +3320,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3f7ba712aceaa9e239fb6fccbd131393",
+        "contentDigest": "a7a12b9ca6d8b60f7c519ff79b0faa28",
         "owner": "internal-data-bridge"
       }
     },
@@ -3361,7 +3334,7 @@
       "context": {
         "category": "something"
       },
-      "updatedAt": 1516126384916,
+      "updatedAt": 1516316530498,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/templates/category.jsx",
@@ -3370,7 +3343,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b17a9e03e26893ee97e5ac91398aa607",
+        "contentDigest": "e6d3ce761f252bc4d779437073c3536f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3382,7 +3355,7 @@
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
-      "updatedAt": 1516126384946,
+      "updatedAt": 1516316530549,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/about.jsx",
@@ -3391,7 +3364,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3260f3c8e993a38de40d663a8ae7d3be",
+        "contentDigest": "10d2aec177bb6e4808d977b0594c6e55",
         "owner": "internal-data-bridge"
       }
     },
@@ -3403,7 +3376,7 @@
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/contact.jsx",
       "componentChunkName": "component---src-pages-contact-jsx",
       "context": {},
-      "updatedAt": 1516126384946,
+      "updatedAt": 1516316530550,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/contact.jsx",
@@ -3412,7 +3385,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8614d6731d27371d6ba8141c176f4b5d",
+        "contentDigest": "3d9f31ccb7706681e8743443f65d2299",
         "owner": "internal-data-bridge"
       }
     },
@@ -3424,7 +3397,7 @@
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1516126384947,
+      "updatedAt": 1516316530551,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/index.jsx",
@@ -3433,7 +3406,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "06b711c4ee6d5ee5fa1884f783295ef5",
+        "contentDigest": "63a3376c65635274e96306e4086179f4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3445,7 +3418,7 @@
       "component": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/work-with-me.jsx",
       "componentChunkName": "component---src-pages-work-with-me-jsx",
       "context": {},
-      "updatedAt": 1516126384950,
+      "updatedAt": 1516316530551,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/amandabozzi/Desktop/myStuff/amanda-bozzi-coaching/src/pages/work-with-me.jsx",
@@ -3454,7 +3427,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c6c2db481c5ed4436058f9ba87aa46e",
+        "contentDigest": "a4439a85f9cfcbe88c971a62e0df610f",
         "owner": "internal-data-bridge"
       }
     }
